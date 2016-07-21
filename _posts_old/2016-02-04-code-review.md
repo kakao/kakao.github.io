@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "카카오스토리 팀의 코드 리뷰 도입 사례 - 코드 리뷰, 어디까지 해봤니?"
-author: bongjun.hur
+author: steve.ahn
 date: 2016-02-04 13:11
 tags: [code-review]
 image: /files/covers/codereview.jpg
