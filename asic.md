@@ -10,7 +10,8 @@ tags: [ASIC]
 
 ## Verilog
 
-* [테스트 벤치, SystemVerilog](http://www.testbench.in/)
+* [http://www.testbench.in/](http://www.testbench.in/) - 테스트 벤치, SystemVerilog
+* [Verilog 설계 팁](http://ts.devbj.com/226) - IDEC 2012 한글자료
 
 
 ### [티스토리](http://www.tistory.com/guide/blog)
@@ -28,4 +29,4 @@ tags: [ASIC]
 -->
 
 ---
-문의: [{{ email }}](mailto:{{ email }})
+문의: [{{ site.email }}](mailto:{{ site.email }})
