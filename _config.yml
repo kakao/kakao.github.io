@@ -54,7 +54,7 @@ asset_url: /assets
 #asset_url: //meta-kage.kakaocdn.net/dn/osa/blog/assets
 #asset_url: //t1.daumcdn.net/osa/blog/assets
 google_analytics:
-  ua: ''
+  ua: 'UA-54433728-4'
 #  ua: 'UA-72007721-1'
 #facebook:
 #  app_id: '1030557850293450'
