@@ -1,11 +1,13 @@
 ---
 layout: post
-title: 'kakao 기술 블로그가 GitHub Pages로 간 까닭은'
+title: '글 템플릿 참고 - kakao 기술 블로그가 GitHub Pages로 간 까닭은'
 author: bongjun.hur
 date: 2016-07-07 15:25
 tags: [github-pages,jekyll,static-site-generator]
 image: /files/covers/blog.jpg
 ---
+아래 글은 제가 작성한 글이 아니라, 연습용으로 내용만 그냥 둔 상태입니다. 연습이 끝나면 삭제합니다.
+
 kakao 기술 블로그는 올해 초 [Ghost] 블로깅 플랫폼을 사용해서 오픈했으나,
 최근 [GitHub Pages]와 [Jekyll]으로 바뀌었습니다.
 이 글에서는 kakao 기술 블로그를 [GitHub Pages]로 옮기면서 [Jekyll]에 위해 추가한
@@ -13,6 +15,7 @@ kakao 기술 블로그는 올해 초 [Ghost] 블로깅 플랫폼을 사용해서
 <!--more-->
 
 ## Prologue
+아래 글은 제가 작성한 글이 아니라, 연습용으로 내용만 그냥 둔 상태입니다. 연습이 끝나면 삭제합니다.
 
 <img src="http://item.kakaocdn.net/do/-26p06+UqCd0OAgiRHNZwHaq4FJCveCBKCNZV-bZscw_/89caada5a1ddde2795b892cae089b4da1667fc7b08261b4c493670baa83d5cb9" class="hcenter"/>
 

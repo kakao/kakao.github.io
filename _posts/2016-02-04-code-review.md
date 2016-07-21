@@ -1,11 +1,14 @@
 ---
 layout: post
-title: "카카오스토리 팀의 코드 리뷰 도입 사례 - 코드 리뷰, 어디까지 해봤니?"
+title: "글 작성 연습용입니다. 카카오스토리 팀의 코드 리뷰 도입...?"
 author: bongjun.hur
 date: 2016-02-04 13:11
 tags: [code-review]
 image: /files/covers/codereview.jpg
 ---
+
+아래 글은 제가 작성한 글이 아니라, 연습용으로 내용만 그냥 둔 상태입니다. 연습이 끝나면 삭제합니다.
+
 >얼마 전, 렘(Realm)의 기술 블로그에 올라온 [코드리뷰, Github로 바로 적용하기 - Realm에서의 코드리뷰 소개](https://realm.io/kr/news/codereview-howto/)라는 글이 많이 회자되었죠.
 >
 >카카오는 어떻게 하고 있을까~ 궁금해서 수소문을 했더니, 사내에서도 깃헙 잘 쓰기로 소문 난 **카카오스토리 웹 클라이언트팀**은 코드 리뷰도 잘하더군요 @..@
