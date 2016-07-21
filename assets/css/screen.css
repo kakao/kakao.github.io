@@ -189,7 +189,8 @@ for small screen(<720px):
     height: 60px;
     margin: 0 0;
     padding: 0;
-    background: url(../images/pc/tech_logo.png) no-repeat center;
+    background: url(../images/pc/logo.png) no-repeat center;
+//    background: url(../images/pc/tech_logo.png) no-repeat center;
     background-size: 123px 21px;
 }
 
@@ -1145,7 +1146,8 @@ body.page-template {
         top: 0;
         height: 50px;
         margin: 0 auto;
-        background-image: url(../images/mo/tech_logo.png);
+        background-image: url(../images/mo/logo.png);
+//        background-image: url(../images/mo/tech_logo.png);
         background-size: 99px 17px;
     }
 
@@ -1514,7 +1516,8 @@ body.page-template {
     }
 
     #logo {
-        background-image: url(../images/mo/tech_logo@2x.png);
+        background-image: url(../images/mo/logo@2x.png);
+//        background-image: url(../images/mo/tech_logo@2x.png);
     }
 
     #menu-toggle {
@@ -1594,7 +1597,8 @@ body.page-template {
     }
 
     #logo {
-        background-image: url(../images/mo/tech_logo@3x.png);
+        background-image: url(../images/mo/logo@3x.png);
+//        background-image: url(../images/mo/tech_logo@3x.png);
     }
 
     #menu-toggle {
