@@ -185,13 +185,16 @@ for small screen(<720px):
     position: absolute;
     top: 0;
     left: 30px;
-    width: 123px;
-    height: 60px;
+//    width: 123px;
+    width: 64px;
+    height: 64px;
+//    height: 60px;
     margin: 0 0;
     padding: 0;
     background: url(../images/pc/logo.png) no-repeat center;
+    background-size: 64px 64px;
 //    background: url(../images/pc/tech_logo.png) no-repeat center;
-    background-size: 123px 21px;
+//    background-size: 123px 21px;
 }
 
 #menu {
@@ -1147,8 +1150,9 @@ body.page-template {
         height: 50px;
         margin: 0 auto;
         background-image: url(../images/mo/logo.png);
+        background-size: 22px 22px;
 //        background-image: url(../images/mo/tech_logo.png);
-        background-size: 99px 17px;
+//        background-size: 99px 17px;
     }
 
     #menu {
