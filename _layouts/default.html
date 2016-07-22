@@ -37,5 +37,16 @@
     {% include google_plus_sdk.html %}
 {% endif %}
 
+{% if site.google_adsense %}
+<script>
+var adn = jQuery('.adsbygoogle').length;
+if (adn > 0) {
+    for(var i=0; i<adn; i++) {
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    }
+}
+</script>
+{% endif %}
+
 </body>
 </html>
