@@ -56,9 +56,9 @@ asset_url: /assets
 google_analytics:
   ua: 'UA-54433728-4'
 #  ua: 'UA-72007721-1'
-#facebook:
+facebook:
 #  app_id: '1030557850293450'
-#  username: bongjunhur
+  username: bongjunhur
 twitter:
   username: BongjunHur
 google_plus:
