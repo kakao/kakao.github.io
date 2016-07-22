@@ -13,6 +13,9 @@ tags: [ASIC]
 * [http://www.testbench.in/](http://www.testbench.in/) - 테스트 벤치, SystemVerilog
 * [Verilog 설계 팁](http://ts.devbj.com/226) - IDEC 2012 한글자료
 
+## Synopsys
+* [set_false_path/set_case_analysis](http://ts.devbj.com/219) 알아보자.
+
 
 ### [티스토리](http://www.tistory.com/guide/blog)
 
