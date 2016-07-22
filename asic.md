@@ -1,11 +1,17 @@
 ---
 layout: page
 title: ASIC, SoC, 반도체, 설계 관련 글 모음
-image: /files/covers/asic.png
+image: /files/covers/clock.jpg
+cover:
+  title: 'Clock'
+  link: https://pixabay.com/photo-1274699/
+  author:
+    name: 'Monoar'
+    link: https://pixabay.com/ko/users/Monoar-2240009/
 permalink: /asic/
 sitemap: yes
 excerpt: ASIC, SoC, 반도체, 설계 관련 글을 모아두는 곳입니다. 계속 업데이트 됩니다.
-tags: [ASIC]
+tags: [ASIC, SoC, 반도체, 설계, Synopsys, Cadence]
 ---
 
 ## Verilog
@@ -26,10 +32,6 @@ tags: [ASIC]
   - [카테고리](http://www.tistory.com/guide/api/category)
   - [댓글](http://www.tistory.com/guide/api/comment)
   - [방명록](http://www.tistory.com/guide/api/guestbook)
-
-<!--
-* 커버 이미지 출처: [API Testing and some amazing testing tools](http://go-gaga-over-testing.blogspot.kr/2013/11/api-testing-and-some-amazing-testing.html)
--->
 
 ---
 문의: [{{ site.email }}](mailto:{{ site.email }})
