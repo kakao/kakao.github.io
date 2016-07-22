@@ -1,0 +1,18 @@
+---
+layout: post
+title: "지킬 블로그 만들기 - jekyll, github, github pages"
+author: bongjun.hur
+date: 2016-07-21 13:11
+tags: [blog][jekyll]
+image: /files/covers/codereview.jpg
+---
+
+만들면서 참고한 글들만 정리해 본다.
+
+### 지킬 기반의 블로그
+
+ - [카카오 기술 블로그](http://tech.kakao.com/) - 베껴오고 있음. 개인적으로 css 이런것도 만지기 힘든데. 이렇게 바꿔서 쓰도 되는 것인가????
+ - http://blog.appkr.kr/에서 [블로그 플랫폼 이전 1](http://blog.appkr.kr/work-n-play/%EB%B8%94%EB%A1%9C%EA%B7%B8-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EC%9D%B4%EC%A0%84-1-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C%EC%84%9C%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%82%B6/)
+ 
+
+* 커버 이미지 출처: [Joe O'Brien and Jim Weirich: Edgecase dialog: Ruby Code Review](https://www.flickr.com/photos/fraserspeirs/3394902061) &copy; [Fraser Speirs](https://www.flickr.com/photos/fraserspeirs)
