@@ -5,6 +5,12 @@ author: bongjun.hur
 date: 2016-07-21 13:11
 tags: [blog,jekyll]
 image: /files/covers/codereview.jpg
+cover:
+  title: 'Joe O'Brien and Jim Weirich: Edgecase dialog: Ruby Code Review'
+  link: https://www.flickr.com/photos/fraserspeirs/3394902061
+  author:
+    name: 'Fraser Speirs'
+    link: https://www.flickr.com/photos/fraserspeirs)
 ---
 
 만들면서 참고한 글들만 정리해 본다.
@@ -18,6 +24,7 @@ image: /files/covers/codereview.jpg
 	- 자세한설명, 따라하기 좋다.
  - [SCV君's LifeLog : 이글루에 구글 맞춤검색창 달기](scvlife.kr/3408831) - 현재 페이지에 적용된 내용.
 
+## 리소스
+ - [무료이미지 Pixabay](https://pixabay.com/) - 커버이미지, 글 이미지 등등 편하게 무료로
 
  
-* 커버 이미지 출처: [Joe O'Brien and Jim Weirich: Edgecase dialog: Ruby Code Review](https://www.flickr.com/photos/fraserspeirs/3394902061) &copy; [Fraser Speirs](https://www.flickr.com/photos/fraserspeirs)
