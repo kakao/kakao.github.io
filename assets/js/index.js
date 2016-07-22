@@ -37,10 +37,12 @@
         });
 
         $('#search').submit(function (e) {
+/*
             e.preventDefault();
             var q = $('#searchQueryEdit').val();
             var url = 'http://search.daum.net/search?q=' + encodeURIComponent(q + ' site:devbj.com');
             window.open(url, '', '_blank');
+*/
         });
 
         $(window).scroll(function () {
