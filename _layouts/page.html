@@ -9,10 +9,10 @@ layout: default
 		{% include cover_link.html cover=page.cover %}
     </div>
 </div>
+<div id="content" class="container">
 {% if site.google_adsense %}
 		{% include google_adsense.html %}
 {% endif %}
-<div id="content" class="container">
     <div id="post-content" class="post page" role="main">
         {{ content }}
     </div>

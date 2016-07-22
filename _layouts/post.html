@@ -21,6 +21,9 @@ layout: default
 </div>
 
 <div id="content" class="container post" role="main">
+{% if site.google_adsense %}
+		{% include google_adsense.html %}
+{% endif %}
     <div id="post-content">{{ content }}</div>
     <div id="post-footer">
         {% assign author = site.authors | where: 'name', page.author | first %}
