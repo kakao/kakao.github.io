@@ -8,6 +8,8 @@ layout: home
 </ul>
 {% include pagination.html %}
 
+<!-- 동작확인은 함. 년도별로 간단한 리스트 출력 가능 -->
+<!--
 <div id="blog-archives">
 {% assign posts_by_date = site.posts |sort: 'date last' %}
 {% for post in posts_by_date %}{% assign ym = post.date |date: "%Y" %}
@@ -24,3 +26,4 @@ layout: home
   {% if forloop.last %}</ul>{% endif %}{% assign p_ym = ym %}
 {% endfor %}
 </div>
+-->
