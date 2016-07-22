@@ -8,27 +8,9 @@
     <a id="logo" href="/">
         <span class="sr-only">DevBJ Home</span>
     </a>
-	<span id="search">
-<span>
-<script>
-  (function() {
-    var cx = '003569106173980397583:byrd7c4rzzy';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  })();
-</script>
-<gcse:search></gcse:search>
-</span>
-</span>
-<!--
     <form id="search">
         <input id="searchQueryEdit" name="q" type="search" placeholder="Search..." value="" />
     </form>
--->
     <ul id="menu" class="nav">
         <li class="{% if page.url != '/opensource/' and page.url != '/openapi/' %} active {% endif %}"><a href="{{ base_path }}/">블로그</a></li>
         <li class="{% if page.url == '/asic/' %} active {% endif %}"><a href="{{ base_path }}/asic/">ASIC설계</a></li>
