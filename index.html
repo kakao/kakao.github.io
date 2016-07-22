@@ -7,3 +7,20 @@ layout: home
     {% endfor %}
 </ul>
 {% include pagination.html %}
+
+<div id="blog-archives">
+{% assign posts_by_date = site.posts |sort: 'date last' %}
+{% for post in posts_by_date %}{% assign ym = post.date |date: "%Y" %}
+	{% assign cat_id = post.categories |last |downcase %}
+	{% assign cat = site.data['categories'] |where: "id", cat_id |first  %}
+  {% if forloop.first %}<h3>{{ ym }}</h3>
+  <ul class="posts">{% elsif ym != p_ym %}</ul>
+  <h3>{{ ym }}</h3>
+  <ul class="posts">
+  {% endif %}
+    <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+      <span class="meta pull-right"><a href="/categories/{{ cat.id }}.html"
+        >{{ cat.name }}</a>, {{ post.date |date: "%F" }}</span></li>
+  {% if forloop.last %}</ul>{% endif %}{% assign p_ym = ym %}
+{% endfor %}
+</div>
