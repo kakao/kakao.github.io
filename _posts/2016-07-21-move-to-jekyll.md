@@ -5,12 +5,6 @@ author: bongjun.hur
 date: 2016-07-21 13:11
 tags: [blog,jekyll]
 image: /files/covers/codereview.jpg
-cover:
-  title: 'Joe O'Brien and Jim Weirich: Edgecase dialog: Ruby Code Review'
-  link: https://www.flickr.com/photos/fraserspeirs/3394902061
-  author:
-    name: 'Fraser Speirs'
-    link: https://www.flickr.com/photos/fraserspeirs)
 ---
 
 만들면서 참고한 글들만 정리해 본다.
@@ -27,4 +21,9 @@ cover:
 ## 리소스
  - [무료이미지 Pixabay](https://pixabay.com/) - 커버이미지, 글 이미지 등등 편하게 무료로
 
- 
+cover:
+  title: 'Joe O'Brien and Jim Weirich: Edgecase dialog: Ruby Code Review'
+  link: https://www.flickr.com/photos/fraserspeirs/3394902061
+  author:
+    name: 'Fraser Speirs'
+    link: https://www.flickr.com/photos/fraserspeirs)
