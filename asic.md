@@ -22,6 +22,9 @@ tags: [ASIC, SoC, 반도체, 설계, Synopsys, Cadence]
 ## Synopsys
 * [set_false_path/set_case_analysis](http://ts.devbj.com/219) 알아보자.
 
+## 반도체 일반
+* [ESD Test - HBM, MM, CDM](http://ts.devbj.com/425)
+
 
 ### [티스토리](http://www.tistory.com/guide/blog)
 
