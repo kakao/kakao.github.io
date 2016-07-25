@@ -1,7 +1,7 @@
 tech.kakao.com
 ==============
 
-> 주의: [http://github.com/kakao/kakao.github.io](http://github.com/kakao/kakao.github.io) 저장소(private)에 권한이 필요함.
+> ~~~주의: [http://github.com/kakao/kakao.github.io](http://github.com/kakao/kakao.github.io) 저장소(private)에 권한이 필요함.~~~
 
 > 주의: [GitHub Pages]와 [Jekyll]에 대해서 충분히 숙지할 것.
 
@@ -64,7 +64,7 @@ cover:
 
 ### 기타
 
-@iolo.fitzowen / OSA파트에 문의
+~~~ @iolo.fitzowen / OSA파트에 문의 ~~~
 
 May the **SOURCE** be with you...
 
