@@ -38,6 +38,7 @@
 {% endfor %}
 <meta name="twitter:label2" content="Filed under"/>
 <meta name="twitter:data2" content="{{ page.tags | join: ','}}"/>
+<meta name="keywords" content="{{ page.tags | join: ',' }}"/>
 {% endif %}
 {% if page.date %}
 <meta name="article:published_time" content="{{ page.date | date_to_xmlschema }}"/>
