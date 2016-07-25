@@ -64,7 +64,7 @@ cover:
 
 ### 기타
 
-~~~ @iolo.fitzowen / OSA파트에 문의 ~~~
+~~~@iolo.fitzowen / OSA파트에 문의~~~
 
 May the **SOURCE** be with you...
 
