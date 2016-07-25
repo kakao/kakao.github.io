@@ -1,7 +1,7 @@
 tech.kakao.com
 ==============
 
-> 주의: [http://github.com/kakao/kakao.github.io](http://github.com/kakao/kakao.github.io) 저장소(private)에 권한이 필요함.
+> ~~~주의: [http://github.com/kakao/kakao.github.io](http://github.com/kakao/kakao.github.io) 저장소(private)에 권한이 필요함.~~~
 
 > 주의: [GitHub Pages]와 [Jekyll]에 대해서 충분히 숙지할 것.
 
@@ -23,6 +23,7 @@ tech.kakao.com
  - author: `lastname.firstname` # 필자(필수). 왠만하면 회사 아이디(예: iolo.fitzowen) 사용
  - tags: `[tag1,tag2,tag3,...]` # 태그 목록(선택). 왠만하면 특수문자없이 영소문자,숫자,-(하이픈),.(점)...만 사용.
  - image: http://... # 커버이미지 url(선택)
+ - cover: 커버이미지 출처 및 제작자 링크 추가, 그림 아래쪽에 자동 표기되도록 (선택) ; 형태는 아래 ***[커버 형식](#커버-형식)*** 참고
  - date: `YYYY-MM-DD HH:MM:SS` # 발행일(필수)
 3. 처음 글을 쓰는 필자이라면 **글쓴이 등록**(필수)
 4. 유력한(?) 태그가 새로 등장했다면 **태그 등록**(선택)
@@ -51,9 +52,19 @@ tech.kakao.com
  - image: http://... # 태그 이미지(선택)
 3. 내용은 필요없음
 
+### 커버 형식
+```
+cover:
+  title: 이미치 출처에 쓰일 문자열.
+  link: http://... 링크주소
+  author:
+    name: '제작자명'
+    link: http://... 링크 주소
+```
+
 ### 기타
 
-@iolo.fitzowen / OSA파트에 문의
+~~~@iolo.fitzowen / OSA파트에 문의~~~
 
 May the **SOURCE** be with you...
 
