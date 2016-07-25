@@ -16,4 +16,7 @@ layout: default
     <div id="post-content" class="post page" role="main">
         {{ content }}
     </div>
+{% if site.google_adsense %}
+		{% include google_adsense.html %}
+{% endif %}
 </div>

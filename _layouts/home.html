@@ -29,4 +29,7 @@ layout: default
     <div id="home-content" role="main">
         {{ content }}
     </div>
+{% if site.google_adsense %}
+		{% include google_adsense.html %}
+{% endif %}
 </div>
