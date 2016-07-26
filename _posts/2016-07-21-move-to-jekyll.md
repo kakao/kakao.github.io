@@ -5,11 +5,11 @@ author: bongjun.hur
 date: 2016-07-21 13:11
 image: /files/covers/codereview.jpg
 cover:
-  title: 'Joe O'Brien and Jim Weirich: Edgecase dialog: Ruby Code Review'
-  link: https://www.flickr.com/photos/fraserspeirs/3394902061
-  author:
-    name: 'Fraser Speirs'
-    link: https://www.flickr.com/photos/fraserspeirs
+	title: 'Joe O'Brien and Jim Weirich: Edgecase dialog: Ruby Code Review'
+	link: https://www.flickr.com/photos/fraserspeirs/3394902061
+	author:
+		name: 'Fraser Speirs'
+		link: https://www.flickr.com/photos/fraserspeirs
 tags: [blog,jekyll]
 ---
 
