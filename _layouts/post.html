@@ -43,6 +43,11 @@ layout: default
 {% endif %}
 </div>
 
+<div id="navbar" class="container">
+    <h5><a id="link-back" href="/">Back to Posts</a></h5>
+    {% include share.html page=page %}
+</div>
+
 <div id="post-links" class="container">
     {% assign prev = page.previous %}
     {% if prev %}
