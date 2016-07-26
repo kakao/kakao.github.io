@@ -3,13 +3,13 @@ layout: post
 title: '지킬 블로그 만들기 - jekyll, github, github pages'
 author: bongjun.hur
 date: 2016-07-21 13:11
-image: /files/covers/codereview.jpg
+image: /files/covers/home-office-336581_1280.jpg
 cover:
-  title: "Joe O'Brien and Jim Weirich: Edgecase dialog: Ruby Code Review"
-  link: https://www.flickr.com/photos/fraserspeirs/3394902061
+  title: "Home office"
+  link: https://pixabay.com/photo-336581/
   author:
-    name: "Fraser Speirs"
-    link: https://www.flickr.com/photos/fraserspeirs
+    name: "Unsplash"
+    link: https://pixabay.com/ko/users/Unsplash-242387/
 tags: [blog,jekyll]
 excerpt: 지킬 블로그 만들기에 도움이 되는 사이트 jekyll, github, github pages. 계속 업데이트 됩니다.
 ---
@@ -36,4 +36,3 @@ excerpt: 지킬 블로그 만들기에 도움이 되는 사이트 jekyll, github
 
 ## 리소스
  - [무료이미지 Pixabay](https://pixabay.com/) - 커버이미지, 글 이미지 등등 편하게 무료로
- 
