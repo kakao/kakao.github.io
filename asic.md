@@ -28,9 +28,9 @@ tags: [ASIC, SoC, 반도체, 설계, Synopsys, Cadence]
   * [Open Masca: Simulating mixed language HDL using VCS](http://salinasv.blogspot.kr/2011/05/simulating-mixed-language-hdl-using-vcs.html) - 간략하게 굿.
   * [Simulation with VCS](http://documents.mx/documents/5-simulation-vcs.html) - Synopsys 자체 자료니, 좋은 자료인듯. 원본은 어디서 찾아봐야할 듯.
   * [RTL Simulation using Synopsys VCS](http://www.csl.cornell.edu/courses/ece5745/handouts/ece5745-tut1-vcs.pdf) - 2016버전, 너무 간단하지만 그냥 명령어 옵션 구경할 만함.
-  * [Synopsys VCS Support (PDF) chapter in volume 3 of the Quartus II Development Software Handbook](https://www.altera.com/content/dam/altera-www/global/en_US/pdfs/literature/hb/qts/qts_qii5v3.pdf) - 정말 좋은 자료. 방대한 양이 질리겠지만 타이밍,합성관련 정보가 짱
+  * Gate-Level Simulation With Synopsys VCS Simulator [Synopsys VCS Support (PDF) chapter in volume 3 of the Quartus II Development Software Handbook](https://www.altera.com/content/dam/altera-www/global/en_US/pdfs/literature/hb/qts/qts_qii5v3.pdf) - 정말 좋은 자료. 방대한 양이 질리겠지만 타이밍,합성관련 정보가 짱
 	* [(localcopy)Quartus II Development Software Handbook](/files/localcopy/qts_qii5v3.pdf)
-  
+  * 연세대 한글자료 - [Mixed Signal Simulation](http://soc.yonsei.ac.kr/class/material/dft_class/06_abist_synopsys.pdf)
 
 ## 반도체 일반
 * [ESD Test - HBM, MM, CDM](http://ts.devbj.com/425)
