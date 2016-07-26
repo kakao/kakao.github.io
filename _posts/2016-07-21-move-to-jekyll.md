@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "지킬 블로그 만들기 - jekyll, github, github pages"
+title: '지킬 블로그 만들기 - jekyll, github, github pages'
 author: bongjun.hur
 date: 2016-07-21 13:11
-tags: [blog,jekyll]
 image: /files/covers/codereview.jpg
 cover:
   title: 'Joe O'Brien and Jim Weirich: Edgecase dialog: Ruby Code Review'
@@ -11,6 +10,7 @@ cover:
   author:
     name: 'Fraser Speirs'
     link: https://www.flickr.com/photos/fraserspeirs
+tags: [blog,jekyll]
 ---
 
 (수정시간) 2016-07-26
