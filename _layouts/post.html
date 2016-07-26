@@ -25,6 +25,8 @@ layout: default
 		{% include google_adsense.html %}
 {% endif %}
     <div id="post-content">{{ content }}</div>
+<!--
+// don't need this <div> because of personal blog not group.
     <div id="post-footer">
         {% assign author = site.authors | where: 'name', page.author | first %}
         <a id="post-author" href="{{ author.url }}">
@@ -38,6 +40,7 @@ layout: default
             <span>Read more posts by this author</span>
         </a>
     </div>
+-->
 {% if site.google_adsense %}
 		{% include google_adsense.html %}
 {% endif %}
