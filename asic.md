@@ -26,7 +26,11 @@ tags: [ASIC, SoC, 반도체, 설계, Synopsys, Cadence]
   * [Simulating verilog VHDL using Synopsys VCS - 칩 설계 검증 툴](http://ts.devbj.com/415)
   * [VCS and coverage by Aviral Mittal](http://www.vlsiip.com/vcs/) - 기초적인 내용. 정리 잘되어 있음
   * [Open Masca: Simulating mixed language HDL using VCS](http://salinasv.blogspot.kr/2011/05/simulating-mixed-language-hdl-using-vcs.html) - 간략하게 굿.
-
+  * [Simulation with VCS](http://documents.mx/documents/5-simulation-vcs.html) - Synopsys 자체 자료니, 좋은 자료인듯. 원본은 어디서 찾아봐야할 듯.
+  * [RTL Simulation using Synopsys VCS](http://www.csl.cornell.edu/courses/ece5745/handouts/ece5745-tut1-vcs.pdf) - 2016버전, 너무 간단하지만 그냥 명령어 옵션 구경할 만함.
+  * [Synopsys VCS Support (PDF) chapter in volume 3 of the Quartus II Development Software Handbook](https://www.altera.com/content/dam/altera-www/global/en_US/pdfs/literature/hb/qts/qts_qii5v3.pdf) - 정말 좋은 자료. 방대한 양이 질리겠지만 타이밍,합성관련 정보가 짱
+	* [(localcopy)Quartus II Development Software Handbook](/files/localcopy/qts_qii5v3.pdf)
+  
 
 ## 반도체 일반
 * [ESD Test - HBM, MM, CDM](http://ts.devbj.com/425)
