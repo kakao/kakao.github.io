@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: page
 title: Ben Moore's CV
 ---
 # Benjamin L. Moore
