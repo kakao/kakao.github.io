@@ -1,4 +1,0 @@
----
-name: vim
-title: Vim
----

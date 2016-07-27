@@ -1,4 +1,0 @@
----
-name: weekly
-title: 'Weekly'
----
