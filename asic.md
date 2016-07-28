@@ -28,6 +28,7 @@ tags: [ASIC, SoC, 반도체, 설계, Synopsys, Cadence]
 <!-- tocstop -->
 
 ## HDL
+
 ### Verilog
 * [http://www.testbench.in/](http://www.testbench.in/) - 테스트 벤치, SystemVerilog
 * [Verilog 설계 팁](http://ts.devbj.com/226) - IDEC 2012 한글자료
