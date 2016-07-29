@@ -38,7 +38,9 @@ tags: [ASIC, SoC, 반도체, 설계, Synopsys, Cadence]
 
 
 ### VHDL
-* none
+* [VHDL, Verilog 강의](http://www.physi.uni-heidelberg.de/~angelov/VHDL/) - 독일대학의 강의자료 페이지
+  - localcopy : [Designing with VHDL](/files/localcopy/Designing with VHDL.pdf) , [Simulation with VHDL](files/localcopy/Simulation with VHDL.pdf)
+* next..
 
 ### Etc
 * none
