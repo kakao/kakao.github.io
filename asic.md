@@ -29,7 +29,7 @@ tags: [ASIC, SoC, 반도체, 설계, Synopsys, Cadence]
 
 ## HDL
 ### Verilog
-* [http://www.testbench.in/](http://www.testbench.in/) - 테스트 벤치, SystemVerilog
+* ~~[http://www.testbench.in/](http://www.testbench.in/) - 테스트 벤치, SystemVerilog~~ 갑자기 접속이 안됨 ㅜㅜ
 * [Verilog 설계 팁](http://ts.devbj.com/226) - IDEC 2012 한글자료
 * [Test bench 테스트벤치 작성 가이드](http://ts.devbj.com/210) - 카운터예제로 정리해둔 영어자료
 * [VCD file](http://ts.devbj.com/209) - Value Change Dump 파일, 소스코드에서 VCD 파일을 어떻게 만드는지 호출하는 함수들에 대한 간략한 소개
