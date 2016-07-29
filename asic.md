@@ -38,6 +38,7 @@ tags: [ASIC, SoC, 반도체, 설계, Synopsys, Cadence]
 
 
 ### VHDL
+* [VHDL-Online](http://www.vhdl-online.de/start) - 위키형태의 사이트처럼 되어 있으나 깔끔하게 잘 정리되어 있다. 본좌~~
 * [VHDL, Verilog 강의](http://www.physi.uni-heidelberg.de/~angelov/VHDL/) - 독일대학의 강의자료 페이지
   - localcopy : [Designing with VHDL](/files/localcopy/Designing with VHDL.pdf) , [Simulation with VHDL](files/localcopy/Simulation with VHDL.pdf)
 * next..
