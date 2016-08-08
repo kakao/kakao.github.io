@@ -73,6 +73,7 @@ tags: [ASIC, SoC, 반도체, 설계, Synopsys, Cadence]
 
 ## 반도체 일반
 * [ESD Test - HBM, MM, CDM](http://ts.devbj.com/425)
+* [MTBF/MTTF/MTTR](http://datasyncxml.tistory.com/118)
 
 ---
 문의: [{{ site.email }}](mailto:{{ site.email }})
