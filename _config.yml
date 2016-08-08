@@ -19,6 +19,7 @@ krandown:
 
 gems:
   - jekyll-paginate
+  - jekyll-sitemap
 
 paginate: 5
 paginate_path: '/page/:num/'
