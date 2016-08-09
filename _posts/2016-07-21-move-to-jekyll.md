@@ -14,7 +14,7 @@ tags: [blog,jekyll]
 excerpt: 지킬 블로그 만들기에 도움이 되는 사이트 jekyll, github, github pages. 계속 업데이트 됩니다.
 ---
 
-(수정시간) 2016-07-26
+(수정시간) 2016-08-08
 
 <!-- toc orderedList:0 -->
 
@@ -33,6 +33,8 @@ excerpt: 지킬 블로그 만들기에 도움이 되는 사이트 jekyll, github
  - [WordPress 에서 Jekyll 로](http://blog.suminb.com/post/goodbye-wordpress-hello-jekyll/)
 	- 자세한설명, 따라하기 좋다.
  - [SCV君's LifeLog : 이글루에 구글 맞춤검색창 달기](scvlife.kr/3408831) - 현재 페이지에 적용된 내용.
+ - [Jekyll 커스터마이징- 코멘트와 페이지네이션](http://blog.jeonghwan.net/2016/02/07/jekyll-customizing.html)
+ - [Jekyll 커스터마이징 2 - 태그](http://blog.jeonghwan.net/2016/02/29/jekyll-tag.html)
 
 ## 리소스
  - [무료이미지 Pixabay](https://pixabay.com/) - 커버이미지, 글 이미지 등등 편하게 무료로
