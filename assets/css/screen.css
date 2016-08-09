@@ -366,7 +366,8 @@ for small screen(<720px):
 #cover {
     display: table;
     width: 100%;
-    height: 310px;
+    //height: 310px;
+    height: 170px;
     padding: 0;
     background: no-repeat center;
     background-size: cover;
@@ -1056,7 +1057,8 @@ body.author-template #cover p {
 #cover-author-image {
     position: absolute;
     left: 80px;
-    top: 78px; /* 78px = (310(#cover height) - 144(self height)) / 2 */
+//    top: 78px; /* 78px = (310(#cover height) - 144(self height)) / 2 */
+    top: 13px; /* 13px = (170(#cover height) - 144(self height)) / 2 */
     width: 144px;
     height: 144px;
     border-radius: 100%;
