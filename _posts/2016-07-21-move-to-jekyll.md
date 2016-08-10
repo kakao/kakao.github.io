@@ -37,4 +37,12 @@ excerpt: 지킬 블로그 만들기에 도움이 되는 사이트 jekyll, github
  - [Jekyll 커스터마이징 2 - 태그](http://blog.jeonghwan.net/2016/02/29/jekyll-tag.html)
 
 ## 리소스
- - [무료이미지 Pixabay](https://pixabay.com/) - 커버이미지, 글 이미지 등등 편하게 무료로
+  - [무료이미지 Pixabay](https://pixabay.com/) - 커버이미지, 글 이미지 등등 편하게 무료로
+  - [morguefile](http://www.morguefile.com/)
+  - http://unsplash.com/
+  - https://sumall.com/free-marketing-images
+  - http://giphy.com/
+  - https://www.iconfinder.com/free_icons
+    - https://www.iconfinder.com/search/?q=trash&price=free
+  - http://picjumbo.com/
+  - http://thisissunriver.blogspot.kr/

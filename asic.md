@@ -13,9 +13,11 @@ sitemap: yes
 excerpt: ASIC, SoC, 반도체, 설계 관련 글을 모아두는 곳입니다. 계속 업데이트 됩니다.
 tags: [ASIC, SoC, 반도체, 설계, Synopsys, Cadence]
 ---
+(수정시간) 2016-08-10
 
 <!-- toc orderedList:0 -->
 
+- [ASIC](#asic)
 - [HDL](#hdl)
 	- [Verilog](#verilog)
 	- [VHDL](#vhdl)
@@ -26,6 +28,9 @@ tags: [ASIC, SoC, 반도체, 설계, Synopsys, Cadence]
 - [반도체 일반](#반도체-일반)
 
 <!-- tocstop -->
+
+## ASIC
+  * [ASIC Design Tutorials](http://www.eda.ncsu.edu/wiki/Tutorial:ASIC_Design_Tutorials) - 위키사이트, 전체흐름을 살펴보자. 설계, FPGA, 검증.
 
 ## HDL
 설계에 사용되는 hdl 언어(VHDL, Verilog, SystemVerilog, ...) 관련 자료를 모아두자.
@@ -40,8 +45,12 @@ tags: [ASIC, SoC, 반도체, 설계, Synopsys, Cadence]
 ### VHDL
 * [VHDL-Online](http://www.vhdl-online.de/start) - 위키형태의 사이트처럼 되어 있으나 깔끔하게 잘 정리되어 있다. 본좌~~
 * [VHDL, Verilog 강의](http://www.physi.uni-heidelberg.de/~angelov/VHDL/) - 독일대학의 강의자료 페이지
-  - localcopy : [Designing with VHDL](/files/localcopy/Designing with VHDL.pdf) , [Simulation with VHDL](files/localcopy/Simulation with VHDL.pdf)
-* next..
+  - localcopy : [Designing with VHDL](/files/localcopy/Designing with VHDL.pdf), [Simulation with VHDL](files/localcopy/Simulation with VHDL.pdf)
+* [VHDL Tutorial: Learn by Example](http://esd.cs.ucr.edu/labs/tutorial/) - 예제를 중심, 2010 리비전된 내용.
+* [Essential VHDL Design Examples](https://www.vahana.com/examples.htm) - 시간나면 하나씩 뜯어보자
+  * [All examples (localcopy)](/files/localcopy/examples.zip)
+* [8051 Synthesizable VHDL Model](http://www.cs.ucr.edu/~dalton/i8051/)
+* [VHDL verification courses](http://www.stefanvhdl.com/vhdl/html/) - verification code 를 아주 작은 예제로 처음부터 끝까지 쉽지만 꼭 따라해야함.
 
 ### Etc
 * none
@@ -49,6 +58,12 @@ tags: [ASIC, SoC, 반도체, 설계, Synopsys, Cadence]
 ## EDA Tool (Synopsys, Cadence)
 * [EDA 툴 설치가이드](http://ts.devbj.com/208) - DC, PrimeTime, NCVerilog, Formality 의 설치가이드 한글자료 모음 from IDEC
 * [How the gate count of a design is determined?](http://ts.devbj.com/217) - 게이트카운트 구해보기 대략적으로 (간단하게 보통 NAND2 게이트 면적으로 나눠서 알아낸다.)
+
+* [VLSI IP site](http://www.vlsiip.com/index.html) - tutorial, IP, 인터뷰 방법 소개등등 많은 자료가 잘 정리되어 있음. 아래 몇개는 링크가져옴
+  * [Design Compiler Tutorial and Sample Commands](http://www.vlsiip.com/dc_shell)
+  * [Formality Tutorial and Sample Commands](http://www.vlsiip.com/formality)
+  * [Power Analysis](http://www.vlsiip.com/power)
+  * [Some Frequently used Unix Commands](http://www.vlsiip.com/unix)
 
 ### Synopsys Design Compier
 * [Design Compiler 관련글](http://ts.devbj.com/438)
