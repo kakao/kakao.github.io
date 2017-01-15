@@ -19,7 +19,12 @@ layout: default
 </div>
 
 <div id="navbar" class="container">
-    <h5>Featured Posts</h5>
+    {% if page.url == '/opensource/' %}
+        <h5>Featured Posts</h5>
+    {% else %}
+        <h5>Searched Posts</h5>
+    {% endif %}
+
 </div>
 
 <div id="content" class="container">

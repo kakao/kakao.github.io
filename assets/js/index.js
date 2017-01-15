@@ -39,8 +39,8 @@
         $('#search').submit(function (e) {
             e.preventDefault();
             var q = $('#searchQueryEdit').val();
-            var url = 'http://search.daum.net/search?q=' + encodeURIComponent(q + ' site:tech.kakao.com');
-            window.open(url, '', '_blank');
+            var url = '/search?q=' + encodeURIComponent(q);
+            location.href = url;
         });
 
         $(window).scroll(function () {
