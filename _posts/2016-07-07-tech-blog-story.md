@@ -3,7 +3,7 @@ layout: post
 title: 'kakao 기술 블로그가 GitHub Pages로 간 까닭은'
 author: iolo.fitzowen
 date: 2016-07-07 15:25
-tags: [github-pages,jekyll,static-site-generator]
+tags: [github,github-pages,jekyll,static-site-generator]
 image: /files/covers/blog.jpg
 ---
 kakao 기술 블로그는 올해 초 [Ghost] 블로깅 플랫폼을 사용해서 오픈했으나,

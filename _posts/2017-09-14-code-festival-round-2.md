@@ -3,7 +3,7 @@ layout: post
 title: '카카오 코드 페스티벌 본선 이야기'
 author: bryan.j
 date: 2017-09-14 08:00
-tags: [code-festival, programming-contest]
+tags: [code-festival, programming-contest, coding]
 image: /files/covers/code-festival.jpg
 ---
 

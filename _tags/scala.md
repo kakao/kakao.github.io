@@ -1,4 +1,4 @@
 ---
 name: scala
-title: 'Scala 프로그래밍언어'
+title: 'Scala 프로그래밍 언어'
 ---

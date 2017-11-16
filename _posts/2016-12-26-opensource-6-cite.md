@@ -3,7 +3,7 @@ layout: post
 title: 'kakao의 오픈소스 Ep6 - Cite'
 author: niko.bellic
 date: 2016-12-26 17:00
-tags: [cite,kubernetes,github,docker,container,microservice]
+tags: [opensource,cite,kubernetes,github,docker,container,microservice]
 ---
 <a id="forkme" href="https://github.com/kakao/cite"></a>
 

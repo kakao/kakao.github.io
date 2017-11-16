@@ -1,4 +1,0 @@
----
-name: recruitment
-title: 'recruitment'
----

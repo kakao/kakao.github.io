@@ -3,7 +3,7 @@ layout: post
 title: '카카오 신입 공채 2차 코딩 테스트 문제 해설'
 author: jesse.ha
 date: 2017-10-24 10:00
-tags: [kakao, recruitment]
+tags: [blind-recruitment,coding,rest,json]
 image: /files/covers/employment_cover.png
 ---
 

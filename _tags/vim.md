@@ -1,4 +1,4 @@
 ---
 name: vim
-title: Vim
+title: 'Vim - Vi IMproved'
 ---

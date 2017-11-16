@@ -7,6 +7,19 @@ excerpt: kakao가 주최하거나 후원한 기술 행사들을 소개합니다.
 tags: [events]
 ---
 
+## [주최] 카카오 Code Festival
+
+* [https://www.kakaocode.com/](https://www.kakaocode.com)
+* 온라인 예선: 2017년 8월 5일(토) 오후 1시~7시
+* 오프라인 본선: 2017년 9월 9일(토) 오후 1시~6시
+* 장소: 성남시 경기창조경제혁신센터
+* 내용: 카카오에서 준비한 대학(원)생 프로그래밍 경진대회
+
+> __[문제 해설]__
+>
+> * [카카오 코드 페스티벌 예선전 이야기](http://tech.kakao.com/2017/08/11/code-festival-round-1/)
+> * [카카오 코드 페스티벌 본선 이야기](http://tech.kakao.com/2017/09/14/code-festival-round-2/)
+
 ## [후원] PyCon APAC 2016
 
 * [https://www.pycon.kr/2016apac/](https://www.pycon.kr/2016apac/)

@@ -3,7 +3,7 @@ layout: post
 title: 'CODING BATTLE 가위바위보! - 못다한 이야기'
 author: iolo.fitzowen
 date: 2016-08-19 18:00
-tags: [coding-battle,gawibawibo,pycon2016apac,python]
+tags: [coding,gawibawibo,pycon,python]
 image: /files/covers/dices.jpg
 cover:
   title: 'Dices'
