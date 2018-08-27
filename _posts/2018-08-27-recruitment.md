@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2019 카카오 블라인드 신입 개발자 공채가 시작됩니다 !'
+title: '2019 카카오 블라인드 신입 개발자 공채가 시작됩니다!'
 author: medivh.0923
 date: 2018-08-28 10:00
 tags: [recruitment]
@@ -34,5 +34,5 @@ image: /files/covers/recruit-cover.png
 카카오 블라인드 공개 채용과 관련한 자세한 내용은 www.welcomekakao.com에서 확인, 지원 가능합니다. 
 개발에 대한 열정과 창의성을 갖춘 많은 분들의 지원을 기다립니다 :) 
 
-[▶카카오 블라인드 신입 개발자 공채 지원하러가기](https://careers.kakao.com/2019developer){:target="_blank"}
+[▶카카오 블라인드 신입 개발자 공채 지원하러가기](https://welcomekakao.com){:target="_blank"}
 
