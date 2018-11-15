@@ -1,4 +1,0 @@
----
-name: cpp
-title: 'cpp'
----

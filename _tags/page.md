@@ -1,4 +1,0 @@
----
-name: page
-title: 'page'
----

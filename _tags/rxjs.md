@@ -1,4 +1,0 @@
----
-name: rxjs 
-title: 'RxJS'
----
