@@ -1,0 +1,26 @@
+/*
+ * NanumSquare
+ */
+@font-face {
+    font-family: 'NanumSquare';
+    font-style: normal;
+    font-weight: 400;
+    src: local('NanumSquare Regular'), local('NanumSquareOTF Regular'),
+    url(NanumSquareR.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'NanumSquare';
+    font-style: normal;
+    font-weight: 200;
+    src: local('NanumSquare Light'), local('NanumSquareOTF Light'),
+    url(NanumSquareL.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'NanumSquare';
+    font-style: normal;
+    font-weight: 700;
+    src: local('NanumSquare Bold'), local('NanumSquareOTF Bold'),
+    url(NanumSquareB.otf) format('opentype');
+}

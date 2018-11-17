@@ -1,0 +1,26 @@
+/*
+ * NanumBarunGothic
+ */
+@font-face {
+    font-family: 'NanumBarunGothic';
+    font-style: normal;
+    font-weight: 400;
+    src: local('NanumBarunGothic Regular'), local('NanumBarunGothicOTF Regular'),
+    url(NanumBarunGothic.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'NanumBarunGothic';
+    font-style: normal;
+    font-weight: 200;
+    src: local('NanumBarunGothic Light'), local('NanumBarunGothicOTF Light'),
+    url(NanumBarunGothicLight.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'NanumBarunGothic';
+    font-style: normal;
+    font-weight: 700;
+    src: local('NanumBarunGothic Bold'), local('NanumBarunGothicOTF Bold'),
+    url(NanumBarunGothicBold.otf) format('opentype');
+}

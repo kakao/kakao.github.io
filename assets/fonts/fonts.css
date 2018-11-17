@@ -1,41 +1,58 @@
 /*-------------------------------------------------------*/
 /*
- * Kakao
+ * NanumSquare
  */
 @font-face {
-    font-family: 'Kakao';
+    font-family: 'NanumSquare';
     font-style: normal;
     font-weight: 400;
-    src: local('Kakao Regular'), local('KakaoOTF Regular'),
-    url(KakaoOTF-bRg.eot) format('eot'),
-    url(KakaoOTF-bRg.woff2) format('woff2'),
-    url(KakaoOTF-bRg.woff) format('woff'),
-    url(KakaoOTF-bRg.otf) format('opentype');
+    src: local('NanumSquare Regular'), local('NanumSquareOTF Regular'),
+    url(NanumSquareR.otf) format('opentype');
 }
 
 @font-face {
-    font-family: 'Kakao';
+    font-family: 'NanumSquare';
     font-style: normal;
     font-weight: 200;
-    src: local('Kakao Light'), local('KakaoOTF Light'),
-    url(KakaoOTF-aLt.eot) format('eot'),
-    url(KakaoOTF-aLt.woff2) format('woff2'),
-    url(KakaoOTF-aLt.woff) format('woff'),
-    url(KakaoOTF-aLt.otf) format('opentype');
+    src: local('NanumSquare Light'), local('NanumSquareOTF Light'),
+    url(NanumSquareL.otf) format('opentype');
 }
 
-/*
 @font-face {
-    font-family: 'Kakao';
+    font-family: 'NanumSquare';
     font-style: normal;
     font-weight: 700;
-    src: local('Kakao Bold'), local('KakaoOTF Bold'),
-    url(KakaoOTF-cBd.eot) format('eot'),
-    url(KakaoOTF-cBd.woff2) format('woff2'),
-    url(KakaoOTF-cBd.woff) format('woff'),
-    url(KakaoOTF-cBd.otf) format('opentype');
+    src: local('NanumSquare Bold'), local('NanumSquareOTF Bold'),
+    url(NanumSquareB.otf) format('opentype');
 }
-*/
+
+/*-------------------------------------------------------*/
+/*
+ * NanumBarunGothic
+ */
+@font-face {
+    font-family: 'NanumBarunGothic';
+    font-style: normal;
+    font-weight: 400;
+    src: local('NanumBarunGothic Regular'), local('NanumBarunGothicOTF Regular'),
+    url(NanumBarunGothic.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'NanumBarunGothic';
+    font-style: normal;
+    font-weight: 200;
+    src: local('NanumBarunGothic Light'), local('NanumBarunGothicOTF Light'),
+    url(NanumBarunGothicLight.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'NanumBarunGothic';
+    font-style: normal;
+    font-weight: 700;
+    src: local('NanumBarunGothic Bold'), local('NanumBarunGothicOTF Bold'),
+    url(NanumBarunGothicBold.otf) format('opentype');
+}
 
 /*-------------------------------------------------------*/
 /*
