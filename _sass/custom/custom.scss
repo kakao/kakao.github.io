@@ -1,0 +1,125 @@
+// custom SCSS (or CSS) goes here
+
+.site-header , .main-header , .search-input {
+  background-color:#302d36;
+
+}
+
+.site-title, .search-input, .search-result {
+  color:#ffffff !important;
+}
+
+.site-header .icon{
+  color:#ffcd00;
+}
+
+.summary {
+  margin: 42px 0 ;
+  color: #222;
+  font-weight: 400;
+  font-size: 18px;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.56;
+  letter-spacing: -.2px;
+  list-style: none;
+}
+
+.toc {
+  margin: 42px 0 0 0 ;
+  color: #222;
+  padding: 2px 10px 6px 0;
+  font-weight: 500;
+  font-size: 20px;
+  font-family: "SFMono-Regular", menlo, consolas, monospace;
+  border-bottom:1px solid #eeeeee;
+}
+
+.toc img {
+  vertical-align: middle;
+  margin: 0 6px 4px 0 ;
+  width: 17px;
+}
+
+.div_box {
+  padding: 16px ;
+  line-height: 180%;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+
+div.new, p.new, blockquote.new {
+  @include fs-4;
+  padding: 16px;
+  border-radius: 4px;
+  background-color: #FBFBFB;
+  box-shadow: none;
+  border: 1px solid #CCE6DF;;
+}
+
+
+.new-license {
+  @include fs-4;
+  padding: 12px;
+  margin-left: 30px;
+  border-radius: 4px;
+  background-color: #FBFBFB;
+  box-shadow: none;
+  border: 1px solid #CCE6DF;;
+}
+
+
+blockquote p{
+  @include fs-3;
+  line-height: 170%;
+  margin-bottom: 4px !important;
+  padding: 2px 0;
+  font-family: "SFMono-Regular", menlo, consolas, monospace;
+
+}
+
+
+a:not([class]) {
+  text-decoration: none !important;
+}
+
+.link {
+  color:#1F48E7;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+.olive_bg {
+  background-color: #dcf1eb;
+  text-align:center;
+}
+
+.github_img {
+  vertical-align: middle;
+  margin: 0 2px 4px 0;
+}
+
+.line:hover {
+  text-decoration: underline;
+
+}
+
+.check_img {
+  width: 16px;
+  vertical-align: middle;
+  margin: 0 4px 4px 0;
+}
+
+.openchain_bg {
+  background-color: #ffeb00;
+  text-align:center;
+}
+
+.mail_img {
+  margin-bottom: -3px;
+  width:18px;
+}
