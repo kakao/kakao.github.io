@@ -12,7 +12,7 @@
 ## 설치
 ### [kakao.github.io](https://github.com/kakao/kakao.github.io) 에 push 권한이 있다면
 1. git fetch or pull or clone
-2. [Jekyll] 설치 
+2. [Jekyll](https://jekyllrb.com/) 설치 
 ```console
 $ git clone git@github.com:kakao/kakao.github.io.git
 $ cd kakao.github.io
@@ -21,7 +21,7 @@ $ bundle install
 
 ### [kakao.github.io](https://github.com/kakao/kakao.github.io) 에 push 권한이 없다면:
 1. <https://github.com/kakao/kakao.github.io> 에서 `Fork` 버튼 클릭
-2. Fork 저장소 계정(maybe 개인 계정) 선택
+2. Fork 저장소 계정 선택
 3. git fetch or pull or clone
 4. Fork 설정 [Configuring a remote for a fork](https://docs.github.com/ko/pull-requests/collaborating-with-pull-requests/working-with-forks/configuring-a-remote-repository-for-a-fork)
 5. Fork 동기화 [Syncing a fork](https://docs.github.com/ko/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork)
@@ -31,8 +31,8 @@ $ git clone git@github.com:YOUR_GITHUB_ACCOUNT/kakao.github.io.git
 $ cd kakao.github.io
 $ git remote add upstream git@github.com:kakao/kakao.github.io.git
 $ git fetch upstream
-$ git checkout master
-$ git merge upstream/master
+$ git checkout main
+$ git merge upstream/main
 $ bundle install
 ```
 
@@ -47,7 +47,7 @@ $ open http://localhost:4000
 #### [kakao.github.io](https://github.com/kakao/kakao.github.io) 에 push 권한이 있다면:
 ```
 $ git commit -m '...'
-$ git push origin master
+$ git push origin main
 ````
 
 #### [kakao.github.io](https://github.com/kakao/kakao.github.io) 에 push 권한이 없다면:

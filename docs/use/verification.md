@@ -3,8 +3,6 @@ layout: default
 title: 오픈소스 관리
 parent: 오픈소스 사용하기
 nav_order: 2
-has_children: true
-has_toc: false
 ---
 # {{ page.title }}
 <div class="summary">
