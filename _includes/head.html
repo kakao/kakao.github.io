@@ -1,34 +1,19 @@
 <head>
+  <title>카카오 오픈소스 가이드</title>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-  <meta name="title" content="카카오 오픈소스 가이드">
-  <meta name="description" content="카카오에서 제공하는 오픈소스 가이드">
-  <base href="/">
-  <meta property="og:type" content="website">
-  <meta property="og:site_name" content="카카오 오픈소스 가이드">
-  <meta property="og:title" content="카카오 오픈소스 가이드">
-  <meta property="og:url" content="https://kakao.github.io/">
-  <meta property="og:image" content="https://t1.kakaocdn.net/olive/assets/images/opensourceguide.png">
-  <meta property="og:description" content="카카오에서 제공하는 오픈소스 가이드">
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="카카오 오픈소스 가이드">
-  <meta name="twitter:description" content="카카오에서 제공하는 오픈소스 가이드">
-  <meta name="twitter:image" content="https://t1.kakaocdn.net/olive/assets/images/opensourceguide_t.png">
+
   <link rel="stylesheet" href="{{ 'assets/css/just-the-docs-default.css' | relative_url }}">
 
-  {% if site.ga_tracking != nil %}
-    {% assign ga_tracking_ids = site.ga_tracking | split: "," %}
-    <script async src="https://www.googletagmanager.com/gtag/js?id={{ ga_tracking_ids.first }}"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-1BR2W6QHKL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
-      {% for ga_property in ga_tracking_ids %}
-        gtag('config', '{{ ga_property }}'{% unless site.ga_tracking_anonymize_ip == nil %}, { 'anonymize_ip': true }{% endunless %});
-      {% endfor %}
-    </script>
-  {% endif %}
+    gtag('config', 'G-1BR2W6QHKL');
+  </script>
 
   {% if site.search_enabled != false %}
     <script src="{{ 'assets/js/vendor/lunr.min.js' | relative_url }}"></script>
@@ -49,8 +34,18 @@
     <link rel="icon" href="{{ site.favicon_ico | default: '/assets/images/img_1.png' | relative_url }}" type="image/x-icon">
   {% endif %}
 
-  {% seo %}
-
   {% include head_custom.html %}
-
+  <meta name="title" content="카카오 오픈소스 가이드">
+  <meta name="description" content="카카오에서 제공하는 오픈소스 가이드">
+  <base href="/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="카카오 오픈소스 가이드">
+  <meta property="og:title" content="카카오 오픈소스 가이드">
+  <meta property="og:url" content="https://kakao.github.io/">
+  <meta property="og:image" content="https://t1.kakaocdn.net/olive/assets/images/opensourceguide.png">
+  <meta property="og:description" content="카카오에서 제공하는 오픈소스 가이드">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="카카오 오픈소스 가이드">
+  <meta name="twitter:description" content="카카오에서 제공하는 오픈소스 가이드">
+  <meta name="twitter:image" content="https://t1.kakaocdn.net/olive/assets/images/opensourceguide_t.png">
 </head>
