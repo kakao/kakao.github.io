@@ -70,13 +70,12 @@ $ git push origin main
 ## License
 This software is licensed under the [MIT license](./LICENSE), quoted below.
 
-Copyright 2022 Kakao Corp. [http://www.kakaocorp.com](http://www.kakaocorp.com/)
+Copyright 2023 Kakao Corp. [http://www.kakaocorp.com](http://www.kakaocorp.com/)
 
 ### ❕caution
-This Kakao Open Source Guide document and other content is licensed under the [Creative Commons BY 4.0 license](./CC-BY-4.0).
+>This Kakao Open Source Guide document and other content is licensed under the [Creative Commons BY 4.0 license](./CC-BY-4.0).
 >카카오 오픈소스 가이드의 문서 및 기타 콘텐츠에 대하여 [Creative Commons BY 4.0](./CC-BY-4.0) 라이선스를 적용합니다.
 
 
 ## 테마
 - Just the Docs : https://github.com/just-the-docs/just-the-docs
-
