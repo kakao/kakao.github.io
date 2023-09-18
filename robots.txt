@@ -1,0 +1,9 @@
+# naver, daum, google(web,mobile)
+User-agent: Daumos
+User-agent: Yeti
+User-agent: Googlebot
+User-agent: Googlebot-mobile
+User-agent: Googlebot-image
+Allow: /
+
+Sitemap: https://kakao.github.io/sitemap.xml
