@@ -10,8 +10,12 @@ nav_order: 3
 <a href="https://soscon2020.ssdc.kr/" target="_blank">SOSCON 2020</a> 등의 컨퍼런스에서의 카카오 발표 세션을 소개합니다.
 </div>
 
+
 {: .important }
 ##  2023년
+SDC23 Korea컨퍼런스에서 **오픈소스 아는 만큼 보인다! 오소리!? : 오소리는 어떻게 만들어졌는가?** 라는 제목으로 카카오의 김영환님과 LG전자의 김소임님이 '오소리 프로젝트'를 통해 어떤 정보를 확인할 수 있는지, 어떻게 활용할지 소개합니다.
+<iframe width="880" height="480" src="https://www.youtube.com/embed/lrDHOAhaXoQ?si=VPFLkb7byPFtYYcB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **OSBC 오픈소스 컨퍼런스**에서 카카오의 이기문 개발자가 카카오 오픈소스 관리체계 및 OLIVE Platform을 소개합니다.
 <iframe width="880" height="480" src="https://www.youtube.com/embed/XyzMEVIEaek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

@@ -15,6 +15,9 @@ nav_order: 3
 </div>
 
 ## 발표 자료
+### 2023-6-22 18번째 미팅
+- [Welcome & Intro](https://openchain-project.github.io/OpenChain-KWG/meeting/18th/){:target="_blank" .line}
+{: .h3_box}
 
 ### 2023-03-28 17번째 미팅
 - [도구 별 의존성 분석 방식](https://openchain-project.github.io/OpenChain-KWG/meeting/17th/%EB%8F%84%EA%B5%AC%EB%B3%84_%EC%9D%98%EC%A1%B4%EC%84%B1_%EB%B6%84%EC%84%9D_%EB%B0%A9%EC%8B%9D.pdf){:target="_blank" .line}
