@@ -19,7 +19,7 @@ nav_order: 2
 ### 오픈소스 라이선스의 분류
 오픈소스 라이선스는 크게 **퍼미시브(Permissive)** 라이선스와 **카피레프트(Copyleft)** 라이선스로 나눌 수 있습니다.
 {: .h3_box}
-<img src="https://tech.kakao.com/storage/2021/02/03.osi_.jpg" width="650"><br><br>
+<img src="https://t1.kakaocdn.net/olive/assets/images/osi.jpg" width="650"><br><br>
 이 두 라이선스의 특징은 아래와 같습니다.
 {: .h3_box}
 
@@ -50,7 +50,7 @@ nav_order: 2
 ## 오픈소스의 지적재산권
 오픈소스에 관한 법적 책임과 이에 따른 위험에 대해 잘 알기 위해서는 오픈소스 소프트웨어의 지적재산권에 대해 이해할 필요가 있습니다.  <br>
 오픈소스 소프트웨어를 보호하는 법적장치인 지적재산권에는 아래 이미지와 같이 **저작권**, **특허권**, **상표권** 그리고 **영업비밀**이 있습니다.<br><br>
-<img src="https://www.oss.kr/storage/app/public/thumbnails/e6/c6/spill_800x800_e0e7044573738170e77d16c8e4384ea04c793e8c.gif" style="margin: 10px;"><br>
+<img src="https://t1.kakaocdn.net/olive/assets/images/spill.gif" style="margin: 10px;"><br>
 {: .h3_box}
 <span class="fs-3 fw-300 ">출처) </span>
 [https://www.oss.kr/oss_license](https://www.oss.kr/oss_license){:target="_blank" .link}{: .fs-3 }
