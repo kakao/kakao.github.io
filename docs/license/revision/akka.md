@@ -3,7 +3,7 @@ layout: default
 title: Akka
 parent: 라이선스 변경 사례
 grand_parent: 오픈소스 라이선스
-nav_order: 1
+nav_order: 5
 ---
 # {{ page.title }}
 
