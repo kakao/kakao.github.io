@@ -9,6 +9,26 @@ nav_order: 3
 오픈소스 라이선스 분쟁은 계속해서 발생하고 있으며, 이 가이드에서는 그중 일부 사례를 소개합니다.
 {: .summary }
 
+## Orange GPL위반
+[프랑스 법원, 대형 통신사 Orange에게 GPL 위반으로 손해배상 판결](https://heathermeeker.com/2024/02/17/french-court-issues-damages-award-for-violation-of-gpl/){:target="_blank" .line}
+- 2005년 프랑스 대형 통신사인 Orange는 프랑스 전자 행정 개발청과 "My Public Service" 개발 계약 체결
+- 개발과정에서 SAML 프로토콜 구현을 위해 [Lasso](https://lasso.entrouvert.org/){:target="_blank" .line} 사용
+- Orange는 상업용 라이선스를 구입하지않고 Lasso 소프트웨어 출처와 라이선스를 명시하지 않으며, 수정된 소스 코드를 공개하지 않음
+- Lasso의 개발사인 Entr’Ouvert(엔트루베르)는 해당 케이스를 발견하고 Orange 사를 상대로 손해배상을 청구
+
+### 히스토리(History)
+- 2005년: Orange사는 service-public.fr 포털의 일부를 개발하며 해당 솔루션에 Lasso 소프트웨어를 사용
+- 2010년: Entr'Ouvert가 [Orange를 고소](https://www.entrouvert.com/actualites/2019/entrouvert-versus-orange/){:target="_blank" .line}
+- 2021년: 항소법원은 Entr'Ouvert의 저작권 침해 청구를 먼저 기각하면서 이 사건이 계약 위반 청구라 함
+- 2022년: 프랑스의 대법원인 파기원(Court of Cassation)은 이 사건을 검토하고 2022년 10월 5일에 항소법원의 판결을 뒤집는 명령을 내림
+- 2024년 2월 14일: 최종 판결이 내려졌으며 Orange가 승소. 총 650,000유로(한화 약 9억4천만원)를 지불하라고 명령
+
+
+**최종 판결**<br>
+Orange가 Entr'Ouvert의 Lasso 소프트웨어에 대한 저작권을 침해하고 GPL을 위반하여, Orange에게 50만 유로의 손해배상금과 15만 유로의 정신적 손해배상금을 지불하라고 명령했습니다.
+보다 자세한 내용은 프랑스 법원, [GPL 위반에 대한 손해배상 판결 내려](https://heathermeeker.com/2024/02/17/french-court-issues-damages-award-for-violation-of-gpl/){:target="_blank" .line} 기사를 참고합니다.
+{: .div_box .h5_box}
+
 ## Oracle vs Google
 [Google과 Oracle의 Java 소송](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20180328163651&lo=zv40){:target="_blank" .line}
 - Google이 안드로이드(Android)에 Java API 37개를 사용
