@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ✔︎ 카카오의 오픈소스 활동
-nav_order: 6
+nav_order: 7
 has_children: true
 ---
 # 카카오의 오픈소스 활동
