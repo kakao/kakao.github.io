@@ -9,6 +9,8 @@ nav_order: 2
 
 ## mongoDB: SSPL 라이선스 적용
 ### 변경사항
+라이선스 변경사항은 아래와 같습니다.
+{: .h3_box}
 
 {: .new .h3_box}
 [mongoDB](https://github.com/mongodb/mongo){:target="_blank" .line}의 라이선스가 AGPL에서 <span>SSPL</span>{: .text-red-200 }로 변경되었습니다.<br>

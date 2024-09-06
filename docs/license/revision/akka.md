@@ -8,7 +8,6 @@ nav_order: 5
 # {{ page.title }}
 
 ## Akka: BUSL 라이선스 적용
-https://kakao.agit.in/g/4/wall/365391788
 ### 변경사항
 라이선스 변경사항은 아래와 같습니다.
 {: .h3_box}

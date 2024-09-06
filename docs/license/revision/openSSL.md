@@ -9,11 +9,12 @@ nav_order: 99
 
 ## OpenSSL: Apache 2.0 라이선스 적용
 ### 변경사항
-
-{: .new }
-[OpenSSL 라이선스](https://www.openssl.org/source/license-openssl-ssleay.txt){:target="_blank" .line}가 OpenSSL License and SSLeay License 듀얼 라이선스에서 <span>Apache 2.0</span>{: .text-red-200} 라이선스로 변경되었습니다.<br>
-OpenSSL 3.0.0 버전부터 <span>Apache 2.0</span>{: .text-red-200}가 적용됩니다.  
+라이선스 변경사항은 아래와 같습니다.
 {: .h3_box}
+
+{: .new .h3_box}
+[OpenSSL 라이선스](https://www.openssl.org/source/license-openssl-ssleay.txt){:target="_blank" .line}가 OpenSSL License and SSLeay License 듀얼 라이선스에서 <span>Apache 2.0</span>{: .text-red-200} 라이선스로 변경되었습니다.<br>
+OpenSSL 3.0.0 버전부터 <span>Apache 2.0</span>{: .text-red-200}가 적용됩니다.
 
 ### OpenSSL 라이선스
 OpenSSL 라이선스의 내용을 정리하면 아래와 같습니다.

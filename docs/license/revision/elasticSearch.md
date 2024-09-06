@@ -9,6 +9,8 @@ nav_order: 3
 
 ## ElasticSearch: Elastic License 2.0, SSPL 듀얼 라이선스 적용
 ### 변경사항
+라이선스 변경사항은 아래와 같습니다.
+{: .h3_box}
 
 {: .new .h3_box}
 오픈소스 버전 ElasticSearch 및 Kibana의 [ElasticSearch의 라이선스](https://www.elastic.co/kr/subscriptions){:target="_blank" .line}가 Apache 2.0에서 <span>Elastic License 2.0, SSPL의 듀얼 라이선스</span>{: .text-red-200 }로 변경되었습니다.<br>

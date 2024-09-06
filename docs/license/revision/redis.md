@@ -8,7 +8,6 @@ nav_order: 6
 # {{ page.title }}
 
 ## Redis : RSAL, SSPL Dual License 적용
-https://kakao.agit.in/g/300033624/wall/399376595
 ### 변경사항
 라이선스 변경사항은 아래와 같습니다.
 {: .h3_box}

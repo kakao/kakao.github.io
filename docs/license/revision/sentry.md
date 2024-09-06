@@ -9,6 +9,8 @@ nav_order: 4
 
 ## Sentry: BUSL1.1 라이선스 적용
 ### 변경사항
+라이선스 변경사항은 아래와 같습니다.
+{: .h3_box}
 
 {: .new  .h3_box}
 Sentry의 라이선스가 Apache 2.0에서 <span>BUSL 1.1</span>{: .text-red-200} 라이선스로 변경되었습니다.<br>
