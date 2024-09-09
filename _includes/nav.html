@@ -55,11 +55,11 @@
 <ul class="nav-list">
 {%- for node in first_level_pages -%}
     {%- unless node.nav_exclude -%}
-      <li class="nav-list-item{% if page.collection == include.key and page.url == node.url or page.grand_parent == node.title or page.parent == node.title and page.grand_parent == nil %} active{% endif %}">
+      <li class="nav-list-item active">
         {%- if node.has_children -%}
-        <button class="nav-list-expander btn-reset" aria-label="toggle items in {{ node.title }} category" aria-pressed="{% if page.collection == include.key and page.url == node.url or page.grand_parent == node.title or page.parent == node.title and page.grand_parent == nil %}true{% else %}false{% endif %}">
-          <svg viewBox="0 0 24 24" aria-hidden="true"><use xlink:href="#svg-arrow-right"></use></svg>
-        </button>
+<!--        <button class="nav-list-expander btn-reset" aria-label="toggle items in {{ node.title }} category" aria-pressed="{% if page.collection == include.key and page.url == node.url or page.grand_parent == node.title or page.parent == node.title and page.grand_parent == nil %}true{% else %}false{% endif %}">-->
+<!--          <svg viewBox="0 0 24 24" aria-hidden="true"><use xlink:href="#svg-arrow-right"></use></svg>-->
+<!--        </button>-->
         {%- endif -%}
         <a href="{{ node.url | relative_url }}" class="nav-list-link{% if page.url == node.url %} active{% endif %}">{{ node.title }}</a>
         {%- if node.has_children -%}
