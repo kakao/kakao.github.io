@@ -70,9 +70,5 @@ GPL(General Public License) 계열의 라이선스 들은 각 버전별로 결�
 {: .h4_box}
 이때, LGPL 2.1의 경우, 라이브러리 형태로 결합 시 카피레프트(Copyleft)가 적용되지 않는데, 이는 추가 제약 사항에 해당됩니다. <br>
 따라서, GPL 2.0과 LGPL 2.1 버전을 사용 시, 충돌이 발생하게 됩니다. <br>
-자세한 충돌 관계는 GNU 사이트[^gnu_compatibility]에서 확인할 수 있습니다.
+자세한 충돌 관계는 [GNU 사이트](https://www.gnu.org/licenses/gpl-faq.html#AllCompatibility){:target="_blank"}에서 확인할 수 있습니다.
 {: .h4_box}
-----
-[^gnu_compatibility]: [https://www.gnu.org/licenses/gpl-faq.html#AllCompatibility](https://www.gnu.org/licenses/gpl-faq.html#AllCompatibility){:target="_blank" .link}
-
-         
