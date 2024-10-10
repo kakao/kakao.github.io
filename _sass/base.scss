@@ -57,7 +57,7 @@ p {
 
 a {
   color: $link-color;
-  text-decoration: none;
+  text-underline-offset : 3px;
 }
 
 a:not([class]) {
@@ -95,7 +95,7 @@ hr {
 
 // adds a GitHub-style sidebar to blockquotes
 blockquote {
-  margin: 10px 0;
+  margin: 24px 0;
 
   // resets user-agent stylesheets for blockquotes
   margin-block-start: 0;

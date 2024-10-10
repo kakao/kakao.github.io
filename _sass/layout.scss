@@ -40,6 +40,7 @@
 }
 
 .main-content-wrap {
+  max-width: 860px;
   @include container;
 
   padding-top: $gutter-spacing-sm;

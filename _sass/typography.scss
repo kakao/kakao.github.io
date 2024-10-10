@@ -22,9 +22,9 @@ h2,
 h3,
 .text-gamma {
   @include fs-6;
-  margin: 16px 0 0 12px;
-  padding: 2px 0 2px 12px;
-  border-left: 6px solid #08B4AB;
+  margin: 16px 0 0 0;
+  padding: 2px 0 2px 0;
+  font-weight: 700;
 }
 
 .h3_box {
@@ -36,7 +36,7 @@ h4,
 .text-delta {
   @include fs-5;
   //margin: 16px 10px 0 20px;
-  padding: 0 10px;
+  padding: 0 10px 0 0;
   font-weight: 700;
 }
 

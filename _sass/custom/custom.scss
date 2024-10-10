@@ -9,6 +9,10 @@
   color:#ffffff !important;
 }
 
+.site-title  {
+  text-decoration: none;
+}
+
 .site-header .icon{
   color:#ffcd00;
 }
@@ -22,9 +26,10 @@
 }
 
 blockquote strong{
+  color: $grey-dk-200;
   font-size: 14px;
   font-weight: 700;
-  line-height: 30px;
+  line-height: 21px;
 }
 
 .toc {
@@ -32,22 +37,23 @@ blockquote strong{
   padding: 42px 10px 6px 0;
 }
 
-.div_box {
-  padding: 16px ;
+p.new, .div_box {
+  @include fs-3;
+  padding: 20px ;
   line-height: 180%;
-  background: #fff;
-  border: 1px solid #ccc;
-  border-radius: 8px;
+  background: #fcfcfc;
+  border: 1px solid #ddeedd;
+  border-radius: 16px;
 }
 
 
-div.new, p.new, blockquote.new {
+div.new, blockquote.new {
   @include fs-4;
-  padding: 16px;
-  border-radius: 4px;
+  padding: 20px ;
+  border-radius: 16px;
   background-color: #FBFBFB;
   box-shadow: none;
-  border: 1px solid #CCE6DF;;
+  border: 1px solid #EEEBEE;;
 }
 
 
@@ -64,11 +70,19 @@ div.new, p.new, blockquote.new {
 
 blockquote p{
   @include fs-3;
-  line-height: 170%;
-  margin-bottom: 4px !important;
-  padding: 2px 0;
- // font-family: "SFMono-Regular", menlo, consolas, monospace;
+  color: $grey-dk-600;
+  line-height: 140%;
+  margin-top: 7px;
+  margin-bottom: 7px;
+  padding: 3px 0;
 
+}
+
+.div_box li{
+  @include fs-3;
+  color: $grey-dk-600;
+  line-height: 100%;
+  padding: 3px 0;
 }
 
 //
