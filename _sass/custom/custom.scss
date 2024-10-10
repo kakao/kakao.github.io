@@ -28,19 +28,8 @@ blockquote strong{
 }
 
 .toc {
-  margin: 42px 0 0 0 ;
-  color: #222;
-  padding: 2px 10px 6px 0;
-  font-weight: 500;
-  font-size: 20px;
- // font-family: "SFMono-Regular", menlo, consolas, monospace;
-  border-bottom:1px solid #eeeeee;
-}
-
-.toc img {
-  vertical-align: middle;
-  margin: 0 6px 4px 0 ;
-  width: 17px;
+  margin: 0 ;
+  padding: 42px 10px 6px 0;
 }
 
 .div_box {
@@ -82,10 +71,10 @@ blockquote p{
 
 }
 
-
-a:not([class]) {
-  text-decoration: none !important;
-}
+//
+//a:not([class]) {
+//  text-decoration: none !important;
+//}
 
 .link {
   color:#038C65;

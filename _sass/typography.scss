@@ -35,9 +35,9 @@ h4,
 h4,
 .text-delta {
   @include fs-5;
-  margin: 16px 10px 0 20px;
+  //margin: 16px 10px 0 20px;
   padding: 0 10px;
-  border-left: 5px solid #007151;
+  font-weight: 700;
 }
 
 .h4_box {
