@@ -5,24 +5,18 @@ h1,
 .text-alpha {
   @include fs-8;
 
-  font-weight: 500;
-  padding-bottom: 16px;
+  font-weight: 700;
+  padding-bottom: 36px;
   color: #222;
-  line-height: 1.25;
-  letter-spacing: -2px;
-  border-bottom: 1px solid #ddd;
 }
 
 h2,
 .text-beta,
 #toctitle {
-  @include fs-7;
-  padding: 6px 0 4px 12px;
-  color: #038c65;
+  @include fs-6-lg;
+  padding: 36px 0 4px 0;
+  margin-bottom: 10px;
   font-weight: 700;
-  letter-spacing: -.2px;
-  border-bottom: 1px solid #038c65;
-  border-left: 8px solid #038c65;
 }
 
 h3,
@@ -67,7 +61,7 @@ h5,
 }
 h6,
 .text-zeta {
-  @include fs-2;
+  @include fs-4;
 }
 
 

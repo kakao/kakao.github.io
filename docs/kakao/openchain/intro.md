@@ -57,9 +57,9 @@ ISO/IEC 5230 인증의 모든 요구사항을 준수한다면, 보유하고 있�
 
 오픈체인 프로젝트에서 제안하고 있는 인증 방법은 아래의 세 가지가 있습니다.
 
-* [자체 인증](#자체-인증self-certification)
-* [독립 평가](#독립-평가independent-assessment)
-* [타사 인증](#타사-인증third-party-certification)
+* [자체 인증]({{site.baseurl}}/docs/kakao/openchain/intro/#자체-인증self-certification)
+* [독립 평가]({{site.baseurl}}/docs/kakao/openchain/intro/#독립-평가independent-assessment)
+* [타사 인증]({{site.baseurl}}/docs/kakao/openchain/intro/#타사-인증third-party-certification)
 {: .fs-4}
 
   
