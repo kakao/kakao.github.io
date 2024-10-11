@@ -15,6 +15,8 @@ nav_order: 3
 <img src="https://t1.kakaocdn.net/olive/assets/images/menu-license.svg" class="check_img">[Contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/){:target="_blank" .line .fs-5}<br>
 <img src="https://t1.kakaocdn.net/olive/assets/images/menu-license.svg" class="check_img">[Code of Conduct](https://opensource.guide/code-of-conduct/){:target="_blank" .line .fs-5}<br>
 
+----
+
 ## 오픈소스 라이선스 선택하기
 MIT, Apache 2.0, 그리고 GPLv3가 가장 인기있는 오픈소스 라이선스입니다. 이 외에도 사용할 수 있는 오픈소스 라이선스가 많습니다.<br>
 [choosealicense.com](https://choosealicense.com/){:target="_blank" .link}에서 이러한 라이선스의 전체 텍스트 및 사용 방법에 대한 지침을 찾을 수 있습니다.<br>
@@ -22,7 +24,9 @@ MIT, Apache 2.0, 그리고 GPLv3가 가장 인기있는 오픈소스 라이선�
 
 > **참고하기**<br>
 > * [오픈소스의 법적 측면](https://opensource.guide/ko/legal/){:target="_blank" .line}
-{: .fs-3 .h3_box }
+
+
+----
 
 ## README 작성하기
 
@@ -37,7 +41,8 @@ README 파일을 작성할 때 아래 사항을 참고해 작성합니다.
 * @18F의 “[Making READMEs Readable](https://pages.18f.gov/open-source-guide/making-readmes-readable/){:target="_blank" .line}”  
 * @PurpleBooth의 [README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2){:target="_blank" .line}
 * Google Guava [README.md](https://github.com/google/guava/blob/master/README.md){:target="_blank" .line}
-{: .fs-3 .h3_box}
+
+----
 
 ## 기여(Contributing) 가이드라인 작성하기
 
@@ -56,26 +61,27 @@ README 파일을 작성할 때 아래 사항을 참고해 작성합니다.
 * @nayafia의 [contributing guide template](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md){:target="_blank" .line} 
 * @mozilla의 “[How to Build a CONTRIBUTING.md](http://mozillascience.github.io/working-open-workshop/contributing/){:target="_blank" .line}”  
 * Spring framework [CONTRIBUTING.md](https://github.com/spring-projects/spring-framework/blob/main/CONTRIBUTING.md){:target="_blank" .line}  
-{: .fs-3 .h3_box}
+
 
 ### CLA(Contributor Licensing Agreement) 동의
 CLA 동의는 오픈소스 프로젝트에 대한 기여자들로부터 오픈소스 프로젝트에 대한 관리 권한을 위임받는 것입니다. <br>
 이는 저작권 및 지적재산권 소송이나 라이선스 변경 등, 주요 이슈 발생 시 대응을 위해 필요한 절차입니다.<br>
-{: .h3_box}
+
 
 [CLA Assistant](https://cla-assistant.io/){:target="_blank" .line}를 활용하여 CLA 동의를 받을 수 있습니다. CLA Assistant를 사용하는 방법은 아래와 같습니다.
-{: .h3_box}
+
 
 1. [GIST](https://gist.github.com/){:target="_blank" .line}에 CLA 생성
 2. [CLA Assistant](https://cla-assistant.io/){:target="_blank" .line}에서 **Configure CLA** 버튼을 클릭 후, 적용할 저장소 및 CLA 선택 
    - CLA에 서명하지 않은 PR을 보내는 사람은 PR(Pull Request) 에 다음과 같이 메시지가 표시됩니다.
    - 컨트리뷰터(Contributor)는 **Contributor License Agreement** 링크를 클릭하면 서명할 실제 CLA로 이동할 수 있습니다. 이때, **GitHub 인증 후 동의** 절차를 진행하게 됩니다.<br>
      <img src="{{ site.baseurl }}/assets/images/cla-unsigned.png" class="my-6" width="850">
-{: .h3_box}
+
 
 > **참고하기**<br>
 > * [카카오 오픈소스 Khaiii CLA 동의](https://cla-assistant.io/kakao/khaiii){:target="_blank" .line} 링크에서 CLA 동의 예시를 확인할 수 있습니다.
-{: .fs-3 .h4_box }
+
+----
 
 ## 행동 강령(Code of conduct) 수립
 
@@ -91,4 +97,4 @@ CLA 동의는 오픈소스 프로젝트에 대한 기여자들로부터 오픈�
 > 
 >* [Contributor Covenant](https://www.contributor-covenant.org/){:target="_blank" .link} - Kubernetes, Rails 및 Swift를 포함한 40,000개 이상의 오픈소스 프로젝트에서 사용되는 행동 강령
 > * [Google: Code of conduct](https://github.com/google/.github/blob/master/CODE_OF_CONDUCT.md){:target="_blank" .link}
-{: .fs-3 .h4_box }
+
