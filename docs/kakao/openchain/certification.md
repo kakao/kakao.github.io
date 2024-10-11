@@ -13,13 +13,13 @@ nav_order: 1
 
 ## 카카오, 오픈소스 국제 표준 인증 획득
 보도자료  2022년 01월 25일
-{: .fs-3 .fw-300 }
 
 
-<img src="{{ site.baseurl }}/assets/images/kakaoopenchain.png" width="650"><br>
+
+<img src="https://t1.kakaocdn.net/olive/ossguide/kakaoopenchain.png" width="650"><br>
 {: .openchain_bg}
 
-- **오픈체인(OpenChain) 프로젝트**의 <span>국제 표준 인증(ISO/IEC 5230:2020)</span>{: .text-red-200 } 획득
+- **오픈체인(OpenChain) 프로젝트**의 <span>국제 표준 인증(ISO/IEC 5230:2020)</span>{: .text-red-400 } 획득
 - 카카오의 오픈소스 역량 적극적으로 공유하여 개발 생태계 발전에 기여할 것
 
 
@@ -47,6 +47,6 @@ nav_order: 1
 카카오 정의정 CTO는 “다양한 산업 분야에서 오픈소스 사용이 증가하고 그 중요성이 커지고 있다”며 “그동안 쌓아온 카카오의 오픈소스 역량을 적극적으로 공유해 개발 생태계 발전에 앞장설 것”이라고 말했다.(끝)
 
 > **출처**
-> [https://www.kakaocorp.com/page/detail/9664](https://www.kakaocorp.com/page/detail/9664){:target="_blank" .link .fs-3}
-{: .fs-3}
+> [https://www.kakaocorp.com/page/detail/9664](https://www.kakaocorp.com/page/detail/9664){:target="_blank" .link }
+
 

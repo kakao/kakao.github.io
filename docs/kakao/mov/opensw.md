@@ -13,14 +13,18 @@ nav_order: 2
 {: .important }
 ## 2021 공개SW 페스티벌: 기조강연 3
 2021년 공개SW 페스티벌에서 카카오의 황은경 개발자가 **오픈소스 관리 서비스와 기업의 역할**라는 제목으로 기조 강연을 진행했습니다.
-<iframe width="960" height="540" src="https://www.youtube.com/embed/3rtLsmrHBVQ?start=40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="774" height="486" src="https://www.youtube.com/embed/3rtLsmrHBVQ?start=40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---- 
 
 {: .important }
 ## 2021 공개SW 페스티벌: 트랙 4 > 세션 1
 2021년 공개SW 페스티벌에서 **공개SW와 토크: 오픈체인 프로젝트와 한국 기업의 오픈소스 거버넌스 구축 사례**를 주제로 패널 토의를 진행했습니다.
-<iframe width="960" height="540" src="https://www.youtube.com/embed/_CsSxXcmsdI?start=40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="774" height="486" src="https://www.youtube.com/embed/_CsSxXcmsdI?start=40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---- 
 
 {: .important }
 ## 2020 공개SW 페스티벌: 트랙1 > 세션1
 2020년 공개SW 페스티벌에서 카카오의 이한솔 개발자가 **Flutter로 오픈소스 입문하기**라는 제목으로 발표했습니다.
-<iframe width="960" height="540" src="https://www.youtube.com/embed/EZb43eUGShg?start=40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="774" height="486" src="https://www.youtube.com/embed/EZb43eUGShg?start=40" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
