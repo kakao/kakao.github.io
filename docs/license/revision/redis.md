@@ -10,21 +10,21 @@ nav_order: 6
 ## Redis : RSAL, SSPL Dual License 적용
 ### 변경사항
 라이선스 변경사항은 아래와 같습니다.
-{: .h3_box}
 
-{: .new .h3_box}
-Redis의 라이선스가 BSD-3 에서  <span> RSALv2(Redis Source Available License) 또는 SSPLv1(Server Side Public License)</span>{: .text-red-200 }로 변경되었습니다.<br>
+
+{: .div_box}
+Redis의 라이선스가 BSD-3 에서  <span> RSALv2(Redis Source Available License) 또는 SSPLv1(Server Side Public License)</span>{: .text-red-400 }로 변경되었습니다.<br>
 Redis 7.4 버전부터 RSALv2(Redis Source Available License) 또는 SSPLv1(Server Side Public License) 라이선스가 적용됩니다.([Redis Dual 라이선스 적용](https://redis.io/blog/redis-adopts-dual-source-available-licensing/){:target="_blank" .line})<br>
 이전에 사용되던 BSD-3 라이선스가 더이상 적용되지 않습니다.<br>
 
 ### 주의 사항
 변경에 따른 주의사항은 아래와 같습니다.
-{: .h3_box}
+
 - 새로운 라이선스에 따라 Redis 제품을 호스팅하는 클라우드 서비스 제공업체는 더 이상 Redis 소스 코드를 무료로 사용할 수 없습니다. 
 - 예를 들어, 클라우드 서비스 제공업체는 Redis 코드 유지 관리업체인 Redis와의 라이선스 조건에 동의한 후에만 Redis 7.4를 제공할 수 있습니다.
 - [RSALv2(Redis Source Available License)](https://redis.com/legal/rsalv2-agreement/){:target="_blank" .line} 특징
   - 사용/배포등은 자유롭지만 Redis 이외 다른 클라우드 등에서 서비스하는 것을 제한하는 형태의 라이선스
-  {: .h3_box}
+  
 
 ### FAQ 주요 사항
 3. Redis 오픈 소스 제품의 최종 사용자에게 이러한 변경이 미치는 영향은 무엇입니까?<br>

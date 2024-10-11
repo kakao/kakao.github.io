@@ -66,9 +66,9 @@ a:not([class]) {
 }
 
 code {
-  font-family: $mono-font-family;
-  font-size: 1em;
-  line-height: $body-line-height;
+  font-family: $body-font-family;
+  font-size: $font-size-4-sm;
+  line-height: 20px;
 }
 
 figure,
@@ -88,7 +88,7 @@ img {
 hr {
   height: 1px;
   padding: 0;
-  margin: $sp-6 0;
+  margin: $sp-10 0;
   background-color: $border-color;
   border: 0;
 }

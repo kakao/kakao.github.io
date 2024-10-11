@@ -10,39 +10,39 @@ grand_parent: 오픈소스 라이선스
 
 ### 라이선스 요약
 
-OFL-1.1 라이선스는 기본적으로 고지에 대한 의무가 주를 이루고 있고 <span>자체 판매 금지</span>{: .text-red-200 } 조항이 있습니다.<br>
+OFL-1.1 라이선스는 기본적으로 고지에 대한 의무가 주를 이루고 있고 <span>자체 판매 금지</span>{: .text-red-400 } 조항이 있습니다.<br>
 OFL-1.0 라이선스 대신 OFL-1.1 라이선스를 사용할 것을 권장합니다.<br>
-{: .h3_box}
 
-{: .new-license}
+
+{: .div_box}
 > #### 소스 형태로 재배포
 > - **고지 의무**
 >   - 소스코드 내 명시된 저작권과 라이선스 정보를 그대로 유지한 상태로 재배포합니다.<br>
 > - **자체 판매 금지**
->   - <span>폰트 자체를 단독으로 판매 금지</span>{: .text-red-200 }합니다.(GPL과 호환되지 않음)<br>
+>   - <span>폰트 자체를 단독으로 판매 금지</span>{: .text-red-400 }합니다.(GPL과 호환되지 않음)<br>
 >   - 다른 프로그램과 함께 배포하거나 판매하는것은 허용됩니다.
->{: .h4_box}
+>
 
 
 
 ### 라이선스 설명
 [OFL-1.1](https://opensource.org/licenses/OFL-1.1){:target="_blank" .line} 는 글꼴 협업을 촉진하고 지원하는 라이선스입니다.<br>
-{: .h3_box}
+
 
 OFL-1.1 과 OFL-1.0 라이선스와 다른점
-{: .h3_box}
+
 - OFL-1.1 라이선스에서는 글꼴 이름이 기본적으로 예약되지 않음
 - 모든 예약된 글꼴 이름은 OFL 헤더의 저작권 표시와 함께 명시적으로 나열되어야 함
-{: .h3_box}
+
 
 >  **참고하기**
 >
 >  OFL-1.1 라이선스에 관한 보다 자세한 내용은 [라이선스 전문](https://opensource.org/licenses/OFL-1.1){:target="_blank" .line}을 참고합니다.
-{: .h3_box}
+
 
 ### 소스코드 내 라이선스 문구
 OFL-1.1 라이선스 하에 오픈소스는 일반적으로 소스코드 상단에 아래와 같은 문구가 존재합니다.  
-{: .h3_box}
+
 
 ```
 Copyright (c) <dates>, <Copyright Holder> (<URL|email>),
@@ -143,31 +143,31 @@ DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.
 ```
-{: .fs-3 .h3_box}
+
+----
 
 ## 배포 형태별 의무사항
 ### Case 1: 소스 형태로 재배포
 OFL-1.1 라이선스 하에 오픈소스를 소스 형태로 재배포 시, 아래 사항들을 준수합니다.  
-{: .h3_box}
+
 #### 고지 의무
 - 저작권 고지
 - 라이선스 사본 제공
 - 보증 부인 고지
-{: .h3_box}
+
 
 ### Case 2: 바이너리 형태로 재배포
 
 BSD-2-Clause 라이선스 하에 오픈소스를 빌드하여 바이너리 형태로만 재배포 시, 아래 사항들을 준수합니다.
-{: .h3_box}
+
 
 #### 고지 의무
 아래의 내용을 포함하는 오픈소스 고지문을 생성하여 바이너리 재배포 시 동봉합니다.
-{: .h3_box}
 
 - 저작권 고지
 - 라이선스 사본 제공
 - 보증 부인 고지
-{: .h3_box}
+
 
 >  **참고하기**
 >

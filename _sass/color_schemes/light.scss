@@ -6,7 +6,8 @@ $nav-child-link-color: $grey-dk-600 !default;
 $sidebar-color: $grey-dk-700 !default;
 $base-button-color: #f7f7f7 !default;
 $btn-primary-color: $purple-100 !default;
-$code-background-color: $grey-lt-000 !default;
+$code-background-color: $grey-lt-400 !default;
+$code-linenumber-color: #555555; // OneDarkJekyll .nf for syntax-one-dark-vivid
 $feedback-color: darken($sidebar-color, 3%) !default;
 $table-background-color: $white !default;
 $search-background-color: $grey-dk-250;

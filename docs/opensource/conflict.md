@@ -28,7 +28,7 @@ nav_order: 3
 보다 자세한 내용은 [**API는 공정이용(fair use)의 대상인가**](https://m.lawtimes.co.kr/Content/Article?serial=169564){:target="_blank"} 기사를 참고합니다.
 {: .div_box}
 
-<hr class="mt-10">
+----
 
 ## 한글과컴퓨터 vs Artifex
 [한글과컴퓨터와 Artifex의 고스트스크립트(Ghostscript) 소송](http://www.ddaily.co.kr/news/article.html?no=156012){:target="_blank" .line}
@@ -53,7 +53,7 @@ nav_order: 3
   - AGPL: 9.07 버전부터 GPL → AGPL로 라이선스 변경
   - Commercial: 라이선스 구매
 
-<hr class="mt-10">
+----
 
 ## VMWare vs Linux 개발자
 [VMWare와 리눅스 개발자간 소송](http://www.oss.kr/oss_news/609022){:target="_blank" .line}
@@ -67,7 +67,7 @@ nav_order: 3
   - Vmklinux와 Vmkernel의 결합방식은 다루지 않음
 - 크리스토프 헬비그가 항소를 밝혔으나 이후 합의
 
-<hr class="mt-10">
+----
 
 ## Skype vs gpl-violations.org
 [Skype가 판매한 SMC 전화 단말기 WSKP100가 GPL2 위반(2007년 7월 29일)](http://www.zdnet.co.kr/news/news_view.asp?artice_id=00000039159822&type=det&re=){:target="_blank" .line}
@@ -75,7 +75,7 @@ nav_order: 3
 - 소스코드 공개 및 벌금 지불 판결
 - 유통 업체에게도 GPL 위반 책임을 물은 사례이며, 본국이 아닌 독일에서 소송 및 판결
 
-<hr class="mt-10">
+----
 
 ## 엘림넷 vs 하이온넷
 [VTUND 기반의 엘림넷 제품을 하이온넷이 개작/상용화해 GPL 위반(2005년)](https://olis.or.kr/library/maindataDetail.do?bbsId=120&bbsNum=546){:target="_blank" .line}
@@ -83,7 +83,7 @@ nav_order: 3
 - 엘림넷에서 VTUND를 기반으로 개발한 ETUND를 하이온넷에서 HL로 개작 및 상용화
 - 엘림넷은 영업비밀 침해에 대한 고소 진행, FSF와 GNU는 저작권법 위반 경고
 
-<hr class="mt-10">
+----
 
 ## Xiaomi MIUI의 GPL 위반
 [Xiaomi가 MIUI에 리눅스 커널 기반 GPL 코드 포함(2014년)](http://www.hitech.co.kr/main/bbsview.php?gMenu=101&num=783){:target="_blank" .line}
@@ -92,7 +92,7 @@ nav_order: 3
 - 이후 2015년 3월 31일에 Xiaomi의 Mi3, Mi4, Mi Note의 [소스코드 공개](http://www.oss.kr/oss_news/616161){:target="_blank" .line} - 2015.3.31
   - 코드 공개는 2014년 10월에 약속했으며, 자사 기기의 정보가 너무 많이 유출된다며 공개를 미루다, 수정 후 공개 진행
 
-<hr class="mt-10">
+----
 
 ## Orange GPL위반
 [프랑스 법원, 대형 통신사 Orange에게 GPL 위반으로 손해배상 판결](https://heathermeeker.com/2024/02/17/french-court-issues-damages-award-for-violation-of-gpl/){:target="_blank" .line}
@@ -114,7 +114,7 @@ Orange가 Entr'Ouvert의 Lasso 소프트웨어에 대한 저작권을 침해하�
 보다 자세한 내용은 프랑스 법원, [GPL 위반에 대한 손해배상 판결 내려](https://heathermeeker.com/2024/02/17/french-court-issues-damages-award-for-violation-of-gpl/){:target="_blank" .line} 기사를 참고합니다.
 {: .div_box}
 
-<hr class="mt-10">
+----
 
 ## 게임 관련 분쟁 사례
 

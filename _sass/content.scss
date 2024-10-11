@@ -72,7 +72,8 @@
     > li {
       &::before {
         position: absolute;
-        margin-left: -1.4em;
+        margin-left: -1em;
+        margin-top: 2px;
         color: $grey-dk-600;
         content: "•";
       }
@@ -207,8 +208,8 @@
   h6,
   #toctitle {
     position: relative;
-    margin-top: 42px;
-    margin-bottom: 4px;
+    margin-top: 28px;
+    margin-bottom: 14px;
 
     + table,
     + .table-wrapper,
