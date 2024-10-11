@@ -12,17 +12,17 @@ nav_order: 1
 ## 오픈소스 선택 기준
 오픈소스를 선택할 때 아래의 기준으로 사용한다면 좋은 선택을 할 수 있습니다.
 
-- [기능 비교 분석](#기능-비교-분석)
-- [저장소 확인](#저장소-확인)
-- [라이선스 확인](#라이선스-확인)
-- [보안](#보안)
+- [기능 비교 분석]({{page.url}}#기능-비교-분석)
+- [저장소 확인]({{page.url}}#저장소-확인)
+- [라이선스 확인]({{page.url}}#라이선스-확인)
+- [보안]({{page.url}}#보안)
 
 아래의 목차는 각 기준에 대한 설명입니다.
 
 ### 기능 비교 분석
 
 가장 적합한 오픈소스를 선택하기 위해, 각 오픈소스가 제공하는 기능을 분석하고 비교합니다.
-{: .h3_box}
+
 * **프로젝트에서 필요한 기능 충족**
   - 기본 기능이 적합하게 제공되는가?
   - 필요한 기능만을 제공하는가?
@@ -33,11 +33,11 @@ nav_order: 1
   - 언어
   - 운영체제
 * **성능 확인 및 기능 테스트**
-{: .h3_box}
+
 
 ### 저장소 확인
 선택할 오픈소스 저장소의 품질을 확인합니다.
-{: .h3_box}
+
 * **가이드 문서**
   - README 파일 
   - 사용자를 위한 가이드 문서
@@ -50,11 +50,11 @@ nav_order: 1
   - 릴리스 주기
 * **소스코드 품질**
 * **범용성**, **레퍼런스**
-{: .h3_box}
+
 
 ### 라이선스 확인
 선택할 오픈소스의 라이선스를 확인합니다. 오픈소스에 따라 방법이 상이할 수 있습니다.
-{: .h3_box}
+
 * **GitHub 저장소가 있는 경우**: [예: Alamofire github](https://github.com/Alamofire/Alamofire){:target="_blank" .line}
   - README 문서
   - 소스코드 내 COPYING 문서, LICENSE 문서
@@ -67,12 +67,12 @@ nav_order: 1
 * **검색으로 찾은 소스코드인 경우**
   - 소스코드 내 주석
   - 개발자의 답변
-{: .h3_box}
+
 
 ### 보안
 
 선택할 오픈소스의 보안 관련 정보를 확인합니다.
-{: .h3_box}
+
 * **보안 관련 이슈 확인**
 * **취약점 발생 시 대응 조치**
 * **이슈에서 보안 문제 있는지 확인**
@@ -82,20 +82,23 @@ nav_order: 1
   - 사용하려는 오픈소스를 CVE에서 검색하여, 보안 취약점이 있는지 확인합니다.
 * **GitHub**
   - [Dependabot](https://docs.github.com/en/github/managing-security-vulnerabilities/about-alerts-for-vulnerable-dependencies#dependabot-alerts-for-vulnerable-dependencies){:target="_blank" .line}을 사용해, 오픈소스 리포지토리의 의존성(종속성) 취약점들을 감지하고 경고를 받을 수 있습니다.
-{: .h3_box}
+
+----
 
 ## 오픈소스 선택 시 도움말
 아래는 오픈소스를 선택할 때 도움이 될만한 내용입니다.
 
 ### awesome 검색
 아래와 같이 **awesome**을 오픈소스 이름과 함께 검색하면 좋은 오픈소스를 찾아볼 수 있습니다.
-{: .h3_box }
+
 ```
 awesome + { keyword }
 ```
-{: .h3_box .fs-3 }
-ex) [awesome android-ui](https://www.google.com/search?q=awesome+android-ui&oq=awesome+android-ui){:target="_blank" .line}
-{: .h3_box }
+
+>  **참고하기**
+>
+> ✔︎ [awesome android-ui](https://www.google.com/search?q=awesome+android-ui&oq=awesome+android-ui){:target="_blank" .line}
+
 
 
 ### 잘 만들어진 애플리케이션에서 사용 중인 오픈소스 확인
