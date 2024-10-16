@@ -6,30 +6,8 @@ description: ""
 permalink: /
 ---
 # {{ page.title }}
-
-[//]: # ()
-[//]: # (카카오는 **'오픈소스를 잘 사용하고 오픈소스에 기여할 수 있도록 돕는다'**는 목표를 가지고 오픈소스 가이던스를 하고 있습니다.  )
-
-[//]: # (이 오픈소스 가이드가 오픈소스의 가치를 이해하고, 오픈소스를 올바르게 사용하고 기여하는데 도움이 되기를 바랍니다.)
-
-[//]: # ({: .new .fs-4 })
-
-[//]: # ()
-[//]: # (_“ If I have seen further it is by standing on the shoulders of Giants ”_{: .text-green-200 }_- Isaac Newton_)
-
-[//]: # ({: .fs-5})
-
-[//]: # ()
-[//]: # (```markdown)
-
-[//]: # (“ 내가 더 먼곳을 볼수 있었던것은, 거인의 어깨위에 올라 있었기 때문이다. ”)
-
-[//]: # (오픈소스라는 거인의 어깨위에서 여러분은 더 멀리 보고 더 많은 것을 할 수 있습니다.)
-
-[//]: # (```)
-
 <div class="summary">
-카카오는 <strong>'개발자들이 오픈소스를 잘 사용하고 오픈소스에 기여할 수 있도록 돕는다'</strong>를 목표로 오픈소스를 가이던스 하고 있습니다.<br>
+카카오는 <strong>'개발자들이 오픈소스를 잘 활용하고 기여할 수 있도록 지원'</strong>하기 위해 오픈소스 가이드를 제공하고 있습니다.<br>
 </div>
 
 ><strong class="text-green-200 .fs-4">“If I have seen further it is by standing on the shoulders of Giants.”</strong> <strong>- Isaac Newton</strong><br>
@@ -42,153 +20,149 @@ permalink: /
 
 
 ## 목차
-
-
-<div style="max-width:960px">
-    <div class="content_wrap">
-        <div class="contents_block">
-            <div class="contents_tt">
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <g clip-path="url(#clip0_19_131)">
-                <rect x="0.5" y="0.5" width="23" height="23" rx="2.5" fill="white" stroke="#807F93"/>
-                <path d="M0.5 3C0.5 1.61929 1.61929 0.5 3 0.5H21C22.3807 0.5 23.5 1.61929 23.5 3V5.5H0.5V3Z" fill="#F1F1F3" stroke="#807F93"/>
-                <path d="M12.728 11.5599L11.272 17.6399" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M7.82396 16.824L4.95996 14.6L7.82396 12.376" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M16.176 16.824L19.04 14.6L16.176 12.376" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M6.23206 3.26404H6.60806" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M3.61603 3.26416H3.98403" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M8.85602 3.26404H9.22402" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
-                </g>
-                <defs>
-                <clipPath id="clip0_19_131">
-                <rect width="24" height="24" fill="white"/>
-                </clipPath>
-                </defs>
-                </svg>
-                <a href="{{ site.baseurl }}/docs/opensource/">오픈소스</a>
-            </div>
-            <div class="contents_body">
-                <ul>
-                    <li>오픈소스 정의와 오픈소스를 보호하는 지적재산권 및 라이선스 등에 대해 알아봅니다.</li>
-                    <li>다양한 오픈소스 분쟁사례와 인공지능(AI) 관련 오픈소스 이슈를 소개합니다.</li>
-                </ul>
-            </div>
-        </div>
-    </div>
-
-    <div class="content_wrap">
-        <div class="contents_block">
-            <div class="contents_tt">
+<div class="content_wrap">
+    <div class="contents_block">
+        <div class="contents_tt">
             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <g clip-path="url(#clip0_19_129)">
+            <g clip-path="url(#clip0_19_131)">
             <rect x="0.5" y="0.5" width="23" height="23" rx="2.5" fill="white" stroke="#807F93"/>
-            <path d="M4 15.2H12" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
-            <path d="M4 18.4H20" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
-            <path d="M13 0.5H19V10.5L16 7.5L13 10.5V0.5Z" fill="#F1F1F3" stroke="#807F93" stroke-linejoin="round"/>
+            <path d="M0.5 3C0.5 1.61929 1.61929 0.5 3 0.5H21C22.3807 0.5 23.5 1.61929 23.5 3V5.5H0.5V3Z" fill="#F1F1F3" stroke="#807F93"/>
+            <path d="M12.728 11.5599L11.272 17.6399" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M7.82396 16.824L4.95996 14.6L7.82396 12.376" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M16.176 16.824L19.04 14.6L16.176 12.376" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M6.23206 3.26404H6.60806" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M3.61603 3.26416H3.98403" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M8.85602 3.26404H9.22402" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
             </g>
             <defs>
-            <clipPath id="clip0_19_129">
+            <clipPath id="clip0_19_131">
             <rect width="24" height="24" fill="white"/>
             </clipPath>
             </defs>
             </svg>
-               <a href="{{ site.baseurl }}/docs/license/">오픈소스 라이선스</a>
+            <a href="{{ site.baseurl }}/docs/opensource/">오픈소스</a>
         </div>
-            <div class="contents_body">
+        <div class="contents_body">
             <ul>
-                <li>오픈소스를 이용하기 위해 준수해야 하는 라이선스의 의무사항에 대해 알아봅니다.</li>
-                <li>라이선스들이 가지고 있는 의무사항을 준수하는 방법에 대해 알아봅니다.</li>
+                <li>오픈소스 정의와 오픈소스를 보호하는 지적재산권 및 라이선스 등에 대해 알아봅니다.</li>
+                <li>다양한 오픈소스 분쟁사례와 인공지능(AI) 관련 오픈소스 이슈를 소개합니다.</li>
             </ul>
-        </div>
         </div>
     </div>
-    <div class="content_wrap">
-        <div class="contents_block">
-            <div class="contents_tt">
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <g clip-path="url(#clip0_19_128)">
-                <rect x="0.5" y="3.5" width="23" height="20" rx="2.5" fill="white" stroke="#807F93"/>
-                <path d="M9.71995 11.1039L6.95195 13.8719L6.93595 13.8559L5.52795 12.4479" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M12.864 12.4878H18.464" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M9.71995 16.5038L6.95195 19.2718L6.93595 19.2558L5.52795 17.8478" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M12.864 17.8878H18.464" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M14.072 3.56V3.072C14.072 1.928 13.144 1 12 1C10.856 1 9.92797 1.928 9.92797 3.072V3.56H7.83197V6.32H16.168V3.56H14.072Z" fill="#F1F1F3" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
-                </g>
-                <defs>
-                <clipPath id="clip0_19_128">
-                <rect width="24" height="24" fill="white"/>
-                </clipPath>
-                </defs>
-                </svg>
-                <a href="{{ site.baseurl }}/docs/use/">오픈소스 사용하기</a>
-            </div>
-            <div class="contents_body">
-            <ul>
-                <li>오픈소스의 선택기준과 사용방법에 대해 알아봅니다.</li>
-                <li>오픈소스를 관리하기 위한 방법과 검증 도구를 소개합니다.<br><br></li>
-            </ul>
+</div>
+
+<div class="content_wrap">
+    <div class="contents_block">
+        <div class="contents_tt">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <g clip-path="url(#clip0_19_129)">
+        <rect x="0.5" y="0.5" width="23" height="23" rx="2.5" fill="white" stroke="#807F93"/>
+        <path d="M4 15.2H12" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M4 18.4H20" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M13 0.5H19V10.5L16 7.5L13 10.5V0.5Z" fill="#F1F1F3" stroke="#807F93" stroke-linejoin="round"/>
+        </g>
+        <defs>
+        <clipPath id="clip0_19_129">
+        <rect width="24" height="24" fill="white"/>
+        </clipPath>
+        </defs>
+        </svg>
+           <a href="{{ site.baseurl }}/docs/license/">오픈소스 라이선스</a>
+    </div>
+        <div class="contents_body">
+        <ul>
+            <li>오픈소스를 이용하기 위해 준수해야 하는 라이선스의 의무사항에 대해 알아봅니다.</li>
+            <li>라이선스들이 가지고 있는 의무사항을 준수하는 방법에 대해 알아봅니다.</li>
+        </ul>
+    </div>
+    </div>
+</div>
+<div class="content_wrap">
+    <div class="contents_block">
+        <div class="contents_tt">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <g clip-path="url(#clip0_19_128)">
+            <rect x="0.5" y="3.5" width="23" height="20" rx="2.5" fill="white" stroke="#807F93"/>
+            <path d="M9.71995 11.1039L6.95195 13.8719L6.93595 13.8559L5.52795 12.4479" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M12.864 12.4878H18.464" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M9.71995 16.5038L6.95195 19.2718L6.93595 19.2558L5.52795 17.8478" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M12.864 17.8878H18.464" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M14.072 3.56V3.072C14.072 1.928 13.144 1 12 1C10.856 1 9.92797 1.928 9.92797 3.072V3.56H7.83197V6.32H16.168V3.56H14.072Z" fill="#F1F1F3" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
+            </g>
+            <defs>
+            <clipPath id="clip0_19_128">
+            <rect width="24" height="24" fill="white"/>
+            </clipPath>
+            </defs>
+            </svg>
+            <a href="{{ site.baseurl }}/docs/use/">오픈소스 사용하기</a>
         </div>
+        <div class="contents_body">
+        <ul>
+            <li>오픈소스의 선택기준과 사용방법에 대해 알아봅니다.</li>
+            <li>오픈소스를 관리하기 위한 방법과 검증 도구를 소개합니다.<br><br></li>
+        </ul>
+    </div>
+    </div>
+</div>
+
+<div class="content_wrap">
+    <div class="contents_block">
+        <div class="contents_tt">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <g clip-path="url(#clip0_19_131)">
+            <rect x="0.5" y="0.5" width="23" height="23" rx="2.5" fill="white" stroke="#807F93"/>
+            <path d="M0.5 3C0.5 1.61929 1.61929 0.5 3 0.5H21C22.3807 0.5 23.5 1.61929 23.5 3V5.5H0.5V3Z" fill="#F1F1F3" stroke="#807F93"/>
+            <path d="M12.728 11.5599L11.272 17.6399" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M7.82396 16.824L4.95996 14.6L7.82396 12.376" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M16.176 16.824L19.04 14.6L16.176 12.376" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M6.23206 3.26404H6.60806" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M3.61603 3.26416H3.98403" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M8.85602 3.26404H9.22402" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
+            </g>
+            <defs>
+            <clipPath id="clip0_19_131">
+            <rect width="24" height="24" fill="white"/>
+            </clipPath>
+            </defs>
+            </svg>
+            <a href="{{ site.baseurl }}/docs/contribute">오픈소스에 기여하기</a>
+        </div>
+        <div class="contents_body">
+        <ul>
+            <li>오픈소스에 기여하는 다양한 방법과 의미, 그리고 필요한 것들에 대해 알아봅니다.</li>
+            <li>오픈소스에 참여하거나 내가 만든 코드를 오픈소스로 공개하여 다른 이들에게 기여할 수 있습니다.</li>
+        </ul>
         </div>
     </div>
-    
-    <div class="content_wrap">
-        <div class="contents_block">
-            <div class="contents_tt">
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <g clip-path="url(#clip0_19_131)">
-                <rect x="0.5" y="0.5" width="23" height="23" rx="2.5" fill="white" stroke="#807F93"/>
-                <path d="M0.5 3C0.5 1.61929 1.61929 0.5 3 0.5H21C22.3807 0.5 23.5 1.61929 23.5 3V5.5H0.5V3Z" fill="#F1F1F3" stroke="#807F93"/>
-                <path d="M12.728 11.5599L11.272 17.6399" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M7.82396 16.824L4.95996 14.6L7.82396 12.376" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M16.176 16.824L19.04 14.6L16.176 12.376" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M6.23206 3.26404H6.60806" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M3.61603 3.26416H3.98403" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M8.85602 3.26404H9.22402" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
-                </g>
-                <defs>
-                <clipPath id="clip0_19_131">
-                <rect width="24" height="24" fill="white"/>
-                </clipPath>
-                </defs>
-                </svg>
-                <a href="{{ site.baseurl }}/docs/contribute">오픈소스에 기여하기</a>
-            </div>
-            <div class="contents_body">
-            <ul>
-                <li>오픈소스에 기여하는 다양한 방법과 의미, 그리고 필요한 것들에 대해 알아봅니다.</li>
-                <li>오픈소스에 참여하거나 내가 만든 코드를 오픈소스로 공개하여 다른 이들에게 기여할 수 있습니다.</li>
-            </ul>
-            </div>
+</div>
+<div class="content_wrap">
+    <div class="contents_block">
+        <div class="contents_tt">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <g clip-path="url(#clip0_19_131)">
+            <rect x="0.5" y="0.5" width="23" height="23" rx="2.5" fill="white" stroke="#807F93"/>
+            <path d="M0.5 3C0.5 1.61929 1.61929 0.5 3 0.5H21C22.3807 0.5 23.5 1.61929 23.5 3V5.5H0.5V3Z" fill="#F1F1F3" stroke="#807F93"/>
+            <path d="M12.728 11.5599L11.272 17.6399" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M7.82396 16.824L4.95996 14.6L7.82396 12.376" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M16.176 16.824L19.04 14.6L16.176 12.376" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M6.23206 3.26404H6.60806" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M3.61603 3.26416H3.98403" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M8.85602 3.26404H9.22402" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
+            </g>
+            <defs>
+            <clipPath id="clip0_19_131">
+            <rect width="24" height="24" fill="white"/>
+            </clipPath>
+            </defs>
+            </svg>
+            <a href="{{ site.baseurl }}/docs/kakao/">카카오의 오픈소스 활동</a>
         </div>
-    </div>
-    <div class="content_wrap">
-        <div class="contents_block">
-            <div class="contents_tt">
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <g clip-path="url(#clip0_19_131)">
-                <rect x="0.5" y="0.5" width="23" height="23" rx="2.5" fill="white" stroke="#807F93"/>
-                <path d="M0.5 3C0.5 1.61929 1.61929 0.5 3 0.5H21C22.3807 0.5 23.5 1.61929 23.5 3V5.5H0.5V3Z" fill="#F1F1F3" stroke="#807F93"/>
-                <path d="M12.728 11.5599L11.272 17.6399" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M7.82396 16.824L4.95996 14.6L7.82396 12.376" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M16.176 16.824L19.04 14.6L16.176 12.376" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M6.23206 3.26404H6.60806" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M3.61603 3.26416H3.98403" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M8.85602 3.26404H9.22402" stroke="#807F93" stroke-linecap="round" stroke-linejoin="round"/>
-                </g>
-                <defs>
-                <clipPath id="clip0_19_131">
-                <rect width="24" height="24" fill="white"/>
-                </clipPath>
-                </defs>
-                </svg>
-                <a href="{{ site.baseurl }}/docs/kakao/">카카오의 오픈소스 활동</a>
-            </div>
-            <div class="contents_body">
-            <ul>
-                <li>카카오는 다양한 오픈소스 활동을 지원 및 참여하고 있습니다.</li>
-                <li>카카오의 오픈소스 활동과 관련된 발표 영상과 뉴스 등을 소개합니다.</li>
-            </ul>
-            </div>
+        <div class="contents_body">
+        <ul>
+            <li>카카오는 다양한 오픈소스 활동을 지원 및 참여하고 있습니다.</li>
+            <li>카카오의 오픈소스 활동과 관련된 발표 영상과 뉴스 등을 소개합니다.</li>
+        </ul>
         </div>
     </div>
 </div>

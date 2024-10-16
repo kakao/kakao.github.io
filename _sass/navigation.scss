@@ -96,6 +96,11 @@
         cursor: pointer;
       }
 
+      @if $nav-list-expander-right {
+        svg {
+          transform: rotate(90deg);
+        }
+      }
     }
 
     > .nav-list {
