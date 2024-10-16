@@ -34,7 +34,7 @@ nav_order: 1
 {: .important }
 ## 2019년
 **카카오의 오픈소스 관리 시스템 OLIVE로 오픈소스를 요리하다**는 제목으로 오픈소스 관리 방법과 OLIVE Platform의 개발 계획을 공유합니다.
-<video width="774" height="486" controls preload="auto" poster="{{ site.baseurl }}/assets/images/ifkakao2019.png">
+<video width="774" height="486" controls preload="auto" poster="https://t1.kakaocdn.net/olive/ossguide/ifkakao2019.png">
 <source src="https://mk-v1.kakaocdn.net/dn/if-kakao/conf2019/conf_video_2019/2_101_05_m1.mp4" type="video/mp4">
 </video>
 

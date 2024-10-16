@@ -18,7 +18,7 @@ nav_order: 1
 - 사람을 대하는 기술을 습득할 수 있습니다.
 - 경력을 쌓는 데 도움이 됩니다.
 
-### 오픈소스에 참여하여 오픈소스 생태계에 기여하고자 한다면 그 방법에는 여러 가지가 있습니다.**
+### 오픈소스에 참여하여 오픈소스 생태계에 기여하고자 한다면 그 방법에는 여러 가지가 있습니다.
 
 - 자신이 가진 기술을 향상시켜 오픈소스 프로젝트에 참여할 수 있습니다.
 - 커뮤니티가 있는 오픈소스 프로젝트에 참여하여 같이 배우고 또한 다른이에게 기술을 알려줄 수 있습니다.
@@ -27,7 +27,7 @@ nav_order: 1
 ----
 
 ## 오픈소스에 참여하기
-### 오픈소스 프로젝트에 참여하기 위해서는 여러 가지 방법이 있습니다. 코딩을 할 줄 몰라도 가능합니다!**
+### 오픈소스 프로젝트에 참여하기 위해서는 여러 가지 방법이 있습니다. 코딩을 할 줄 몰라도 가능합니다!
 
 - 모임 조직하기
   - 행사 진행을 위한 워크샵/미팅 조직하기: [NodeScool @fzamperin](https://github.com/nodeschool/organizers/issues/406){:target="_blank" .line .fs-3 .fw-700}
@@ -67,18 +67,18 @@ nav_order: 1
 
 
 ### 기업의 오픈소스
-* kakao: [https://tech.kakao.com/opensource/](https://tech.kakao.com/opensource/){:target="_blank" .link} [<img src="https://t1.kakaocdn.net/olive/assets/login/ico_github.png" width="16" height="16" class="github_img">GitHub](https://github.com/kakao){:target="_blank" .line .fs-3 .text-grey-dk-300 }
-* Samsung: [https://opensource.samsung.com/](https://opensource.samsung.com/){:target="_blank" .link} [<img src="https://t1.kakaocdn.net/olive/assets/login/ico_github.png" width="16" height="16" class="github_img">GitHub](https://github.com/samsung){:target="_blank" .line .fs-3 .text-grey-dk-300 }
-* LG전자: [https://opensource.lge.com/](https://opensource.lge.com/){:target="_blank" .link} [<img src="https://t1.kakaocdn.net/olive/assets/login/ico_github.png" width="16" height="16" class="github_img">GitHub](https://github.com/LGE-OSS){:target="_blank" .line .fs-3 .text-grey-dk-300}
-* Naver: [https://naver.github.io/](https://naver.github.io/){:target="_blank" .link} [<img src="https://t1.kakaocdn.net/olive/assets/login/ico_github.png" width="16" height="16" class="github_img">GitHub](https://github.com/naver){:target="_blank" .line .fs-3 .text-grey-dk-300}
-* Line: [https://engineering.linecorp.com/ko/opensource](https://engineering.linecorp.com/ko/opensource){:target="_blank" .link} [<img src="https://t1.kakaocdn.net/olive/assets/login/ico_github.png" width="16" height="16" class="github_img">GitHub](https://github.com/line){:target="_blank" .line .fs-3 .text-grey-dk-300 }
-* SKT: [https://sktelecom.github.io/](https://sktelecom.github.io/){:target="_blank" .link}  [<img src="https://t1.kakaocdn.net/olive/assets/login/ico_github.png" width="16" height="16" class="github_img">GitHub](https://github.com/sktelecom/){:target="_blank" .line .fs-3 .text-grey-dk-300 }
-* Google: [https://opensource.google/projects](https://opensource.google/projects){:target="_blank" .link} [<img src="https://t1.kakaocdn.net/olive/assets/login/ico_github.png" width="16" height="16" class="github_img">GitHub](https://github.com/google){:target="_blank" .line .fs-3 .text-grey-dk-300}
+* kakao: [https://tech.kakao.com/opensource/](https://tech.kakao.com/opensource/){:target="_blank" .link} [<img src="https://t1.kakaocdn.net/olive/ossguide/ico_github.png" width="16" height="16" class="github_img">GitHub](https://github.com/kakao){:target="_blank" .line .fs-3 .text-grey-dk-300 }
+* Samsung: [https://opensource.samsung.com/](https://opensource.samsung.com/){:target="_blank" .link} [<img src="https://t1.kakaocdn.net/olive/ossguide/ico_github.png" width="16" height="16" class="github_img">GitHub](https://github.com/samsung){:target="_blank" .line .fs-3 .text-grey-dk-300 }
+* LG전자: [https://opensource.lge.com/](https://opensource.lge.com/){:target="_blank" .link} [<img src="https://t1.kakaocdn.net/olive/ossguide/ico_github.png" width="16" height="16" class="github_img">GitHub](https://github.com/LGE-OSS){:target="_blank" .line .fs-3 .text-grey-dk-300}
+* Naver: [https://naver.github.io/](https://naver.github.io/){:target="_blank" .link} [<img src="https://t1.kakaocdn.net/olive/ossguide/ico_github.png" width="16" height="16" class="github_img">GitHub](https://github.com/naver){:target="_blank" .line .fs-3 .text-grey-dk-300}
+* Line: [https://engineering.linecorp.com/ko/opensource](https://engineering.linecorp.com/ko/opensource){:target="_blank" .link} [<img src="https://t1.kakaocdn.net/olive/ossguide/ico_github.png" width="16" height="16" class="github_img">GitHub](https://github.com/line){:target="_blank" .line .fs-3 .text-grey-dk-300 }
+* SKT: [https://sktelecom.github.io/](https://sktelecom.github.io/){:target="_blank" .link}  [<img src="https://t1.kakaocdn.net/olive/ossguide/ico_github.png" width="16" height="16" class="github_img">GitHub](https://github.com/sktelecom/){:target="_blank" .line .fs-3 .text-grey-dk-300 }
+* Google: [https://opensource.google/projects](https://opensource.google/projects){:target="_blank" .link} [<img src="https://t1.kakaocdn.net/olive/ossguide/ico_github.png" width="16" height="16" class="github_img">GitHub](https://github.com/google){:target="_blank" .line .fs-3 .text-grey-dk-300}
    - Android Github: [https://github.com/android](https://github.com/android){:target="_blank" .link}
-* Microsoft: [https://opensource.microsoft.com/projects/](https://opensource.microsoft.com/projects/){:target="_blank" .link} [<img src="https://t1.kakaocdn.net/olive/assets/login/ico_github.png" width="16" height="16" class="github_img">GitHub](https://github.com/microsoft){:target="_blank" .line .fs-3 .text-grey-dk-300}
-* Meta: [https://opensource.fb.com/projects/](https://opensource.fb.com/projects/){:target="_blank" .link} [<img src="https://t1.kakaocdn.net/olive/assets/login/ico_github.png" width="16" height="16" class="github_img">GitHub](https://github.com/facebook){:target="_blank" .line .fs-3 .text-grey-dk-300 }
-* Netflix: [https://netflix.github.io/](https://netflix.github.io/){:target="_blank" .link} [<img src="https://t1.kakaocdn.net/olive/assets/login/ico_github.png" width="16" height="16" class="github_img">GitHub](https://github.com/netflix){:target="_blank" .line .fs-3 .text-grey-dk-300 }
-* Uber: [https://uber.github.io/](https://uber.github.io/){:target="_blank" .link} [<img src="https://t1.kakaocdn.net/olive/assets/login/ico_github.png" width="16" height="16" class="github_img">GitHub](https://github.com/uber){:target="_blank" .line .fs-3 .text-grey-dk-300}
+* Microsoft: [https://opensource.microsoft.com/projects/](https://opensource.microsoft.com/projects/){:target="_blank" .link} [<img src="https://t1.kakaocdn.net/olive/ossguide/ico_github.png" width="16" height="16" class="github_img">GitHub](https://github.com/microsoft){:target="_blank" .line .fs-3 .text-grey-dk-300}
+* Meta: [https://opensource.fb.com/projects/](https://opensource.fb.com/projects/){:target="_blank" .link} [<img src="https://t1.kakaocdn.net/olive/ossguide/ico_github.png" width="16" height="16" class="github_img">GitHub](https://github.com/facebook){:target="_blank" .line .fs-3 .text-grey-dk-300 }
+* Netflix: [https://netflix.github.io/](https://netflix.github.io/){:target="_blank" .link} [<img src="https://t1.kakaocdn.net/olive/ossguide/ico_github.png" width="16" height="16" class="github_img">GitHub](https://github.com/netflix){:target="_blank" .line .fs-3 .text-grey-dk-300 }
+* Uber: [https://uber.github.io/](https://uber.github.io/){:target="_blank" .link} [<img src="https://t1.kakaocdn.net/olive/ossguide/ico_github.png" width="16" height="16" class="github_img">GitHub](https://github.com/uber){:target="_blank" .line .fs-3 .text-grey-dk-300}
 
 > **오픈소스 2022 어워드**
 >  - Spring Framework: [https://github.com/spring-projects/spring-framework](https://github.com/spring-projects/spring-framework){:target="_blank" .link} 

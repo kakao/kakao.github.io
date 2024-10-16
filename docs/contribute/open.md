@@ -75,7 +75,7 @@ CLA 동의는 오픈소스 프로젝트에 대한 기여자들로부터 오픈�
 2. [CLA Assistant](https://cla-assistant.io/){:target="_blank" .line}에서 **Configure CLA** 버튼을 클릭 후, 적용할 저장소 및 CLA 선택 
    - CLA에 서명하지 않은 PR을 보내는 사람은 PR(Pull Request) 에 다음과 같이 메시지가 표시됩니다.
    - 컨트리뷰터(Contributor)는 **Contributor License Agreement** 링크를 클릭하면 서명할 실제 CLA로 이동할 수 있습니다. 이때, **GitHub 인증 후 동의** 절차를 진행하게 됩니다.<br>
-     <img src="{{ site.baseurl }}/assets/images/cla-unsigned.png" class="my-6" width="850">
+     <img src="https://t1.kakaocdn.net/olive/ossguide/cla.png" class="my-6" width="850">
 
 
 > **참고하기**<br>

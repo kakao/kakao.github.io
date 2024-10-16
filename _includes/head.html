@@ -31,7 +31,7 @@
     {% endif %}
   {% endfor %}
   {% if favicon %}
-    <link rel="icon" href="{{ site.favicon_ico | default: '/assets/images/img_1.png' | relative_url }}" type="image/x-icon">
+    <link rel="icon" href="{{ site.favicon_ico | default: 'https://t1.kakaocdn.net/olive/ossguide/kakao.png' | relative_url }}" type="image/x-icon">
   {% endif %}
 
   {% include head_custom.html %}
