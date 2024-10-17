@@ -71,7 +71,7 @@
             <li class="nav-list-item {% if page.url == child.url or page.parent == child.title %} active{% endif %}">
               {%- if child.has_children -%}
               <button class="nav-list-expander btn-reset" aria-label="toggle items in {{ child.title }} category" aria-pressed="{% if page.url == child.url or page.parent == child.title %}true{% else %}false{% endif %}">
-                <svg viewBox="0 0 24 24" aria-hidden="true"><use xlink:href="#svg-arrow-right"></use></svg>
+                <svg viewBox="0 0 32 36" aria-hidden="true"><use xlink:href="#svg-arrow-right"></use></svg>
               </button>
               {%- endif -%}
               <a href="{{ child.url | relative_url }}" class="nav-list-link{% if page.url == child.url %} active{% endif %}">• {{ child.title }}</a>

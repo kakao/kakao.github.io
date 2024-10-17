@@ -13,7 +13,7 @@ h2,
 .text-beta,
 #toctitle {
   @include fs-6-lg;
-  padding: 12px 0 4px 0;
+  padding: 24px 0 4px 0;
   margin-bottom: 10px;
   font-weight: 700;
 }
@@ -21,8 +21,7 @@ h2,
 h3,
 .text-gamma {
   @include fs-6;
-  margin: 16px 0 0 0;
-  padding: 2px 0 2px 0;
+  padding: 14px 0 10px 0;
   font-weight: 700;
 }
 
