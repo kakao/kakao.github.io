@@ -76,7 +76,7 @@ figure.highlight {
   box-shadow: none;
   -webkit-overflow-scrolling: touch;
   position: relative;
-  padding: 0;
+  padding: 8px;
 
   // copy button (or other button)
   // the button appear only when there is a hover on the code or focus on button
@@ -229,6 +229,7 @@ code.language-mermaid {
 .highlight,
 pre.highlight {
   background: $code-background-color; // Code Background
+  line-height: 20px;
   // For Backwards Compatibility Before $code-linenumber-color was added
   @if variable-exists(code-linenumber-color) {
     color: $code-linenumber-color; // Code Line Numbers

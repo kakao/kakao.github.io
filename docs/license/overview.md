@@ -19,31 +19,37 @@ nav_order: 1
 - 재배포 시 동일한 라이선스로 배포
 - 카피레프트 조항을 포함하는 라이선스의 경우, 소스코드까지 함께 배포
 
+<hr />
 
 ## 오픈소스 라이선스 구분
 아래 이미지는 퍼미시브(Permissive) 및 카피레프트(Copyleft) 라이선스 계열의 오픈소스 라이선스 종류와 그 관계를 설명하고 있습니다.<br><br>
-![img.png]({{ site.baseurl }}/assets/images/img.png)
+![img.png](https://t1.kakaocdn.net/olive/ossguide/oss_license.png)
 
 >  **참고하기**
 > 
 >  퍼미시브(Permissive) 라이선스와 카피레프트(Copyleft) 라이선스에 관련한 보다 자세한 내용은 [오픈소스 라이선스의 분류]({{ site.baseurl }}/docs/opensource/copyright/#%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4%EC%9D%98-%EB%B6%84%EB%A5%98)를 참고합니다.
 
 
+----
+
 ## 주요 라이선스의 의무사항 비교
 주요 라이선스의 의무사항을 비교한 표는 아래와 같습니다.
 
-| 라이선스              | 무료 이용가능       | 배포 허용가능 | 소스코드 취득가능 | 소스코드 수정가능 | 2차적 저작물 재공개 의무 | 독점 SW와 결합 가능 |
-|:------------------|:--------------|:--------|-----------|-----------|----------------|--------------|
-| MIT               | O             |     O    |       O    |      O     | X              |          O    |
-| BSD2<br/>BSD3     | O             |     O    |       O    |      O     | X              |          O    |
-| Apache            | O             |  O       |        O   |      O     |        X        |          O    |
-| GPLv2<br/>GPLv3   | O             |     O    |      O     |     O      | O              |       X       |
-| LGPLv2<br/>LGPLv3 | O             |     O    |       O    |     O      | O              |        O      |
-| MPL               | O             |     O    |       O    |      O     | O              |        O      |
+| 라이선스           | MIT | BSD2<br/>BSD3 | Apache | GPLv2<br/>GPLv3 | LGPLv2<br/>LGPLv3 | MPL |
+|:---------------|:----|:--------------|--------|-----------------|----------------|-----|
+| 무료 이용가능        | O   | O  | O      | O               | O             | O   |
+| 배포 허용가능        | O   | O  | O      | O               | O            | O   |
+| 소스코드 취득가능      | O   | O  | O      | O               |        O       | O   |
+| 소스코드 수정가능      | O   | O   | O      | O               | O              | O   |
+| 2차적 저작물 재공개 의무 | X   | X  | X      | O               | O              | O   |
+| 독점 SW와 결합 가능   | O   | O   | O      | X               | O              | O   |
 
 >**참고하기**
 >
 >  보다 다양한 라이선스의 주요 내용은 오픈소스SW 라이선스 종합정보 시스템(OLIS)의 [라이선스 비교표](https://olis.or.kr/license/compareGuide.do){:target="_blank" .line}를 참고합니다.  
+
+
+----
 
 ## 일반적으로 사용되는 라이선스
 오픈소스 라이선스 중에 일반적으로 사용되는 라이선스는 아래와 같습니다.
@@ -54,6 +60,8 @@ nav_order: 1
 | BSD  | \* 버클리의 캘리포니아대학에서 배포하는 공개 소프트웨어(Software) 라이선스입니다.<br>\* 라이선스 및 저작권 표시의 의무가 있습니다.<br>\* 적용 사례: Nginx(The BSD 2-Clause License)                                                                                    |
 | MIT | \* MIT에서 해당 대학의 소프트웨어 공학도들을 돕기 위해 개발한 라이선스입니다.<br>\* 라이선스 및 저작권 표시의 의무가 있습니다.<br>\* 적용 사례: Bootstrap, Angular.js, Backbone.js, jQuery                                                                             |
 
+
+----
 
 ## 주의해야 할 라이선스
 오픈소스 라이선스 중에 주의하여 사용해야 하는 라이선스는 아래와 같습니다.

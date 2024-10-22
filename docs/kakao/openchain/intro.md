@@ -7,7 +7,7 @@ nav_order: 2
 ---
 # {{ page.title }}
 <div class="summary">
-이 가이드에서는 오픈체인(OpenChain, <img src="{{ site.baseurl }}/assets/images/openchain.png" width="140">)과 오픈체인 프로젝트에 대하여 알아보고, 오픈체인 <a href="https://www.iso.org/standard/81039.html">ISO/IEC 5230</a> 인증을 받기 위한 과정을 알아봅니다.
+이 가이드에서는 오픈체인(OpenChain, <img src="https://t1.kakaocdn.net/olive/ossguide/openchain.png" width="140">)과 오픈체인 프로젝트에 대하여 알아보고, 오픈체인 <a href="https://www.iso.org/standard/81039.html">ISO/IEC 5230</a> 인증을 받기 위한 과정을 알아봅니다.
 </div>
 
 
@@ -27,6 +27,8 @@ nav_order: 2
 > 2016년에 버전 1.0이 발표되었고, 4년 후인 2020년 12월에는 오픈소스 컴플라이언스에 대한 국제 표준이 정식 등록되었습니다. <br>
 > 즉, 사실상의 표준이었던 오픈체인 규격이 **ISO/IEC 5230:2020**이라는 정식 국제 표준으로 전환되었습니다.<br>
 
+
+
 ## 오픈체인 프로젝트
 비영리 단체인 **리눅스 재단(Linux Foundation)**에서 시작한 오픈체인 프로젝트는 각 기업의 오픈소스 소프트웨어 컴플라이언스 역량을 평가해 국제 인증을 발급합니다.<br>
 공식적인 설명과 구조는 [프로젝트 헌장](https://github.com/OpenChain-Project/Project-Charter-And-Agreements/tree/master/Project-Charter){:target="_blank"}에 기술되어 있습니다.<br>
@@ -38,6 +40,7 @@ nav_order: 2
 
 즉, 오픈체인은 오픈소스 프로그램이 더욱 널리 채택되고 잘 사용되어, 계속해서 개발, 배포 및 유지 관리를 통해 개선될 수 있는 세상을 만들고자 합니다. 이러한 오픈체인 프로젝트에서 수행하는 과업들은 모두에게 열려 있으며, 무료로 사용할 수 있습니다. 또한, 오픈체인 글로벌 커뮤니티는 오픈소스 교육, 오픈소스 정책, OSPO(오픈소스 프로그램 사무소) 등과 같은 프로그램들을 제공하고 있습니다.
 
+----
 
 # OpenChain ISO/IEC 5230
 [ISO/IEC 5230](https://www.iso.org/standard/81039.html){:target="_blank"}은 2020년 말 국제표준화기구(ISO)와 국제전기기술위원회(IEC)가 공동으로 발표한 오픈소스 라이선스 준수를 위한 국제 표준입니다.<br>
@@ -57,10 +60,10 @@ ISO/IEC 5230 인증의 모든 요구사항을 준수한다면, 보유하고 있�
 
 오픈체인 프로젝트에서 제안하고 있는 인증 방법은 아래의 세 가지가 있습니다.
 
-* [자체 인증](#자체-인증self-certification)
-* [독립 평가](#독립-평가independent-assessment)
-* [타사 인증](#타사-인증third-party-certification)
-{: .fs-4}
+* [자체 인증]({{page.url}}#자체-인증self-certification)
+* [독립 평가]({{page.url}}#독립-평가independent-assessment)
+* [타사 인증]({{page.url}}#타사-인증third-party-certification)
+
 
   
 > **참고하기**
