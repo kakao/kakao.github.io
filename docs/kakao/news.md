@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 오픈소스 뉴스
-parent: 카카오의 오픈소스 활동
+parent: ✔︎ 카카오의 오픈소스 활동
 nav_order: 4
 ---
 # {{ page.title }}
