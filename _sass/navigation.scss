@@ -212,14 +212,14 @@
 
 .breadcrumb-nav {
   @include mq(md) {
-    margin-top: -$sp-4;
+    margin-top: -$sp-1;
   }
 }
 
 .breadcrumb-nav-list {
   padding-left: 0;
   padding-top: $sp-3;
-  margin-bottom: $sp-5;
+  margin-bottom: -$sp-2;
   list-style: none;
 }
 

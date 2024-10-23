@@ -6,15 +6,14 @@ description: ""
 permalink: /
 ---
 # {{ page.title }}
-<div class="summary">
+<div class="summary mt-10">
 카카오는 <strong>'개발자들이 오픈소스를 잘 활용하고 기여할 수 있도록 지원'</strong>하기 위해 오픈소스 가이드를 제공하고 있습니다.<br>
 </div>
 
-<img src="https://t1.kakaocdn.net/olive/ossguide/intro_main.png" alt="" />
-<div class="summary">
+<img src="https://t1.kakaocdn.net/olive/ossguide/intro_main.png" alt="" class="mt-1"/>
+
 오픈소스라는 거인의 어깨 위에서 여러분은 더 멀리 보고 더 많은 것을 할 수 있습니다.<br> 
 이 오픈소스 가이드가 개발자들이 오픈소스의 가치를 이해하고 올바르게 사용하는데 도움이 되기를 바랍니다.
-</div>
 
 
 ## 목차
@@ -38,7 +37,7 @@ permalink: /
             </clipPath>
             </defs>
             </svg>
-            <a href="{{ site.baseurl }}/docs/opensource/">오픈소스</a>
+            <a href="{{ site.baseurl }}/docs/opensource/" class="link">오픈소스</a>
         </div>
         <div class="contents_body">
             <ul>
@@ -65,7 +64,7 @@ permalink: /
         </clipPath>
         </defs>
         </svg>
-           <a href="{{ site.baseurl }}/docs/license/">오픈소스 라이선스</a>
+           <a href="{{ site.baseurl }}/docs/license/" class="link">오픈소스 라이선스</a>
     </div>
         <div class="contents_body">
         <ul>
@@ -93,7 +92,7 @@ permalink: /
             </clipPath>
             </defs>
             </svg>
-            <a href="{{ site.baseurl }}/docs/use/">오픈소스 사용하기</a>
+            <a href="{{ site.baseurl }}/docs/use/" class="link">오픈소스 사용하기</a>
         </div>
         <div class="contents_body">
         <ul>
@@ -124,7 +123,7 @@ permalink: /
             </clipPath>
             </defs>
             </svg>
-            <a href="{{ site.baseurl }}/docs/contribute">오픈소스에 기여하기</a>
+            <a href="{{ site.baseurl }}/docs/contribute" class="link">오픈소스에 기여하기</a>
         </div>
         <div class="contents_body">
         <ul>
@@ -154,7 +153,7 @@ permalink: /
             </clipPath>
             </defs>
             </svg>
-            <a href="{{ site.baseurl }}/docs/kakao/">카카오의 오픈소스 활동</a>
+            <a href="{{ site.baseurl }}/docs/kakao/" class="link">카카오의 오픈소스 활동</a>
         </div>
         <div class="contents_body">
         <ul>
@@ -165,8 +164,6 @@ permalink: /
     </div>
 </div>
 
-
----
 
 ## Contact
 본 가이드에 대해 궁금한 사항은 [opensource@kakaocorp.com](mailto:opensource@kakaocorp.com){: .link} 으로 문의 바랍니다.
