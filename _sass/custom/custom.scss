@@ -139,7 +139,8 @@ blockquote p{
   padding: 35px;
   background-color: #FCFCFC;
   width: 97%;
-  margin-bottom: 20px
+  margin-bottom: 20px;
+  min-height:210px;
 }
 
 .contents_block:hover {

@@ -10,9 +10,7 @@ permalink: /
 카카오는 <strong>'개발자들이 오픈소스를 잘 활용하고 기여할 수 있도록 지원'</strong>하기 위해 오픈소스 가이드를 제공하고 있습니다.<br>
 </div>
 
-><strong class="text-green-200 .fs-4">“If I have seen further it is by standing on the shoulders of Giants.”</strong> <strong>- Isaac Newton</strong><br>
-> <span class="text-grey-666">“내가 더 먼 곳을 볼 수 있었던 것은, 거인의 어깨 위에 올라 있었기 때문이다.”</span>
-
+<img src="https://t1.kakaocdn.net/olive/ossguide/intro_main.png" alt="" />
 <div class="summary">
 오픈소스라는 거인의 어깨 위에서 여러분은 더 멀리 보고 더 많은 것을 할 수 있습니다.<br> 
 이 오픈소스 가이드가 개발자들이 오픈소스의 가치를 이해하고 올바르게 사용하는데 도움이 되기를 바랍니다.
