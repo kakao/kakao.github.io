@@ -16,7 +16,7 @@ BSD-2-Clause 라이선스는 기본적으로 고지에 대한 의무가 주를 �
 {: .div_box}
 > #### 소스 형태로 재배포
 > - **고지 의무**
->   - 소스코드 내 명시된 저작권과 라이선스 정보를 그대로 유지한 상태로 재배포합니다.<br>
+>   - 소스 코드 내 명시된 저작권과 라이선스 정보를 그대로 유지한 상태로 재배포합니다.<br>
 >
 > #### 바이너리 형태로 재배포
 > - **고지 의무**
@@ -26,18 +26,18 @@ BSD-2-Clause 라이선스는 기본적으로 고지에 대한 의무가 주를 �
 
 
 ### 라이선스 설명
-[BSD-2-Clause](https://opensource.org/licenses/BSD-2-Clause){:target="_blank" .line}는 소스코드 공개를 요구하지는 않는 퍼미시브(Permissive) 형태의 라이선스입니다. BSD 2-Clause **Simplified(단순화된 버전의)** 라이선스(License)라고도 불립니다.
+[BSD-2-Clause](https://opensource.org/licenses/BSD-2-Clause){:target="_blank"}는 소스 코드 공개를 요구하지는 않는 퍼미시브(Permissive) 형태의 라이선스입니다. BSD 2-Clause **Simplified(단순화된 버전의)** 라이선스(License)라고도 불립니다.
 
 특징으로는 BSD-3-Clause 라이선스보다 간략해졌다는 점이 있습니다.
 
 
 >  **참고하기**
 >
->  BSD-2-Clause 라이선스에 관한 보다 자세한 내용은 [라이선스 전문](https://opensource.org/licenses/BSD-2-Clause){:target="_blank" .line}을 참고합니다.
+>  BSD-2-Clause 라이선스에 관한 보다 자세한 내용은 [라이선스 전문](https://opensource.org/licenses/BSD-2-Clause){:target="_blank"}을 참고합니다.
 
 
-### 소스코드 내 라이선스 문구
-BSD-2-Clause 라이선스 하에 오픈소스는 일반적으로 소스코드 상단에 아래와 같은 문구가 존재합니다.  
+### 소스 코드 내 라이선스 문구
+BSD-2-Clause 라이선스 하에 오픈소스는 일반적으로 소스 코드 상단에 아래와 같은 문구가 존재합니다.  
 
 
 ```
@@ -93,4 +93,4 @@ BSD-2-Clause 라이선스 하에 오픈소스를 빌드하여 바이너리 형�
 
 >  **참고하기**
 >
-> ✔︎ [OSADL](https://www.osadl.org/){:target="_blank" .line} 체크리스트: [https://www.osadl.org/fileadmin/checklists/unreflicenses/BSD-2-Clause.txt](https://www.osadl.org/fileadmin/checklists/unreflicenses/BSD-2-Clause.txt){:target="_blank" .link}
+> ✔︎ [OSADL](https://www.osadl.org/){:target="_blank" .line} 체크리스트: [https://www.osadl.org/fileadmin/checklists/unreflicenses/BSD-2-Clause.txt](https://www.osadl.org/fileadmin/checklists/unreflicenses/BSD-2-Clause.txt){:target="_blank"}

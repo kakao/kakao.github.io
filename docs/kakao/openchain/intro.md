@@ -2,7 +2,7 @@
 layout: default
 title: OpenChain 소개
 parent: 오픈체인(OpenChain)
-grand_parent: ✔︎ 카카오의 오픈소스 활동
+grand_parent: 카카오의 오픈소스 활동
 nav_order: 2
 ---
 # {{ page.title }}
@@ -30,7 +30,7 @@ nav_order: 2
 
 
 ## 오픈체인 프로젝트
-비영리 단체인 **리눅스 재단(Linux Foundation)**에서 시작한 오픈체인 프로젝트는 각 기업의 오픈소스 소프트웨어 컴플라이언스 역량을 평가해 국제 인증을 발급합니다.<br>
+비영리 단체인 **리눅스 재단(Linux Foundation)**에서 시작한 오픈체인 프로젝트는 각 기업의 오픈소스 소프트웨어 컴플라이언스 역량을 평가해 국제 인증을 발급합니다.
 공식적인 설명과 구조는 [프로젝트 헌장](https://github.com/OpenChain-Project/Project-Charter-And-Agreements/tree/master/Project-Charter){:target="_blank"}에 기술되어 있습니다.<br>
 
 
@@ -52,8 +52,10 @@ nav_order: 2
 
 
 ## OpenChian ISO/IEC 5230 인증 목표
-오픈체인 ISO/IEC 5230 인증의 목표는 고품질의 오픈소스를 만들고자 할 때, 라이선스 준수를 위해 반드시 필요한 요구사항들을 확인하도록 하는 것입니다. 이를 통해, 조직 및 기업이 오픈소스 소프트웨어를 수집, 자체 개발 및 배포하는 과정에서 모든 절차가 신뢰할 수 있는 수준으로 진행된 것을 보장할 수 있습니다.
+오픈체인 ISO/IEC 5230 인증의 목표는 고품질의 오픈소스를 만들고자 할 때, 라이선스 준수를 위해 반드시 필요한 요구사항들을 확인하도록 하는 것입니다. <br>
+이를 통해, 조직 및 기업이 오픈소스 소프트웨어를 수집, 자체 개발 및 배포하는 과정에서 모든 절차가 신뢰할 수 있는 수준으로 진행된 것을 보장할 수 있습니다.
 
+----
 
 ## OpenChian ISO/IEC 5230 인증 방법
 ISO/IEC 5230 인증의 모든 요구사항을 준수한다면, 보유하고 있는 오픈소스 프로그램이 ISO/IEC 5230에 적합하다는 인증을 받을 수 있습니다.
@@ -68,32 +70,31 @@ ISO/IEC 5230 인증의 모든 요구사항을 준수한다면, 보유하고 있�
   
 > **참고하기**
 >
-> 오픈체인 인증 방법에 대한 보다 자세한 내용은 [OpenChain: 오픈 소스 준수를 위한 국제 표준 – 인증 옵션](https://www.openchainproject.org/featured/2020/11/06/openchain-international-standard-for-open-source-compliance-certification-options-full-recording){:target="_blank" .line}를 참고합니다.
+> 오픈체인 인증 방법에 대한 보다 자세한 내용은 [OpenChain: 오픈소스 준수를 위한 국제 표준 – 인증 옵션](https://www.openchainproject.org/featured/2020/11/06/openchain-international-standard-for-open-source-compliance-certification-options-full-recording){:target="_blank"}를 참고합니다.
 {: .h3_box}
 
 
 ### 자체 인증(Self Certification)
 오픈소스 라이선스 준수를 위한 국제 표준의 핵심은 자체 인증 방식입니다.
-{: .fs-4 .h3_box}
+
 자체 인증이란 특정 조직 및 기업이 **오픈소스 라이선스 준수의 국제 표준**에 대한 요구 사항을 검토하고, 현재 자체적으로 진행 중인 프로세스가 그 요구 사항에 부합하는지 확인하는 과정을 의미합니다. 필요에 따라 조직 및 기업은 요구 사항에 부합하기 위해 프로세스를 조정할 수 있으며, 이러한 자체 인증은 여러 가지 방법으로 실시할 수 있습니다.
-{: .fs-4 .h3_box}
+
 가장 일반적인 방법은 아래와 같습니다.  
-{: .fs-4 .h3_box}
-- 오픈체인 자체 인증 웹 애플리케이션(웹사이트) 사용(무료): [https://certification.openchainproject.org/](https://certification.openchainproject.org/){:target="_blank" .link}
-- 오픈체인 자체 인증 설문지의 다운로드 제공 버전 사용(무료): [https://openchain-project.github.io/conformance-questionnaire/questionnaire.pdf](https://openchain-project.github.io/conformance-questionnaire/questionnaire.pdf){:target="_blank" .link}
-- 산업 표준 문서(Industry standard text) 체크리스트 사용(무료): [https://wiki.linuxfoundation.org/_media/openchain/openchainspec-current.pdf](https://wiki.linuxfoundation.org/_media/openchain/openchainspec-current.pdf){:target="_blank" .link}
-{: .fs-4 .h3_box}
+- [오픈체인 자체 인증 웹 애플리케이션(웹사이트) 사용(무료)](https://certification.openchainproject.org/){:target="_blank"}
+- [오픈체인 자체 인증 설문지의 다운로드 제공 버전 사용(무료)](https://openchain-project.github.io/conformance-questionnaire/questionnaire.pdf){:target="_blank"}
+- [산업 표준 문서(Industry standard text) 체크리스트 사용(무료)](https://wiki.linuxfoundation.org/_media/openchain/openchainspec-current.pdf){:target="_blank"}
 
 ### 독립 평가(Independent Assessment)
-조직 및 기업이 국제 표준을 채택하는 과정에서 종종 전문적인 도움이 필요할 수 있습니다.<br> 독립 평가의 일반적인 과정으로는 지식이 풍부한 서비스 제공업체가 회사의 프로세스를 검토하고, 조정 또는 개선이 필요한 부분에 대한 객관적인 피드백을 제공하는 방식이 있습니다.<br>
-{: .fs-4 .h3_box}
-오픈체인 국제 표준에는 오픈소스 규정 준수를 위해, 오픈체인 프로젝트가 신뢰하는 파트너가 제공하는 **독립적 규정 준수 평가**라는 프로세스가 있습니다.<br> 여기에서 **파트너**란 법률 회사 또는 서비스 공급업체를 의미합니다.<br>
-{: .fs-4 .h3_box}
-독립 평가를 제공하는 오픈체인의 파트너로는 Source Code Control(영국)과 AlektoMetis(독일) 등의 업체가 있으며, 이들 업체는 독립 평가 방식의 오픈체인 인증을 위한 자사 서비스 소개 및 이를 제안하는 설명 세션을 주최한 바 있습니다. <br>
-{: .fs-4 .h3_box}
+조직 및 기업이 국제 표준을 채택하는 과정에서 종종 전문적인 도움이 필요할 수 있습니다.<br>
+독립 평가의 일반적인 과정은, 지식이 풍부한 서비스 제공업체가 회사의 프로세스를 검토하고, 개선이 필요한 부분에 대해 객관적인 피드백을 제공하는 방식입니다.<br>
+
+오픈체인 국제 표준은 오픈소스 규정 준수를 위해 **독립적 규정 준수 평가** 프로세스를 포함하고 있으며, 이는 오픈체인 프로젝트가 신뢰하는 파트너가 제공하는 서비스입니다. 여기서 **파트너**는 법률 회사 또는 서비스 제공업체를 의미합니다.<br>
+독립 평가를 제공하는 오픈체인 파트너로는 Source Code Control(영국), AlektoMetis(독일) 등이 있으며, 이들은 독립 평가 방식의 오픈체인 인증을 위한 서비스를 제공하고, 이를 설명하는 세션도 주최한 바 있습니다.<br>
 
 ### 타사 인증(Third-Party Certification)
-타사 인증을 통해 신뢰성을 확보하는 방법도 있습니다.<br> 예를 들어 자동차, 인프라 및 항공 회사들의 경우, 제삼자(타사)의 공식 인증을 통해 엄격한 규제를 따르고, 이에 대한 정기적인 감사를 실시합니다.<br>
-{: .fs-4 .h3_box}
-오픈소스 준수를 위한 오픈체인 국제 표준 또한, 다른 국제 표준과 동일한 방식으로 타사 인증을 따르고 있습니다.<br> 오픈체인의 공인된 타사 인증 기관으로는 PwC(독일)와 Orcro(영국) 등의 업체가 있으며, 이들 업체는 오픈체인 인증을 위한 자사 서비스 소개 및 이를 제안하는 설명 세션을 주최한 바 있습니다.
-{: .fs-4 .h3_box}
+타사 인증을 통해 신뢰성을 확보하는 방법도 있습니다.<br>
+
+예를 들어 자동차, 인프라 및 항공 회사들의 경우, 제삼자(타사)의 공식 인증을 통해 엄격한 규제를 따르고, 이에 대한 정기적인 감사를 실시합니다.<br>
+
+오픈소스 준수를 위한 오픈체인 국제 표준 또한, 다른 국제 표준과 동일한 방식으로 타사 인증을 따르고 있습니다.<br> 
+오픈체인의 공인된 타사 인증 기관으로는 PwC(독일)와 Orcro(영국) 등의 업체가 있으며, 이들 업체는 오픈체인 인증을 위한 자사 서비스 소개 및 이를 제안하는 설명 세션을 주최한 바 있습니다.
