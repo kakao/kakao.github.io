@@ -9,12 +9,12 @@ nav_order: 1
 <div class="summary">
 이 가이드에서는 오픈소스의 최신 동향을 알아봅니다.
 </div>
-• [오픈소스 AI 업계 판도 바꿀까?··· 애널리스트가 본 리눅스재단 AI 모델의 가능성]({{page.url}}#오픈소스-ai-업계-판도-바꿀까-애널리스트가-본-리눅스재단-ai-모델의-가능성)<br>
-• [깃허브 코파일럿 vs. 오픈소스 개발자 집단 소송, 개발자 측 패소]({{page.url}}#깃허브-코파일럿-vs-오픈소스-개발자-집단-소송-개발자-측-패소)<br>
+• [리눅스 재단의 오픈소스 AI 모델의 가능성]({{page.url}}#리눅스-재단의-오픈소스-ai-모델의-가능성)<br>
+• [깃허브 코파일럿 소송, 미국 법원에서 기각]({{page.url}}#깃허브-코파일럿-소송-미국-법원에서-기각)<br>
 • [오픈소스 인공지능 인프라 Ollama에서 확인된 취약점: Probllama]({{page.url}}#오픈소스-인공지능-인프라-ollama에서-확인된-취약점-probllama)<br>
 • [국내외 오픈소스 소송 동향 분석]({{page.url}}#국내외-오픈소스-소송-동향-분석)<br>
 • [정부, 소프트웨어 공급망 보안 지침(가이드라인) 1.0 발표 (2024.05.12)]({{page.url}}#정부-소프트웨어-공급망-보안-지침가이드라인-10-발표-20240512)<br>
-• [XZ Open Source Attack : 오픈소스 커뮤니티의 신뢰를 이용한 최초의 공급망 공격 사례]({{page.url}}#xz-open-source-attack--오픈소스-커뮤니티의-신뢰를-이용한-최초의-공급망-공격-사례)<br>
+• [XZ Open Source Attack : 오픈소스 커뮤니티의 신뢰를 이용한 최초의 공급망 공격 사례]({{page.url}}#xz-오픈소스-공격-최초의-공급망-공격-사례)<br>
 • [2023년 오픈소스 동향 그리고, 2024년]({{page.url}}#2023년-오픈소스-동향-그리고-2024년)<br>
 
 ----
@@ -60,7 +60,7 @@ OMI는 기존 상용 모델과 동등하거나 더 나은 품질을 제공하면
 > 
 > 추가적인 집단 소송 관련 뉴스 및 동향은 아래를 참고합니다.
 >* [“오픈소스로 AI 학습시키지 마” 깃허브 코파일럿, 美서 집단소송 직면](https://www.itworld.co.kr/news/264316){:target="_blank" .fs-3}
->* [한국저작권위원회의 저작권동향: 마이크로소프트 사의 GitHub Copilot, 오픈소스 관련 첫 번째 저작권 분쟁 시작](https://www.itworld.co.kr/news/264316){:target="_blank" .fs-3}
+>* [한국저작권위원회의 저작권동향: 마이크로소프트 사의 GitHub Copilot, 오픈소스 관련 첫 번째 저작권 분쟁 시작](https://www.copyright.or.kr/information-materials/trend/the-copyright/viewPress.do?brdctsno=51490){:target="_blank" .fs-3}
 
 
 ----
@@ -88,7 +88,7 @@ Ollama before 0.1.34 does not validate the format of the digest (sha256 with 64 
 >
 >  추가적인 취약점 관련 정보는 아래를 확인합니다.  
 > 
-> * [오픈소스 인공지능 플랫폼 올라마에서 초고위험도 취약점 발견돼](https://m.boannews.com/html/detail.html?idx=130827){:target="_blank" .fs-3}   
+> * [오픈소스 인공지능 플랫폼 올라마에서 초고위험도 취약점 발견돼](https://www.boannews.com/media/view.asp?idx=130827){:target="_blank" .fs-3}   
 > * [Ollama RCE 취약성\(CVE-2024-37032\) 심층 분석](https://ethicalhacking.uk/a-deep-dive-into-cve-2024-37032-ollama-rce-vulnerability/#gsc.tab=0){:target="_blank" .fs-3} 
 
 ----
@@ -197,7 +197,7 @@ XZ 오픈소스 공격이 오픈소스 보안에 주는 교훈은 아래와 같�
 #### 생성형 AI의 폭발적인 성장
 
 ChatGPT(OpenAI)를 시작으로 LLaMa(Meta), Bard(Google) 및 Ferret(Apple) 등의 생성형 AI 모델이 출시되며 오픈소스 프로젝트가 빠르게 발전하고 있습니다.<br>
-이에 따라, [생성형 AI 글로벌 시장](https://www.aitimes.com/news/articleView.html?idxno=155010){:target="_blank" .line}은 5년 안에 77조 원 규모로 성장할 것으로 전망됩니다.
+이에 따라, [생성 AI 글로벌 시장](https://www.aitimes.com/news/articleView.html?idxno=155010){:target="_blank" .line}은 5년 안에 77조 원 규모로 성장할 것으로 전망됩니다.
 
 ##### [Octoverse: The state of open source and rise of AI in 2023](https://github.blog/2023-11-08-the-state-of-open-source-and-ai/){:target="_blank"}
 - 오픈소스 생성형 AI 프로젝트는 2023년 기여자 수 기준으로 상위 10위 안에 들며 가장 인기 있는 프로젝트로 부상하였습니다.
@@ -245,7 +245,7 @@ HashiCorp의 Terraform과 Vault는 MPL-2.0에서 BUSL-1.1 라이선스로 변경
 {: .div_box .h5_box}
 
 ##### OSI blog: [Meta's LLaMa 2 license is not Open Source](https://blog.opensource.org/metas-llama-2-license-is-not-open-source/){:target="_blank"}
-Meta는 AI 언어모델인 LLaMa를 공개하면서 이를 오픈소스라고 주장했지만, [LLaMa 2 라이선스](https://github.com/facebookresearch/llama/blob/main/LICENSE){:target=”_blank”}에는 다른 언어모델을 개선하는 데 사용할 수 없고, 액티브 사용자가 7억 명 이상일 경우 Meta로부터 라이선스를 획득해야 하는 등의 제한 조건이 있어 오픈소스로 인정되지 않았습니다.
+Meta는 AI 언어모델인 LLaMa를 공개하면서 이를 오픈소스라고 주장했지만, [LLaMa 2 라이선스](https://github.com/facebookresearch/llama/blob/main/LICENSE){:target="_blank"}에는 다른 언어모델을 개선하는 데 사용할 수 없고, 액티브 사용자가 7억 명 이상일 경우 Meta로부터 라이선스를 획득해야 하는 등의 제한 조건이 있어 오픈소스로 인정되지 않았습니다.
 {: .h5_box}
 
 

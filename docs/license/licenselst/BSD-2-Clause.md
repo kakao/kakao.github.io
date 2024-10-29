@@ -26,7 +26,7 @@ BSD-2-Clause 라이선스는 기본적으로 고지에 대한 의무가 주를 �
 
 
 ### 라이선스 설명
-[BSD-2-Clause](https://opensource.org/licenses/BSD-2-Clause){:target="_blank"}는 소스 코드 공개를 요구하지는 않는 퍼미시브(Permissive) 형태의 라이선스입니다. BSD 2-Clause **Simplified(단순화된 버전의)** 라이선스(License)라고도 불립니다.
+[BSD-2-Clause](https://opensource.org/licenses/BSD-2-Clause){:target="_blank"}는 "Simplified BSD License" 또는 "FreeBSD License" 라고도 불리며 소스 코드 공개를 요구하지는 않는 퍼미시브(Permissive) 형태의 라이선스입니다.
 
 특징으로는 BSD-3-Clause 라이선스보다 간략해졌다는 점이 있습니다.
 

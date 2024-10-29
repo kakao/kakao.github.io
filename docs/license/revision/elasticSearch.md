@@ -13,7 +13,7 @@ nav_order: 3
 
 
 {: .div_box}
-오픈소스 버전 ElasticSearch 및 Kibana의 [ElasticSearch의 라이선스](https://www.elastic.co/kr/subscriptions){:target="_blank" .line}가 Apache 2.0에서 <span>Elastic License 2.0, SSPL의 듀얼 라이선스</span>{: .text-red-400 }로 변경되었습니다.<br>
+오픈소스 버전 ElasticSearch 및 Kibana의 [ElasticSearch의 라이선스](https://www.elastic.co/kr/subscriptions){:target="_blank"}가 Apache 2.0에서 <span>Elastic License 2.0, SSPL의 듀얼 라이선스</span>{: .text-red-400 }로 변경되었습니다.<br>
 7.11 버전의 ElasticSearch와 Kibana부터 <span>Elastic License 2.0, SSPL의 듀얼 라이선스</span>{: .text-red-400 }가 적용됩니다.  <br>
 
 > **라이선스 설명**

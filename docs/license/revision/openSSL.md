@@ -13,7 +13,7 @@ nav_order: 99
 
 
 {: .div_box}
-[OpenSSL 라이선스](https://www.openssl.org/source/license-openssl-ssleay.txt){:target="_blank" .line}가 OpenSSL License and SSLeay License 듀얼 라이선스에서 <span>Apache 2.0</span>{: .text-red-400} 라이선스로 변경되었습니다.<br>
+[OpenSSL 라이선스](https://openssl-library.org/source/license/index.html){:target="_blank"}가 OpenSSL License and SSLeay License 듀얼 라이선스에서 <span>Apache 2.0</span>{: .text-red-400} 라이선스로 변경되었습니다.<br>
 OpenSSL 3.0.0 버전부터 <span>Apache 2.0</span>{: .text-red-400}가 적용됩니다.
 
 ### OpenSSL 라이선스

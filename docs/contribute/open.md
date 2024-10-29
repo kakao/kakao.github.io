@@ -8,10 +8,10 @@ nav_order: 3
 이 가이드에서는 오픈소스를 공개하는 데 필요한 파일과 그 의미를 알아보고, 참고할 만한 가이드와 샘플을 소개합니다.
 {: .summary }
 
-## 오픈소스에 필요한 파일
+## 오픈소스에 필요한 파일`
 오픈소스를 공개하는데 필요한 파일은 아래와 같습니다.<br><br>
-<img src="https://t1.kakaocdn.net/olive/assets/images/menu-license.svg" class="check_img">[Open Source license](https://help.github.com/articles/open-source-licensing/#where-does-the-license-live-on-my-repository){:target="_blank"  .fs-5}<br>
-<img src="https://t1.kakaocdn.net/olive/assets/images/menu-license.svg" class="check_img">[README](https://help.github.com/articles/create-a-repo/#commit-your-first-change){:target="_blank"  .fs-5}<br>
+<img src="https://t1.kakaocdn.net/olive/assets/images/menu-license.svg" class="check_img">[Open Source license](https://docs.github.com/ko/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository){:target="_blank" .fs-5}<br>
+<img src="https://t1.kakaocdn.net/olive/assets/images/menu-license.svg" class="check_img">[README](https://docs.github.com/ko/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes){:target="_blank"  .fs-5}<br>
 <img src="https://t1.kakaocdn.net/olive/assets/images/menu-license.svg" class="check_img">[Contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/){:target="_blank"  .fs-5}<br>
 <img src="https://t1.kakaocdn.net/olive/assets/images/menu-license.svg" class="check_img">[Code of Conduct](https://opensource.guide/code-of-conduct/){:target="_blank"  .fs-5}<br>
 

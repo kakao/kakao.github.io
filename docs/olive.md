@@ -84,7 +84,7 @@ OLIVE Platform을 도입하면, 아래 효과를 기대할 수 있습니다.
 
 ## OLIVE Platform 기능 참고
 - 웹 서비스: [https://olive.kakao.com/](https://olive.kakao.com/){:target="_blank"}
-- CLI 서비스: [https://olive.kakao.com/docs/cli/overview](https://olive.kakao.com/docs/cli/overview){:target="_blank"}
+- CLI 서비스: [https://olive.kakao.com/docs/cli/v2/overview](https://olive.kakao.com/docs/cli/overview){:target="_blank"}
 - 체험하기: [https://olive.kakao.com/simple-check/analysis](https://olive.kakao.com/simple-check/analysis){:target="_blank"}
 - 사용자 문서: [https://olive.kakao.com/docs/](https://olive.kakao.com/docs/){:target="_blank"}
 
@@ -97,4 +97,7 @@ OLIVE Platform을 도입하면, 아래 효과를 기대할 수 있습니다.
 - 2022.04.21: OLIVE Platform CLI 오픈
 - 2022.11.14: 소셜 로그인 지원
 - 2022.11.23: 코드스니펫 분석 기능 추가
+- 2023.09.11: OLIVE CLI v2.0.0 출시
+- 2023.11.07: ESG 가입 오픈
+- 2023.11.27: OLIVE Platform 서비스 개편 (오픈소스 데이터 추가,  취약성 정보 추가)
 
