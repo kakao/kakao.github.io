@@ -5,21 +5,17 @@ parent: 오픈소스
 nav_order: 1
 ---
 # {{ page.title }}
-현재, 전 세계 연간 [오픈소스 컴포넌트 다운로드 수는 약 3조 건](https://www.sonatype.com/state-of-the-software-supply-chain/introduction){:target="_blank"}(2023년 기준)이며 주요 IT 기업의 95%가 오픈소스를 적극적으로 사용하고 있습니다.<br><br>
+현재, 전 세계 연간 [오픈소스 컴포넌트 다운로드 수는 약 4.5조 건](https://www.sonatype.com/state-of-the-software-supply-chain/introduction){:target="_blank"}(2024년 기준)이며 주요 IT 기업의 95%가 오픈소스를 적극적으로 사용하고 있습니다.<br><br>
 널리 사용되어 가깝게 느껴지지만 또 헷갈릴 수 있는 오픈소스에 대해, 이 가이드에서는 오픈소스가 무엇인지, 또 [오픈소스 이니셔티브(Open Source Initiative, OSI)](https://opensource.org/){:target="_blank"}에서 정립한 오픈소스 정의 기준(Open Source Definition, OSD)은 무엇인지 알아봅니다. 
 {: .summary }
 
 <br>
 
 {: .div_box}
-> [2023년 오픈소스의 현황과 AI의 부상](https://github.blog/news-insights/research/the-state-of-open-source-and-ai/){:target="_blank" .ft-weight-700}
+> [오픈소스 소프트웨어 개발 환경으로 변화](https://github.blog/news-insights/octoverse/octoverse-2024//){:target="_blank" .ft-weight-700}
 > 
-> 개발자들은 대량으로 생성형 AI를 구축하고 있고, 클라우드 애플리케이션을 대규모로 운영하고 있습니다.
-> 2023년 ChatGPT와 같은 기초 모델을 기반으로 구축된 애플리케이션이 기하급수적으로 증가하였습니다.
-> 
-> [오픈소스 소프트웨어 개발 환경으로 변화](https://octoverse.github.com/2022/developer-community){:target="_blank" .ft-weight-700}
->
->  2022년 GitHub에 새로 가입한 개발자는 27%(2천만 명), 생성된 저장소는 20%(8천6백만 개) 그리고 기여 건수는 35억 건이 증가하였습니다.
+> 2023년 초에 GitHub에서 총 개발자가 1억 명을 넘었으며, 개발자 수는 빠르게 증가하고 있습니다.
+> 2024년에 전 세계 개발자는 5억 1,800만 개가 넘는 오픈 소스 프로젝트에 52억 개 이상의 기여를 했습니다.
 
 
 >  [오픈소스 이니셔티브(OSI)](https://opensource.org/){:target="_blank"}란?

@@ -12,7 +12,7 @@ nav_order: 3
 오픈소스를 공개하는데 필요한 파일은 아래와 같습니다.<br><br>
 <img src="https://t1.kakaocdn.net/olive/assets/images/menu-license.svg" class="check_img">[Open Source license](https://docs.github.com/ko/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository){:target="_blank" .fs-5}<br>
 <img src="https://t1.kakaocdn.net/olive/assets/images/menu-license.svg" class="check_img">[README](https://docs.github.com/ko/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes){:target="_blank"  .fs-5}<br>
-<img src="https://t1.kakaocdn.net/olive/assets/images/menu-license.svg" class="check_img">[Contributing guidelines](https://help.github.com/articles/setting-guidelines-for-repository-contributors/){:target="_blank"  .fs-5}<br>
+<img src="https://t1.kakaocdn.net/olive/assets/images/menu-license.svg" class="check_img">[Contributing guidelines](https://docs.github.com/ko/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors){:target="_blank"  .fs-5}<br>
 <img src="https://t1.kakaocdn.net/olive/assets/images/menu-license.svg" class="check_img">[Code of Conduct](https://opensource.guide/code-of-conduct/){:target="_blank"  .fs-5}<br>
 
 ----
