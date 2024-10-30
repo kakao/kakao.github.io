@@ -19,7 +19,7 @@ nav_order: 3
 > **라이선스 설명**
 >
 > - **Elastic License 2.0:** 클라우드 서비스 공급자가 Elasticsearch 및 Kibana를 서비스로 제공하지 못하도록 제한합니다.
-> - **SSPL:** 외부에 서비스로 제공하는 경우 **서비스 소스코드(Service Source Code)** 전체 공개의 의무가 있습니다.
+> - **SSPL:** 외부에 서비스로 제공하는 경우 **서비스 소스 코드(Service Source Code)** 전체 공개의 의무가 있습니다.
 
 
 ### 주의사항

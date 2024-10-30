@@ -13,12 +13,9 @@
   text-decoration: none;
 }
 
-.site-header .icon{
-  color:#ffcd00;
-}
 
 .summary {
-  margin: 26px 0 0 0;
+  margin: 56px 0 0 0;
   color: #222222;
   font-size: 16px;
   line-height: 26px;
@@ -79,6 +76,10 @@ blockquote p{
 //}
 
 .link {
+  text-decoration: none;
+}
+
+.link:hover {
   color:#038C65;
   text-decoration: underline;
 }
@@ -135,10 +136,11 @@ blockquote p{
  // max-width:450px;
   border: solid 1px #ddd;
   border-radius: 15px;
-  padding: 35px;
+  padding: 30px;
   background-color: #FCFCFC;
   width: 97%;
-  margin-bottom: 20px
+  margin-bottom: 20px;
+  min-height:200px;
 }
 
 .contents_block:hover {
@@ -224,4 +226,8 @@ blockquote p{
 
 .p_relative {
   position: relative;
+}
+
+.div_box h4 {
+  margin-top: 0;
 }

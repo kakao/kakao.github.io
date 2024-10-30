@@ -17,7 +17,7 @@ GPL-2.0 라이선스는 고지 의무와 함께 <span>전체 코드 공개</span
 > #### 소스 형태로 재배포
 >
 > - **고지 의무**
->   - 소스코드 내 명시된 저작권과 라이선스 정보를 그대로 유지한 상태로 재배포합니다.
+>   - 소스 코드 내 명시된 저작권과 라이선스 정보를 그대로 유지한 상태로 재배포합니다.
 > - **수정 시 의무사항**
 >   - 수정한 모듈에 GPL-2.0 라이선스를 적용합니다.
 >   - 수정 사항에 대한 고지를 포함합니다(예: 수정일, 수정 내용을 주석 형태로 포함).
@@ -29,22 +29,22 @@ GPL-2.0 라이선스는 고지 의무와 함께 <span>전체 코드 공개</span
 > - **수정 시 의무사항**
 >   - 추가 및 수정한 부분에 GPL-2.0 라이선스를 적용합니다.
 >   - 수정 사항에 대한 고지를 포함합니다(예: 오픈소스 고지문에 수정일, 수정 내용을 포함).
-> - **소스코드 제공 의무**
->   - <span>바이너리에 해당하는 **전체 소스코드**</span>{: .text-red-400 }를 제공합니다.
->   - 바이너리 배포를 사용하는 사용자가 공개된 <span>소스코드로 동일한 바이너리를 만들 수 있는 빌드 환경</span>{: .text-red-400 }이 제공되어야 합니다.
+> - **소스 코드 제공 의무**
+>   - <span>바이너리에 해당하는 **전체 소스 코드**</span>{: .text-red-400 }를 제공합니다.
+>   - 바이너리 배포를 사용하는 사용자가 공개된 <span>소스 코드로 동일한 바이너리를 만들 수 있는 빌드 환경</span>{: .text-red-400 }이 제공되어야 합니다.
 >
 
 ### 라이선스 설명
-[GPL-2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html){:target="_blank" .line}은 1991년 [**자유 소프트웨어 재단\(FSF, Free Software Foundation\)**](http://www.fsf.org/){:target="_blank" .line}에서 만든 대표적인 카피레프트(Copyleft) 라이선스입니다. 이 라이선스는 재배포 시 소스코드를 공개해야 하기 때문에, 사용에 주의가 필요한 라이선스입니다.
+[GPL-2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html){:target="_blank"}은 1991년 [**자유 소프트웨어 재단\(FSF, Free Software Foundation\)**](http://www.fsf.org/){:target="_blank"}에서 만든 대표적인 카피레프트(Copyleft) 라이선스입니다. 이 라이선스는 재배포 시 소스 코드를 공개해야 하기 때문에, 사용에 주의가 필요한 라이선스입니다.
 
 
 >  **참고하기**
 >
->  GPL-2.0 라이선스에 관한 보다 자세한 내용은 [라이선스 전문](https://opensource.org/licenses/GPL-2.0){:target="_blank" .line}을 참고합니다.
+>  GPL-2.0 라이선스에 관한 보다 자세한 내용은 [라이선스 전문](https://opensource.org/licenses/GPL-2.0){:target="_blank"}을 참고합니다.
 
 
-### 소스코드 내 라이선스 문구
-GPL-2.0 라이선스 하에 오픈소스는 일반적으로 소스코드 상단에 아래와 같은 문구가 존재합니다.
+### 소스 코드 내 라이선스 문구
+GPL-2.0 라이선스 하에 오픈소스는 일반적으로 소스 코드 상단에 아래와 같은 문구가 존재합니다.
 
 
 ```
@@ -73,7 +73,7 @@ GPL-2.0 라이선스 하에 오픈소스를 소스 형태로 재배포 시, 아�
 
 
 #### 고지 의무
-소스코드 내 명시된 저작권 및 라이선스 정보를 그대로 유지한 상태로 재배포합니다.
+소스 코드 내 명시된 저작권 및 라이선스 정보를 그대로 유지한 상태로 재배포합니다.
 
 - 저작권 고지 제공
 - 보증 부인 제공
@@ -81,7 +81,7 @@ GPL-2.0 라이선스 하에 오픈소스를 소스 형태로 재배포 시, 아�
 
 
 #### 수정 시 의무사항
-오픈소스의 소스코드를 일부 추가 및 수정하였을 경우, 아래의 사항들을 준수합니다.
+오픈소스의 소스 코드를 일부 추가 및 수정하였을 경우, 아래의 사항들을 준수합니다.
 
 - 추가 및 수정한 부분에 GPL-2.0 라이선스를 적용합니다.
 - 수정 사항에 대한 고지를 포함합니다(예: 수정일, 수정 내용을 주석 형태로 포함).
@@ -100,34 +100,34 @@ GPL-2.0 라이선스 하에 오픈소스를 빌드하여 바이너리 형태로�
 
 
 
-#### 소스코드 제공 의무
+#### 소스 코드 제공 의무
 
-바이너리에 해당하는 소스코드를 제공합니다. 이때, 아래 사항들을 준수합니다.
+바이너리에 해당하는 소스 코드를 제공합니다. 이때, 아래 사항들을 준수합니다.
 
-1. <span>GPL-2.0 라이선스는 파생 저작물에 대해서도 GPL-2.0을 적용하여 소스코드를 공개할 것을 요구</span>{: .text-red-400 }합니다. 아래 내용을 참고하여, GPL-2.0 라이선스 하에 오픈소스와 파생 저작물의 소스코드를 공개합니다.
+1. <span>GPL-2.0 라이선스는 파생 저작물에 대해서도 GPL-2.0을 적용하여 소스 코드를 공개할 것을 요구</span>{: .text-red-400 }합니다. 아래 내용을 참고하여, GPL-2.0 라이선스 하에 오픈소스와 파생 저작물의 소스 코드를 공개합니다.
 
    {: .div_box }
    >  GPL-2.0 라이선스 파생 저작물의 범위
-   >{: .text-red-400 .fs-4}
+   >{: .text-red-400 .ft-weight-700}
    >  일반적인 GPL-2.0 라이선스의 파생 저작물의 범위는 아래와 같습니다.
-   > {: .fs-4}
+   >
    >  - 수정 코드
    >  - GPL 프로그램과 동일한 프로세스에서 동작하는 모듈(Module)
    >  - GPL 프로그램과 링크로 연결한 라이브러리(Library)
    >  - GPL 프로그램을 상속한 클래스(Class)
    >
    >  아래의 경우 GPL의 파생 저작물로 간주하지 않습니다.
-   > {: .fs-4}
+   > 
    >  - CD와 같은 매체에 함께 존재하지만 GPL프로그램과 전혀 연동하지 않는 독립 프로그램
    >  - GPL 프로그램과는 별도의 프로그램으로써 파이프(Pipe), 소켓(Socket), IPC, 명령행 인자(Command Line Arguments)로 GPL 프로그램과 통신하는 경우
 
 
-2. 바이너리 사용자가 공개된 소스코드로 동일한 바이너리를 만들 수 있는 빌드 환경을 제공합니다. 여기에는 아래 사항이 포함됩니다.
+2. 바이너리 사용자가 공개된 소스 코드로 동일한 바이너리를 만들 수 있는 빌드 환경을 제공합니다. 여기에는 아래 사항이 포함됩니다.
 - 툴 체인(Tool chain) 정보
 - 빌드 스크립트
 - 빌드 방법(README 파일)
 
-3. 소스코드 대신 **서면 약정서(Written Offer)**를 제공할 수 있습니다. 여기에는 아래의 내용이 포함되어야 합니다.
+3. 소스 코드 대신 **서면 약정서(Written Offer)**를 제공할 수 있습니다. 여기에는 아래의 내용이 포함되어야 합니다.
 - 서면 약정서는 제품 판매 후 3년간 유효합니다.
 - 누구에게나 제공합니다.
 - 비용 청구를 하지 않습니다(소스 전달을 위해 발생하는 비용 제외).
@@ -149,6 +149,6 @@ GPL-2.0 라이선스 하에 오픈소스를 빌드하여 바이너리 형태로�
 
 >  **참고하기**
 >
->  보다 자세한 GPL-2.0 라이선스와 충돌하는 라이선스 목록은 [GPL-Incompatible Free Software Licenses](https://www.gnu.org/licenses/license-list.html#GPLIncompatibleLicenses){:target="_blank" .line} 문서를 참고합니다.
+>  보다 자세한 GPL-2.0 라이선스와 충돌하는 라이선스 목록은 [GPL-Incompatible Free Software Licenses](https://www.gnu.org/licenses/license-list.html#GPLIncompatibleLicenses){:target="_blank"} 문서를 참고합니다.
 >
-> ✔︎ [OSADL](https://www.osadl.org/){:target="_blank" .line} 체크리스트: [https://www.osadl.org/fileadmin/checklists/unreflicenses/GPL-2.0-only.txt](https://www.osadl.org/fileadmin/checklists/unreflicenses/GPL-2.0-only.txt){:target="_blank" .link}
+> ✔︎ [OSADL](https://www.osadl.org/){:target="_blank"} 체크리스트: [https://www.osadl.org/fileadmin/checklists/unreflicenses/GPL-2.0-only.txt](https://www.osadl.org/fileadmin/checklists/unreflicenses/GPL-2.0-only.txt){:target="_blank"}

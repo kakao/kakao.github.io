@@ -2,7 +2,7 @@
 layout: default
 title: if(kakao)
 parent: 발표 영상
-grand_parent: ✔︎ 카카오의 오픈소스 활동
+grand_parent: 카카오의 오픈소스 활동
 nav_order: 1
 ---
 # {{ page.title }}
