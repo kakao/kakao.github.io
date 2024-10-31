@@ -166,19 +166,19 @@ permalink: /
 
 
 ## Contact
-본 가이드에 대해 궁금한 사항은 [opensource@kakaocorp.com](mailto:opensource@kakaocorp.com){: .link} 으로 문의 바랍니다.
+본 가이드에 대해 궁금한 사항은 [opensource@kakaocorp.com](mailto:opensource@kakaocorp.com) 으로 문의 바랍니다.
 
 ## References
 이 문서는 아래의 자료를 참고하여 작성하였습니다.
-- [https://opensource.org/OSD/](https://opensource.org/OSD/){:target="_blank" .link}
-- [https://sktelecom.github.io/guide/use/](https://sktelecom.github.io/guide/use/){:target="_blank" .link}
-- [https://haksung.gitbook.io/oss/sw360](https://haksung.gitbook.io/oss/sw360){:target="_blank" .link}
-- [https://opensource.guide/ko/how-to-contribute/](https://opensource.guide/ko/how-to-contribute/){:target="_blank" .link}
-- [https://en.wikipedia.org/wiki/ISO/IEC_JTC_1](https://en.wikipedia.org/wiki/ISO/IEC_JTC_1){:target="_blank" .link}
-- [https://www.openchainproject.org/](https://www.openchainproject.org/){:target="_blank" .link}
-- [https://www.iso.org/](https://www.iso.org/){:target="_blank" .link}
-- [https://www.oss.kr/](https://www.oss.kr/oss_license){:target="_blank" .link}
+- [https://opensource.org/OSD/](https://opensource.org/OSD/){:target="_blank"}
+- [https://sktelecom.github.io/guide/use/](https://sktelecom.github.io/guide/use/){:target="_blank"}
+- [https://haksung.gitbook.io/oss/sw360](https://haksung.gitbook.io/oss/sw360){:target="_blank"}
+- [https://opensource.guide/ko/how-to-contribute/](https://opensource.guide/ko/how-to-contribute/){:target="_blank"}
+- [https://en.wikipedia.org/wiki/ISO/IEC_JTC_1](https://en.wikipedia.org/wiki/ISO/IEC_JTC_1){:target="_blank"}
+- [https://www.openchainproject.org/](https://www.openchainproject.org/){:target="_blank"}
+- [https://www.iso.org/](https://www.iso.org/){:target="_blank"}
+- [https://www.oss.kr/](https://www.oss.kr/oss_license){:target="_blank"}
 
 ## 라이선스 정보
 <img src="https://t1.kakaocdn.net/olive/ossguide/ccby.png" width="160" height="56" alt="CC-BY-4.0" class="mb-3" /><br>
-본 가이드는 [CC-BY-4.0](https://github.daumkakao.com/oss/kakao.github.io/blob/main/CC-BY-4.0){:target="_blank" .link} 라이선스 하에 공개합니다.
+본 가이드는 [CC-BY-4.0](https://github.daumkakao.com/oss/kakao.github.io/blob/main/CC-BY-4.0){:target="_blank"} 라이선스 하에 공개합니다.
