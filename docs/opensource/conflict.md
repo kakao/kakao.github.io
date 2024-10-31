@@ -48,11 +48,13 @@ nav_order: 3
 >  보다 자세한 내용은 [**Quartz - A federal court has ruled that an open-source license is an enforceable contract**](https://qz.com/981029/a-federal-court-has-ruled-that-an-open-source-license-is-an-enforceable-contract){:target="_blank"} 링크를 참고합니다.
 
 
-### 고스트스크립트(Ghostscript)
-- [고스트스크립트(Ghostscript) 라이선스](https://www.ghostscript.com/licensing/){:target="_blank"}: AGPL, Commercial 듀얼 라이선스로 선택 가능
-  - AGPL: 9.07 버전부터 GPL → AGPL로 라이선스 변경
-  - Commercial: 라이선스 구매
 
+> **고스트스크립트(Ghostscript)**
+> - [고스트스크립트(Ghostscript) 라이선스](https://www.ghostscript.com/licensing/){:target="_blank"}: AGPL, Commercial 듀얼 라이선스로 선택 가능
+> - AGPL: 9.07 버전부터 GPL → AGPL로 라이선스 변경
+> - Commercial: 라이선스 구매 
+{: .div_box}
+  
 ----
 
 ## VMWare vs 리눅스 개발자

@@ -45,7 +45,7 @@ All versions released after October 16, 2018, including patch fixes for prior ve
 
 SSPL 라이선스로 변경한 자세한 이유는 [MongoDB now released under the Server Side Public License](https://www.mongodb.com/blog/post/mongodb-now-released-under-the-server-side-public-license){:target="_blank" .line} 에서 확인할 수 있습니다.
 
-간략하게는 아래의 이유로 라이선스를 변경하였습니다.
+라이선스의 변경사유는 아래와 같습니다.
 
 - AWS와 같은 클라우드 서비스 제공자가 오픈소스를 사용하여 플러그 앤드 플레이(Plug and Play) 형태로 제공하며 수익을 창출하게 됨에 따라, 이를 방지하고자 SSPL 또는 상용 라이선스로 변경하였습니다.
 - SSPL 라이선스는 13조에서 해당 라이선스를 사용하는 프로젝트를 서비스로 제공하는 경우 **서비스 소스 코드**를 제공하라는 조항을 추가하고, **서비스 소스 코드**를 새롭게 정의하였습니다.

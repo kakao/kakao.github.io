@@ -14,7 +14,7 @@ nav_order: 1
 
 {: .div_box}
 Grafana, Loki, Tempo의 라이선스가 Apache 2.0에서 <span>AGPL 3.0</span>{: .text-red-400 }으로 변경되었습니다.<br>
-Grafana <a href="https://github.com/grafana/grafana/tree/v7.5.6" target="_blank" class="line">v7.5.6</a>, Loki <a href="https://github.com/grafana/loki/tree/v2.3.0" target="_blank" class="line">v2.3.0</a>, <a href="https://github.com/grafana/tempo/releases/tag/v0.7.0" target="_blank" class="line">Tempo v0.7.0</a> 부터 <span class="text-red-300"> AGPL 3.0</span> 라이선스가 적용됩니다.<br>
+Grafana <a href="https://github.com/grafana/grafana/tree/v7.5.6" target="_blank">v7.5.6</a>, Loki <a href="https://github.com/grafana/loki/tree/v2.3.0" target="_blank">v2.3.0</a>, <a href="https://github.com/grafana/tempo/releases/tag/v0.7.0" target="_blank">Tempo v0.7.0</a> 부터 <span class="text-red-300"> AGPL 3.0</span> 라이선스가 적용됩니다.<br>
 기타 플러그인(Plugin), 에이전트(Agent), 일부 라이브러리들은 Apache 2.0 라이선스를 그대로 유지합니다.<br>
 
 ### 주의 사항

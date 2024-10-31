@@ -24,7 +24,7 @@ nav_order: 5
 
 >  **참고하기**
 >
-> 글꼴 파일 저작권에 대한 자세한 내용은 [한국저작권보호원: 글꼴파일저작권바로알기.pdf](https://wiki.daumkakao.com/download/attachments/521455223/%E1%84%80%E1%85%B3%E1%86%AF%E1%84%81%E1%85%A9%E1%86%AF%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF%E1%84%8C%E1%85%A5%E1%84%8C%E1%85%A1%E1%86%A8%E1%84%80%E1%85%AF%E1%86%AB%E1%84%87%E1%85%A1%E1%84%85%E1%85%A9%E1%84%8B%E1%85%A1%E1%86%AF%E1%84%80%E1%85%B5.pdf?version=1&modificationDate=1608275702000&api=v2){:target="_blank"} 파일을 확인합니다.
+> 글꼴 파일 저작권에 대한 자세한 내용은 [한국저작권보호원: 글꼴파일저작권바로알기.pdf](https://www.kcopa.or.kr/lay1/bbs/S1T11C293/A/66/view.do?article_seq=456){:target="_blank"} 파일을 확인합니다.
  
 
 
@@ -57,9 +57,9 @@ nav_order: 5
 >  **참고하기**
 >
 >  저작권을 준수하는 올바른 글꼴 파일 사용을 위해 아래의 사이트를 참고합니다.
-> - [권리자 찾기(저작물 정보를 찾을 수 있는 사이트)](https://www.findcopyright.or.kr)
-> - [무료 폰트 안내](https://gongu.copyright.or.kr): 무료로 이용할 수 있는 글꼴의 경우에도 약관의 조건이 있을 수 있으니 꼼꼼히 확인을 해야 합니다.
-> - [이로운법[알면 the 이로운 법] 17. ‘폰트 저작권 침해’ 정확히 알고 대응하자](http://selaw.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=3970169&t=board)
+> - [권리자 찾기(저작물 정보를 찾을 수 있는 사이트)](https://www.findcopyright.or.kr){:target="_blank"}
+> - [무료 폰트 안내](https://gongu.copyright.or.kr){:target="_blank"}: 무료로 이용할 수 있는 글꼴의 경우에도 약관의 조건이 있을 수 있으니 꼼꼼히 확인을 해야 합니다.
+> - [이로운법[알면 the 이로운 법] 17. ‘폰트 저작권 침해’ 정확히 알고 대응하자](http://selaw.co.kr/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=3970169&t=board){:target="_blank"}
 
 
 ----
@@ -78,7 +78,7 @@ SIL Open Font License(OFL)는 주로 폰트에 사용되는 자유 오픈소스 
 
 >  **참고하기**
 >
->  OFL-1.1 라이선스에 대한 자세한 내용은 [OFL-1.1 라이선스](/docs/license/licenselst/OFL-1.1/)을 참고합니다.
+>  OFL-1.1 라이선스에 대한 자세한 내용은 [OFL-1.1 라이선스]({{base.url}}/docs/license/licenselst/OFL-1.1/)을 참고합니다.
 
 
 ----

@@ -37,7 +37,7 @@ BSD-4-Clause 라이선스는 기본적으로 고지에 대한 의무가 주를 �
 
 ### 라이선스 설명
 
-[BSD-4-Clause](http://directory.fsf.org/wiki/License:BSD_4Clause){:target="_blank"}는 소스 코드 공개를 요구하지는 않습니다. 이 라이선스는 BSD 라이선스의 원형으로써, BSD **Original(원형의)** 또는 **Old(오래된)** 라이선스(License) 라고도 불립니다.
+[BSD-4-Clause](http://directory.fsf.org/wiki/License:BSD_4Clause){:target="_blank"}는 BSD 4-Clause "Original BSD License" 또는 "Old BSD License" 라고도 불리며 소스 코드 공개를 요구하지는 않는 퍼미시브(Permissive) 형태의 라이선스입니다.<br>
 
 다만, 라이선스가 **광고 조항(Advertising clause)**을 포함하고 있어, 자유롭게 사용하는데 문제가 될 수 있습니다.
 

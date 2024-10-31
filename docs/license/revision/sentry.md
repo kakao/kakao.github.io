@@ -34,7 +34,7 @@ Sentry의 라이선스가 Apache 2.0에서 <span>BUSL 1.1</span>{: .text-red-400
 
 >  **Sentry 라이선스 전환 예시**
 >
->  23.7.0 버전: [Change Date: 2026-07-17, Change License: Apache License, Version 2.0](https://github.com/getsentry/sentry/blob/23.7.0/LICENSE#L19){:target="_blank" .line}
+>  23.7.0 버전: [Change Date: 2026-07-17, Change License: Apache License, Version 2.0](https://github.com/getsentry/sentry/blob/23.7.0/LICENSE#L19){:target="_blank"}
 
 
 ### 참고: [Sentry FAQ](https://forum.sentry.io/t/re-licensing-sentry-faq-discussion/8044){:target="_blank" .line} for Re-licensing
@@ -42,13 +42,13 @@ Sentry의 라이선스가 Apache 2.0에서 <span>BUSL 1.1</span>{: .text-red-400
 #### BUSL 1.1 라이선스로 변경된 리포지토리(Reposotiry)
 아래의 경우들이 모두 BUSL 1.1 라이선스로 변경되었습니다.
 {: .h5_box}
-- [https://github.com/getsentry/sentry](https://github.com/getsentry/sentry){: .target="_blank" .link}
-- [https://github.com/getsentry/sentry-plugins](https://github.com/getsentry/sentry-plugins){: .target="_blank" .link}
-- [https://github.com/getsentry/sentry-docs](https://github.com/getsentry/sentry-docs){: .target="_blank" .link}
-- [https://github.com/getsentry/snuba/](https://github.com/getsentry/snuba/){: .target="_blank" .link}
-- [https://github.com/getsentry/semaphore](https://github.com/getsentry/semaphore){: .target="_blank" .link}
-- [https://github.com/getsentry/onpremise](https://github.com/getsentry/onpremise){: .target="_blank" .link}
-- [https://github.com/getsentry/docker-sentry](https://github.com/getsentry/docker-sentry){: .target="_blank" .link}
+- [https://github.com/getsentry/sentry](https://github.com/getsentry/sentry){:target="_blank"}
+- [https://github.com/getsentry/sentry-plugins](https://github.com/getsentry/sentry-plugins){:target="_blank"}
+- [https://github.com/getsentry/sentry-docs](https://github.com/getsentry/sentry-docs){:target="_blank"}
+- [https://github.com/getsentry/snuba/](https://github.com/getsentry/snuba/){:target="_blank"}
+- [https://github.com/getsentry/semaphore](https://github.com/getsentry/semaphore){:target="_blank"}
+- [https://github.com/getsentry/onpremise](https://github.com/getsentry/onpremise){:target="_blank"}
+- [https://github.com/getsentry/docker-sentry](https://github.com/getsentry/docker-sentry){:target="_blank"}
 - All Docker images produced by the repositories above
 
 

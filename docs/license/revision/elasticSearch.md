@@ -13,14 +13,14 @@ nav_order: 3
 
 
 {: .div_box}
-오픈소스 버전 ElasticSearch 및 Kibana의 [ElasticSearch의 라이선스](https://www.elastic.co/kr/subscriptions){:target="_blank" .line}가 Apache 2.0에서 <span>Elastic License 2.0, SSPL의 듀얼 라이선스</span>{: .text-red-400 }로 변경되었습니다.<br>
-7.11 버전의 ElasticSearch와 Kibana부터 <span>Elastic License 2.0, SSPL의 듀얼 라이선스</span>{: .text-red-400 }가 적용됩니다.  <br>
-
+Elasticsearch와 Kibana의 라이선스가 Apache 2.0에서 <span>Elastic License 2.0, SSPL의 듀얼 라이선스</span>{: .text-red-400 }로 변경되었습니다.<br>
+Elastic 7.11 릴리즈부터 ElasticSearch와 Kibana에 <span>Elastic License 2.0, SSPL의 듀얼 라이선스</span>{: .text-red-400 }가 적용됩니다.([Elastic 라이선스 변경](https://www.elastic.co/kr/blog/licensing-change){:target="_blank" .line})<br><br>
+※ Elastic 8.16 릴리즈부터 AGPL3.0이 추가된 멀티 라이선스로 변경될 예정입니다.([Elasticsearch Is Open Source. Again!](https://www.elastic.co/kr/blog/elasticsearch-is-open-source-again){:target="_blank" .line})<br>
 > **라이선스 설명**
 >
 > - **Elastic License 2.0:** 클라우드 서비스 공급자가 Elasticsearch 및 Kibana를 서비스로 제공하지 못하도록 제한합니다.
 > - **SSPL:** 외부에 서비스로 제공하는 경우 **서비스 소스 코드(Service Source Code)** 전체 공개의 의무가 있습니다.
-
+{: .fs-3}
 
 ### 주의사항
 

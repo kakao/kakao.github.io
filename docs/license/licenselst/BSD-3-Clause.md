@@ -26,8 +26,7 @@ BSD-3-Clause 라이선스는 기본적으로 고지에 대한 의무가 주를 �
 
 ### 라이선스 설명
 
-[BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause){:target="_blank"}는 소스 코드 공개를 요구하지는 않는 퍼미시브(Permissive) 형태의 라이선스입니다.<br>
-BSD 3-Clause **New(새로워진)** 또는 **Revised(개정된)** 라이선스(License)라고도 불립니다.<br>
+[BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause){:target="_blank"}는 "New BSD License" 또는 "Modified BSD License" 라고도 불리며 소스 코드 공개를 요구하지는 않는 퍼미시브(Permissive) 형태의 라이선스입니다.<br>
 
 특징으로는 BSD-4-Clause 라이선스에서 문제가 된 **광고 조항(Advertising clause)** 부분이 삭제되었다는 점이 있습니다.
 

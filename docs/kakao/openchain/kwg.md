@@ -39,15 +39,15 @@ nav_order: 3
 
 
 ### 2021-12-20 12번째 미팅
-- [오픈소스 보안취약점 공격 유형](https://openchain-project.github.io/OpenChain-KWG/meeting/12th/OpenSourceVulnerability_20211220.pdf){:target="_blank"}
+- [오픈소스 보안취약점 공격 유형](https://openchain-project.github.io/OpenChain-KWG/meeting/12nd/OpenSourceVulnerability_20211220.pdf){:target="_blank"}
 
 
 ### 2021-09-30 11번째 미팅
-- [오픈소스 라이선스 변화의 흐름](https://openchain-project.github.io/OpenChain-KWG/meeting/11th/20210930_opensource_license_flow_kakao.pdf){:target="_blank"}
+- [오픈소스 라이선스 변화의 흐름](https://openchain-project.github.io/OpenChain-KWG/meeting/11st/20210930_opensource_license_flow_kakao.pdf){:target="_blank"}
   <iframe width="560" height="315" src="https://www.youtube.com/embed/d79GpONCR9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   {: .h4_box}
-- [동향] [미 정부의 'SBOM' 의무화](https://openchain-project.github.io/OpenChain-KWG/meeting/11th/20210930_opensource_trend_kakao.pdf){:target="_blank"}
-- [동향] [Github Codepilot 오픈소스 라이선스 논쟁](https://openchain-project.github.io/OpenChain-KWG/meeting/11th/20210930_opensource_trend_kakao.pdf){:target="_blank"}
+- [동향] [미 정부의 'SBOM' 의무화](https://openchain-project.github.io/OpenChain-KWG/meeting/11st/20210930_opensource_trend_kakao.pdf){:target="_blank"}
+- [동향] [Github Codepilot 오픈소스 라이선스 논쟁](https://openchain-project.github.io/OpenChain-KWG/meeting/11st/20210930_opensource_trend_kakao.pdf){:target="_blank"}
 
 
 ### 2020-12-02 10번째 미팅
