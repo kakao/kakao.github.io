@@ -40,19 +40,12 @@ nav_order: 2
 ### 오픈소스 생태계의 급격한 발전
 
 개발 환경이 오픈소스 소프트웨어를 사용하는 방향으로 나아가며, 오픈소스 생태계는 해를 거듭할수록 급격히 발전하고 있습니다.<br>
-<<<<<<< HEAD
 
 [2022년 GitHub에 새로 가입한 개발자](https://octoverse.github.com/2022/developer-community){:target="_blank"}는 27%(2천만 명), 생성된 저장소는 20%(8천6백만 개) 그리고 기여 건수는 35억 건이 증가하였습니다.<br><br>
 
 
 ![img.png](https://t1.kakaocdn.net/olive/ossguide/github_2022.png)
 
-=======
-[2022년 GitHub에 새로 가입한 개발자](https://octoverse.github.com/2022/developer-community){:target="_blank"}는 27%(2천만 명), 생성된 저장소는 20%(8천6백만 개) 그리고 기여 건수는 35억 건이 증가하였습니다.<br><br>
-{: .h4_box}
-![img.png]({{ site.baseurl }}/assets/images/github_2022.png)
-{: .h4_box}
->>>>>>> main
 
 
 ## 라이선스 컴플라이언스를 위한 OSS(Open-source software) 식별 도구
