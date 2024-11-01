@@ -13,4 +13,4 @@ nav_order: 2
 >  **참고하기**
 >
 > 이 문서의 출처는 아래의 자료를 기반으로 작성하였습니다.  
-> - [https://sktelecom.github.io/guide/use/obligation/](https://sktelecom.github.io/guide/use/obligation/){:target="_blank" .link}
+> - [https://sktelecom.github.io/guide/use/obligation/](https://sktelecom.github.io/guide/use/obligation/){:target="_blank"}

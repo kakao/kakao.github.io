@@ -2,7 +2,7 @@
   <title>카카오 오픈소스 가이드</title>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-
+  <link rel="preload" as="style" href="{{site.baseurl}}/assets/css/Pretendard-1.3.9/web/static/pretendard.css" crossorigin />
   <link rel="stylesheet" href="{{ 'assets/css/just-the-docs-default.css' | relative_url }}">
 
   <!-- Google tag (gtag.js) -->
@@ -17,8 +17,8 @@
 
   {% if site.search_enabled != false %}
     <script src="{{ 'assets/js/vendor/lunr.min.js' | relative_url }}"></script>
-    <script src="{{ '/assets/js/vendor/lunr.stemmer.support.js' | relative_url }}"></script>
-    <script src="{{ '/assets/js/vendor/lunr.ko.js' | relative_url }}"></script>
+    <script src="{{ 'assets/js/vendor/lunr.stemmer.support.js' | relative_url }}"></script>
+    <script src="{{ 'assets/js/vendor/lunr.ko.js' | relative_url }}"></script>
   {% endif %}
 
   <script src="{{ 'assets/js/just-the-docs.js' | relative_url }}"></script>
@@ -26,12 +26,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   {% for file in site.static_files %}
-    {% if file.path == site.favicon_ico or file.path == '/assets/images/img_1.png' %}
+    {% if file.path == site.favicon_ico or file.path == '/assets/images/kakao.png' %}
       {% assign favicon = true %}
     {% endif %}
   {% endfor %}
   {% if favicon %}
-    <link rel="icon" href="{{ site.favicon_ico | default: '/assets/images/img_1.png' | relative_url }}" type="image/x-icon">
+    <link rel="icon" href="{{ site.favicon_ico | default: 'https://t1.kakaocdn.net/olive/ossguide/kakao.png' | relative_url }}" type="image/x-icon">
   {% endif %}
 
   {% include head_custom.html %}

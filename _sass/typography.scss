@@ -4,46 +4,34 @@
 h1,
 .text-alpha {
   @include fs-8;
-
-  font-weight: 500;
-  padding-bottom: 16px;
+  font-weight: 700;
+  margin-bottom: 10px;
   color: #222;
-  line-height: 1.25;
-  letter-spacing: -2px;
-  border-bottom: 1px solid #ddd;
 }
 
 h2,
 .text-beta,
 #toctitle {
-  @include fs-7;
-  padding: 6px 0 4px 12px;
-  color: #038c65;
+  @include fs-6-lg;
+  padding: 24px 0 4px 0;
+  margin-bottom: 10px;
   font-weight: 700;
-  letter-spacing: -.2px;
-  border-bottom: 1px solid #038c65;
-  border-left: 8px solid #038c65;
 }
 
 h3,
 .text-gamma {
   @include fs-6;
-  margin: 16px 0 0 12px;
-  padding: 2px 0 2px 12px;
-  border-left: 6px solid #08B4AB;
-}
-
-.h3_box {
-  margin-left:22px;
+  padding: 14px 0 10px 0;
+  font-weight: 700;
 }
 
 h4,
 h4,
 .text-delta {
   @include fs-5;
-  margin: 16px 10px 0 20px;
-  padding: 0 10px;
-  border-left: 5px solid #007151;
+  //margin: 16px 10px 0 20px;
+  padding: 16px 10px 0 0;
+  font-weight: 700;
 }
 
 .h4_box {
@@ -57,17 +45,19 @@ h4 code {
 h5,
 .text-epsilon {
   @include fs-4;
-  padding: 0 10px;
-  margin: 0 20px 0 32px;
-  border-left: 4px solid #CCE6DF;
+  padding: 0 10px 0 0;
+  margin: 24px 0 22px 14px;
 }
 
 .h5_box {
-  margin-left: 40px;
+  margin-left: 14px;
+  font-size: 14px;
+  color: #555555;
 }
+
 h6,
 .text-zeta {
-  @include fs-2;
+  @include fs-4;
 }
 
 

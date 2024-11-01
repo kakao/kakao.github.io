@@ -1,7 +1,7 @@
 // Typography
 
-$body-font-family:Spoqa Han Sans Neo, sans-serif ,'Nanum Gothic', system-ui, -apple-system;
-$mono-font-family: "SFMono-Regular", menlo, consolas, monospace !default;
+$body-font-family: Pretendard;
+$mono-font-family: Pretendard, monospace !default;
 $root-font-size: 14px !default; // Base font-size for rems
 $body-line-height: 1.4 !default;
 $content-line-height: 1.6 !default;
@@ -14,10 +14,12 @@ $font-size-1: 9px !default;
 $font-size-1-sm: 10px !default;
 $font-size-2: 11px !default; // h4 - uppercased!, h6 not uppercased, text-small
 $font-size-3: 12px !default; // h5
+$font-size-4-sm: 13px !default;
 $font-size-4: 14px !default;
-$font-size-5: 16px !default; // h3
-$font-size-6: 18px !default; // h2
-$font-size-7: 24px !default;
+$font-size-5: 16px !default; // h5
+$font-size-6: 18px !default; // h4
+$font-size-6-lg: 20px !default; // h3
+$font-size-7: 24px !default; //h2
 $font-size-8: 32px !default; // h1
 $font-size-9: 36px !default;
 $font-size-10: 42px !default;
@@ -32,10 +34,14 @@ $grey-dk-200: #44434d !default;
 $grey-dk-250: #302d36 !default;
 $grey-dk-300: #27262b !default;
 $grey-dk-400: #f6f6f6 !default;
+$grey-dk-500: #555555 !default;
+$grey-dk-600: #666666 !default;
+$grey-dk-700: #fcfcfc !default;
 $grey-lt-000: #f5f6fa !default;
 $grey-lt-100: #eeebee !default;
 $grey-lt-200: #ecebed !default;
 $grey-lt-300: #e6e1e8 !default;
+$grey-lt-400: #f7f7f7 !default;
 $purple-000: #7253ed !default;
 $purple-100: #5e41d0 !default;
 $purple-200: #4e26af !default;
@@ -61,6 +67,7 @@ $red-000: #f77e7e !default;
 $red-100: #f96e65 !default;
 $red-200: #e94c4c !default;
 $red-300: #dd2e2e !default;
+$red-400: #f43b3b !default;
 
 // Spacing
 
@@ -105,7 +112,7 @@ $nav-list-item-height: $sp-6 !default;
 $nav-list-item-height-sm: $sp-8 !default;
 $nav-list-expander-right: true;
 $content-width: 50rem !default;
-$header-height: 3.75rem !default;
+$header-height: 5rem !default;
 $search-results-width: $content-width - $nav-width !default;
 $transition-duration: 400ms;
 
