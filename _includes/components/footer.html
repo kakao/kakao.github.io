@@ -5,11 +5,7 @@
   <hr>
   <footer>
     {% if site.back_to_top %}
-        <div class="float-right mb-7 p_relative">
-          <a href="{{page.url}}#top" id="back-to-top" class="flex-justify-around">
-            <img src="https://t1.kakaocdn.net/olive/ossguide/btn_top.png" width="48" height="48" alt="top" />
-          </a>
-        </div>
+      <p><a href="#top" id="back-to-top">{{ site.back_to_top_text }}</a></p>
     {% endif %}
 
     {{ footer_custom }}
@@ -38,7 +34,7 @@
 {% endif %}
 <div>
 
-<!--<div class="text-center fs-3">-->
-<!--  © <a href="https://www.kakaocorp.com/" target="_blank"> Kakao Corp.</a> All rights reserved.<br>-->
-<!--  <span class="fs-2">This site uses <a href="https://github.com/just-the-docs/just-the-docs" target="_blank">Just the Docs</a>, a documentation theme for Jekyll.</span>-->
-<!--</div>-->
+<div class="text-center fs-3">
+  © <a href="https://www.kakaocorp.com/" target="_blank"> Kakao Corp.</a> All rights reserved.<br>
+  <span class="fs-2">This site uses <a href="https://github.com/just-the-docs/just-the-docs" target="_blank">Just the Docs</a>, a documentation theme for Jekyll.</span>
+</div>

@@ -7,29 +7,28 @@
   max-width: 100%;
   margin-bottom: $sp-5;
   overflow-x: auto;
-  border: rgba(#000000, 0.1) solid 1px
+  border-radius: $border-radius;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
 }
 
 table {
   display: table;
   min-width: 100%;
   border-collapse: separate;
-  border-spacing :0px;
 }
 
 th,
 td {
   @include fs-3;
 
-  min-width: 105px;
+  min-width: 120px;
   padding: $sp-2 $sp-3;
   background-color: $table-background-color;
-  border-bottom: $border rgba(#000000, 0.1);
-  border-left: $border rgba(#000000, 0.1);
+  border-bottom: $border rgba($border-color, 0.5);
+  border-left: $border $border-color;
 
   &:first-of-type {
     border-left: 0;
-    background-color: #f4f4f4;
   }
 }
 
@@ -50,8 +49,6 @@ tbody {
 
 thead {
   th {
-    border-bottom: $border rgba(#000000, 0.1);
-    background-color: #f4f4f4;
+    border-bottom: $border $border-color;
   }
 }
-

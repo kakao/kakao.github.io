@@ -195,7 +195,7 @@
   color: $search-result-preview-color;
   word-wrap: break-word;
   border-left: $border;
-  border-left-color: rgb(#ffffff , 0.1);
+  border-left-color: $border-color;
   @include fs-2;
 
   @include mq(sm) {

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 발표 영상
-parent: 카카오의 오픈소스 활동
+parent: ✔︎ 카카오의 오픈소스 활동
 has_children: true
 nav_order: 2
 ---

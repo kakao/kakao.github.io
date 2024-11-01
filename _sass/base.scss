@@ -1,7 +1,6 @@
 // Base element style overrides
 // stylelint-disable selector-no-type, selector-max-type, selector-max-specificity, selector-max-id
-//
-//@import url("../assets/css/pretendard.min.css");
+
 * {
   box-sizing: border-box;
 }
@@ -57,18 +56,23 @@ p {
 
 a {
   color: $link-color;
-  text-underline-offset : 3px;
+  text-decoration: none;
 }
 
 a:not([class]) {
   text-decoration: underline;
-  text-underline-offset : 3px;
+  text-decoration-color: $border-color;
+  text-underline-offset: 2px;
+
+  &:hover {
+    text-decoration-color: rgba($link-color, 0.45);
+  }
 }
 
 code {
-  font-family: $body-font-family;
-  font-size: $font-size-4-sm;
-  line-height: 20px;
+  font-family: $mono-font-family;
+  font-size: 1em;
+  line-height: $body-line-height;
 }
 
 figure,
@@ -88,14 +92,14 @@ img {
 hr {
   height: 1px;
   padding: 0;
-  margin: $sp-10 0;
+  margin: $sp-6 0;
   background-color: $border-color;
   border: 0;
 }
 
 // adds a GitHub-style sidebar to blockquotes
 blockquote {
-  margin: 24px 0;
+  margin: 10px 0;
 
   // resets user-agent stylesheets for blockquotes
   margin-block-start: 0;

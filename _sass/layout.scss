@@ -40,7 +40,6 @@
 }
 
 .main-content-wrap {
-  max-width: 860px;
   @include container;
 
   padding-top: $gutter-spacing-sm;
@@ -93,7 +92,7 @@
 
   @include mq(md) {
     display: block;
-    padding-top: $sp-7;
+    padding-top: $sp-5;
     padding-bottom: $gutter-spacing-sm;
     overflow-y: auto;
     flex: 1 1 auto;
@@ -186,7 +185,7 @@ body {
   left: 0;
   padding-top: $sp-4;
   padding-bottom: $sp-4;
-  color: $grey-dk-500;
+  color: $grey-dk-000;
   @include fs-2;
 
   @include mq(md) {

@@ -2,31 +2,27 @@
 layout: default
 title: OpenChain 인증
 parent: 오픈체인(OpenChain)
-grand_parent: 카카오의 오픈소스 활동
+grand_parent: ✔︎ 카카오의 오픈소스 활동
 nav_order: 1
 ---
 # {{ page.title }}
 <div class="summary">
-카카오는 2022년 오픈소스 소프트웨어 체계 및 컴플라이언스 역량을 인정받아 <strong>오픈소스 국제 표준 인증(<a href="https://www.iso.org/standard/81039.html">ISO/IEC 5230:2020</a>)</strong>을 획득했습니다.<br>
-카카오는 오픈소스 관리 서비스인 <a href="https://olive.kakao.com/intro" class="fw-700">올리브 플랫폼(Olive Platform)</a>을 바탕으로 오픈소스 라이선스 준수를 위해 노력하고 있습니다.
+카카오는 2022년 오픈소스 소프트웨어 체계 및 컴플라이언스 역량을 인정 받아 <strong>오픈소스 국제 표준 인증</strong>r(<a href="https://www.iso.org/standard/81039.html">ISO/IEC 5230:2020</a>)을 획득했습니다.<br>
+카카오는 오픈소스 관리 서비스인 <a href="https://olive.kakao.com/intro" class="fw-700">올리브 플랫폼(Olive Platform)</a>를 바탕으로 오픈소스 라이선스 준수를 위해 노력하고 있습니다.
 </div>
 
 ## 카카오, 오픈소스 국제 표준 인증 획득
 보도자료  2022년 01월 25일
+{: .fs-3 .fw-300 }
 
 
-
-<img src="https://t1.kakaocdn.net/olive/ossguide/kakaoopenchain.png" width="650"><br>
+<img src="{{ site.baseurl }}/assets/images/kakaoopenchain.png" width="650"><br>
 {: .openchain_bg}
 
-### 개요
+- **오픈체인(OpenChain) 프로젝트**의 <span>국제 표준 인증(ISO/IEC 5230:2020)</span>{: .text-red-200 } 획득
+- 카카오의 오픈소스 역량 적극적으로 공유하여 개발 생태계 발전에 기여할 것
 
-<span class="fw-300">보도자료 2022년 01월 25일:</span> [카카오, 오픈소스 국제 표준 인증 획득](https://www.kakaocorp.com/page/detail/9664){:target="_blank"}
 
-- **오픈체인(OpenChain) 프로젝트**의 <span>국제 표준 인증(ISO/IEC 5230:2020)</span>{: .text-red-200 } 획득 
-- 카카오의 오픈소스 역량을 적극적으로 공유하여 개발 생태계 발전에 기여할 것
-
-### 본문
 
 카카오(공동대표 여민수, 조수용)는 '오픈체인(OpenChain) 프로젝트'의 오픈소스 국제 표준 인증(ISO/IEC 5230:2020)을 획득했다고 25일 밝혔다.<br>
 
@@ -50,4 +46,7 @@ nav_order: 1
 
 카카오 정의정 CTO는 “다양한 산업 분야에서 오픈소스 사용이 증가하고 그 중요성이 커지고 있다”며 “그동안 쌓아온 카카오의 오픈소스 역량을 적극적으로 공유해 개발 생태계 발전에 앞장설 것”이라고 말했다.(끝)
 
+> **출처**
+> [https://www.kakaocorp.com/page/detail/9664](https://www.kakaocorp.com/page/detail/9664){:target="_blank" .link .fs-3}
+{: .fs-3}
 
