@@ -7,7 +7,7 @@
   max-width: 100%;
   margin-bottom: $sp-5;
   overflow-x: auto;
-  border: rgba(#000000, 0.1) solid 1px;
+  border: #dddddd solid 1px;
 }
 
 table {
@@ -24,8 +24,8 @@ td {
   min-width: 105px;
   padding: $sp-2 $sp-3;
   background-color: $table-background-color;
-  border-bottom: $border rgba(#000000, 0.1);
-  border-left: $border rgba(#000000, 0.1);
+  border-bottom: $border #dddddd;
+  border-left: $border #dddddd;
 
   &:first-of-type {
     border-left: 0;
@@ -50,7 +50,7 @@ tbody {
 
 thead {
   th {
-    border-bottom: $border rgba(#000000, 0.1);
+    border-bottom: $border #dddddd;
     background-color: #f4f4f4;
   }
 }
