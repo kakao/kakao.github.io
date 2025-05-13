@@ -70,5 +70,6 @@ nav_order: 2
 
 
 >  **참고하기**  
->  보다 더 다양한 오픈SW 검사도구들은 [오픈소스SW 라이선스 종합정보시스템(OLIS) - 그 외 오픈SW 검사도구](https://www.olis.or.kr/codeEye/OpensourceLicenseInsp.do){:target="_blank" .line}에서 확인할 수 있습니다.
+>  보다 더 다양한 오픈SW 검사도구들은 [오픈소스SW 라이선스 종합정보시스템(OLIS) - 그 외 오픈SW 검사도구](https://www.olis.or.kr/codeEye/OpensourceLicenseInsp.do){:target="_blank"}에서 확인할 수 있습니다.
 {: .h3_box}
+
