@@ -93,6 +93,11 @@ Redis와 유사한 다른 제품이나 포크들이 존재하지만, Redis에 �
 새로운 기능이 출시될 때는 Redis Insight의 가이드 및 튜토리얼을 통해 학습을 지원하고, 전용 Discord 채널, GitHub 이슈, Stack Overflow, Reddit 등에서 활발히 커뮤니티를 지원하고 있습니다.<br>
 공식 문서는 Redis API뿐만 아니라 모든 클라이언트 라이브러리 API에 대해서도 폭넓게 다루고 있습니다.
 
+> **참고하기**
+>
+> - 현재 버전 FAQ는 [https://redis.io/legal/licenses/](https://redis.io/legal/licenses/){:target="_blank"} 하단에서 확인할 수 있습니다.
+{: .fs-3}
+
 ### FAQ 주요 사항 (v7.4)
 #### 3. Redis 오픈 소스 제품의 최종 사용자에게 이러한 변경이 미치는 영향은 무엇입니까?
 {: .fs-4 .mt-0}
@@ -119,7 +124,7 @@ Redis는 [현재 보안 정책](https://github.com/redis/redis/security/policy){
 
 > **참고하기**
 >
-> - 현재 버전(v8.0) FAQ는 [https://redis.io/legal/licenses/](https://redis.io/legal/licenses/){:target="_blank"}, v7.4 FAQ는 [https://redis.io/blog/redis-adopts-dual-source-available-licensing/](https://redis.io/blog/redis-adopts-dual-source-available-licensing/){:target="_blank"} 하단에서 확인할 수 있습니다. 
+> - v7.4 FAQ는 [https://redis.io/blog/redis-adopts-dual-source-available-licensing/](https://redis.io/blog/redis-adopts-dual-source-available-licensing/){:target="_blank"} 하단에서 확인할 수 있습니다. 
 {: .fs-3}
 ︎ 
 
