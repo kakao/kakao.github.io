@@ -33,9 +33,14 @@ Redis 8.0 버전부터 AGPLv3 라이선스가 추가된 <span> RSALv2(Redis Sour
 - Redis를 **네트워크를 통한 서비스(SaaS, 클라우드 등)**로 제공하는 경우, Redis의 소스 코드뿐 아니라, 이를 기반으로 한 모든 수정 사항과 추가 개발 코드까지 공개해야 합니다.
 - 사용자가 소프트웨어에 네트워크를 통해 접근하는 경우에도 Copyleft 조건이 적용됩니다.
 
+---- 
+
+### 라이선스 변경 안내
+- 1차 변경 (2024년 3월): Redis는 BSD에서 RSAL 2.0 및 SSPL 1.0 듀얼 라이선스로 전환하며 상업적 사용을 제한했습니다.<br>
+- **2차 변경 (2025년 5월): Redis 8부터 AGPLv3 라이선스 옵션이 추가되며, 원 개발자 복귀와 함께 오픈소스 철학으로의 복귀를 선언했습니다.**
+
 
 ### 1차 라이선스 변경 (2024.03.22)
-{: .mt-0}
 
 {: .div_box}
 - Redis 7.4 ~ 7.8 버전부터는 RSALv2(Redis Source Available License) 또는 SSPLv1 중 하나를 선택하여 적용합니다.
@@ -122,18 +127,6 @@ Redis와 유사한 다른 제품이나 포크들이 존재하지만, Redis에 �
 > - FAQ는 [https://redis.io/legal/licenses/](https://redis.io/legal/licenses/){:target="_blank"} 하단에서 확인할 수 있습니다. 
 {: .fs-3}
 
-### 주의 사항
-변경에 따른 주의사항은 아래와 같습니다.
-
-- 새로운 라이선스에 따라, Redis 제품을 호스팅하는 클라우드 서비스 제공업체는 더 이상 Redis 소스 코드를 자유롭게 사용할 수 없습니다.
-  예를 들어, 클라우드 서비스 제공업체는 Redis 코드 유지 관리업체인 Redis와의 정식 라이선스 계약을 체결한 경우에만 Redis 7.4를 제공할 수 있습니다.
-- Redis는 Redis 8.0 버전에 [RSALv2(Redis Source Available License)](https://redis.com/legal/rsalv2-agreement/){:target="_blank"} 를 도입하였으며,
-  이는 사용 및 배포는 자유롭지만 Redis 이외의 클라우드 서비스 환경에서 Redis를 서비스 형태로 제공하는 것을 제한하는 라이선스입니다.
-- Redis 클라이언트 라이브러리는 기존과 동일하게 오픈소스 라이선스를 유지합니다.
-- Redis는 파트너 프로그램을 통해 클라우드 제공업체 및 시스템 통합업체에게 정식 라이선스를 기반으로 지속적인 업데이트 및 기술 지원을 제공합니다.
-- 기존 Redis Enterprise 고객에게는 이번 변경(v8.0)으로 인한 영향이 없으며, 커뮤니티 사용자에게 불이익을 주지 않으면서도, Redis 생태계의 지속 가능한 발전과 기술 혁신을 위한 전략적 결정입니다.
-
-︎ 
 
 ### 참고
 - Linux Foundataion에서 [Valkey](https://valkey.io/){:target="_blank"} 라는 이름으로 Redis 프로젝트를 Fork 하여 개발하고 있습니다.
