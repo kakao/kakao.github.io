@@ -7,7 +7,7 @@ nav_order: 3
 ---
 # {{ page.title }}
 
-## ElasticSearch: Elastic License 2.0, SSPL 듀얼 라이선스 적용
+## ElasticSearch: AGPL 3.0, Elastic License 2.0, SSPL 멀티 라이선스 적용
 ### 변경사항
 라이선스 변경사항은 아래와 같습니다.
 
