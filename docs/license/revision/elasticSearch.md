@@ -7,7 +7,7 @@ nav_order: 3
 ---
 # {{ page.title }}
 
-## ElasticSearch: Elastic License 2.0, SSPL 듀얼 라이선스 적용
+## ElasticSearch: AGPL 3.0, Elastic License 2.0, SSPL 멀티 라이선스 적용
 ### 변경사항
 라이선스 변경사항은 아래와 같습니다.
 
@@ -21,6 +21,7 @@ Elastic 8.16 릴리즈부터는 ElasticSearch와 Kibana에 AGPL3.0이 추가된 
 >
 > - **Elastic License 2.0:** 클라우드 서비스 공급자가 Elasticsearch 및 Kibana를 서비스로 제공하지 못하도록 제한합니다.
 > - **SSPL:** 외부에 서비스로 제공하는 경우 **서비스 소스 코드(Service Source Code)** 전체 공개의 의무가 있습니다.
+> - **AGPL 3.0:** GPLv3와 동일한 의무사항(배포 시 전체 코드 공개)을 가지며, 추가로 네트워크로 상호 작용하는 소프트웨어의 소스 코드를 공개해야 합니다.
 {: .fs-3}
 
 ### 주의사항

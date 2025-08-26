@@ -9,13 +9,304 @@ nav_order: 1
 <div class="summary">
 이 가이드에서는 오픈소스의 최신 동향을 알아봅니다.
 </div>
-• [리눅스 재단의 오픈소스 AI 모델의 가능성]({{page.url}}#리눅스-재단의-오픈소스-ai-모델의-가능성)<br>
-• [깃허브 코파일럿 소송, 미국 법원에서 기각]({{page.url}}#깃허브-코파일럿-소송-미국-법원에서-기각)<br>
-• [오픈소스 인공지능 인프라 Ollama에서 확인된 취약점: Probllama]({{page.url}}#오픈소스-인공지능-인프라-ollama에서-확인된-취약점-probllama)<br>
-• [국내외 오픈소스 소송 동향 분석]({{page.url}}#국내외-오픈소스-소송-동향-분석)<br>
-• [정부, 소프트웨어 공급망 보안 지침(가이드라인) 1.0 발표 (2024.05.12)]({{page.url}}#정부-소프트웨어-공급망-보안-지침가이드라인-10-발표-20240512)<br>
-• [XZ Open Source Attack : 오픈소스 커뮤니티의 신뢰를 이용한 최초의 공급망 공격 사례]({{page.url}}#xz-오픈소스-공격-최초의-공급망-공격-사례)<br>
+• [EU Cyber Resilience Act(CRA) 발효]({{page.url}}#eu-cyber-resilience-actcra-발효) <i>2025-07-15</i><br>
+• [“오픈소스가 AI 오케스트레이션의 핵심” 마이크로소프트 CEO]({{page.url}}#오픈소스가-ai-오케스트레이션의-핵심-마이크로소프트-ceo) <i>2025.05.02</i><br>
+• [AI 모델을 위한 OpenMDW 라이선스]({{page.url}}#ai-모델을-위한-openmdw-라이선스) <i>2025.04.20</i><br>
+• [생성형 AI와 오픈소스: 주요 모델의 OSAID 1.0 기준 분석]({{page.url}}#생성형-ai와-오픈소스-주요-모델의-osaid-10-기준-분석) <i>2025-02-24</i><br>
+• [미국 법원 “AI 학습에 콘텐트 무단 이용, 저작권법 위반"]({{page.url}}#미국-법원-ai-학습에-콘텐트-무단-이용-저작권법-위반) <i>2025.02.14</i><br>
+• [Google, 소프트웨어 구성 분석을 위한 오픈소스 라이브러리 출시]({{page.url}}#google-소프트웨어-구성-분석을-위한-오픈소스-라이브러리-출시) <i>2025.01.17</i><br>
+• [SPDX 3.0의 주요 변화 소개]({{page.url}}#spdx-30의-주요-변화-소개) <i>24.10.04</i><br>
+• [ElasticSearch, 3년 반만에 오픈소스로 복귀]({{page.url}}#elasticsearch-3년-반만에-오픈소스로-복귀) <i>2024.09.05</i><br>
+• [리눅스 재단의 오픈소스 AI 모델의 가능성]({{page.url}}#리눅스-재단의-오픈소스-ai-모델의-가능성) <i>2024.08.14</i><br>
+• [깃허브 코파일럿 소송, 미국 법원에서 기각]({{page.url}}#깃허브-코파일럿-소송-미국-법원에서-기각) <i>2024.07.10</i><br>
+• [오픈소스 인공지능 인프라 Ollama에서 확인된 취약점: Probllama]({{page.url}}#오픈소스-인공지능-인프라-ollama에서-확인된-취약점-probllama) <i>2024-05-31</i><br>
+• [국내외 오픈소스 소송 동향 분석]({{page.url}}#국내외-오픈소스-소송-동향-분석) <i>2024-07-24</i><br>
+• [정부, 소프트웨어 공급망 보안 지침(가이드라인) 1.0 발표 (2024.05.12)]({{page.url}}#정부-소프트웨어-공급망-보안-지침가이드라인-10-발표-20240512) <i>2024.05.12</i><br>
+• [XZ Open Source Attack : 오픈소스 커뮤니티의 신뢰를 이용한 최초의 공급망 공격 사례]({{page.url}}#xz-오픈소스-공격-최초의-공급망-공격-사례) <i>2024-03-28</i><br>
 • [2023년 오픈소스 동향 그리고, 2024년]({{page.url}}#2023년-오픈소스-동향-그리고-2024년)<br>
+
+----
+
+## EU Cyber Resilience Act(CRA) 발효
+[https://openssf.org/blog/2025/07/15/new-cyber-resilience-act-cra-brief-guide-for-oss-developers/](https://openssf.org/blog/2025/07/15/new-cyber-resilience-act-cra-brief-guide-for-oss-developers/){:target="_blank"}
+
+## 요약
+최근 EU에서 디지털 요소를 포함한 제품의 보안 수준을 법적으로 요구하는 Cyber Resilience Act(CRA)가 공식 발효되었습니다. CRA는 디지털 요소가 포함된 대부분의 하드웨어 및 소프트웨어 제품(Product with Digital Elements, PDE)에 대해 Secure by Design and by Default 원칙을 요구하며, 전체 제품 수명주기 동안 사이버보안 요구사항을 부여하는 규제입니다.
+
+## 내용
+
+CRA는 유럽 내 유통되는 EU 시장에  판매·배포되는 모든 디지털 제품·소프트웨어를 대상으로 하며, 이를 위반할 경우 최대 €15M 또는 전년도 전세계 매출의 2.5% 중 더 높은 금액의 과징금이 부과될 수 있습니다.
+* 2026년 9월 11일부터: CRA의 보안 사고 보고, 취약점 공개 체계 등 일부 의무사항 적용
+* 2027년 12월 11일부터: 전체 적용 시작
+
+비영리 목적의 오픈소스 소프트웨어는 원칙적으로 CRA 적용 대상에서 제외되지만, 다음과 같은 경우 규제 대상이 될 수 있습니다.
+* 상업적으로 배포되거나,
+* 제품(PDE)에 통합되어 유통되는 경우
+
+CRA의 주요 요구사항은 다음과 같습니다.
+* SBOM(Software Bill of Materials) 작성 및 유지 의무화 (형식은 SPDX 3.0 / CycloneDX 권장)
+* 제품 내 보안 취약점 관리 및 EU 보안기관 보고 체계 구축 
+* 제품 출시 이후 최소 5년간 보안 업데이트 무상 제공 (이보다 짧은 기간을 적용하려면 명확히 사전 고지)
+* 전체 공급망에 걸친 보안 책임 및 통제 체계 문서화
+
+CRA 전체 조문 및 시행 세부 내용은 [EU 공식 문서](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32024R2847){:target="_blank"}에서 확인할 수 있습니다.<br>
+그리고 디지털 제품 라이프사이클 전반에 걸쳐 사이버보안을 법적 의무로 강제하고, 보안 설계·업데이트·취약점 보고까지 포괄하는 포괄형 규제는 글로벌 최초라고 합니다.
+
+----
+
+## “오픈소스가 AI 오케스트레이션의 핵심” 마이크로소프트 CEO
+[https://www.itworld.co.kr/article/3975922/오픈소스가-ai-오케스트레이션의-핵심-마이크로.html](https://www.itworld.co.kr/article/3975922/오픈소스가-ai-오케스트레이션의-핵심-마이크로.html){:target="_blank"}
+
+## 요약
+최근 메타의 라마콘 개발자 행사에서 MS 나델라와 메타의 마크주커버그와의 대담에서 아래와 같은 내용이 논의되었다고 합니다.<br>
+AI 성능 개선 속도가 매우 빠르게 향상되고, 코드의 30%이상이 AI로 작성되고 있다고 합니다.
+
+## 내용
+마이크로소프트 CEO 나델라는 AI 오케스트레이션 기술이 충분히 발전했으며, 오픈소스가 이 발전의 핵심 요소라고 강조했습니다.<br>
+현재 AI 성능은 6-12개월마다 10배씩 향상되고 있으며, 지식 증류 기술을 통해 대형 모델의 90-95% 지능을 훨씬 효율적으로 구현할 수 있게 되었습니다.<br>
+나델라는 마이크로소프트 코드의 최대 30%가 AI로 작성되었다고 밝혔고, 주커버그는 1년 내 소프트웨어 개발의 절반이 AI로 이뤄질 것이라고 전망했습니다.<br>
+데이터브릭스 CEO는 장기적으로 모든 것이 오픈소스로 이동할 것이라고 예측했으며, 오픈소스가 AI 발전을 가속화하는 핵심 동력이라고 설명했습니다.<br>
+업계 리더들은 현재를 AI 시대의 시작점으로 보며, 앞으로 더욱 흥미진진한 혁신이 이어질 것이라고 전망했습니다.<br>
+
+----
+
+## AI 모델을 위한 OpenMDW 라이선스
+[https://github.com/OpenMDW/OpenMDW/blob/main/1.0/LICENSE.openmdw](https://github.com/OpenMDW/OpenMDW/blob/main/1.0/LICENSE.openmdw){:target="_blank"}
+
+### 요약
+AI 모델을 위한 OpenMDW 라이선스 (A permissive license specifically crafted for machine‑learning models)
+
+OpenMDW(Open Model Definition and Weights License)는 2025년 5월, Linux Foundation에서 발표되었으며,
+머신러닝 모델과 관련된 다양한 구성 요소(Model Materials)를 포괄적으로 다루는 허용적(permissive) 오픈소스 라이선스입니다.
+
+### 내용
+- AI 모델 전체를 포괄 : 모델 구조, 가중치, 관련 데이터, 문서, 소프트웨어 등 다양한 요소(Model Materials)에 대해 적용 가능 
+- 재배포 시 출처 명시 의무:원 저작자 및 OpenMDW 라이선스 고지 필수 
+- 출력물 자유 : 모델이 생성한 출력물(output)은 라이선스 적용 대상이 아니며 자유롭게 사용 가능 
+- 사용자 책임 명시: 데이터셋 등 포함된 구성 요소의 법적 권리는 사용자가 직접 확인하고 책임져야 함 
+- 특허 소송 시 라이선스 종료: 수혜자가 모델에 대해 특허 소송을 제기할 경우, 해당 라이선스는 자동 종료됨
+
+AI 모델을 안전하고 투명하게 공유할 수 있도록 설계된 허용적인 라이선스입니다.<br>
+다만,  학습 데이터가 포함된 경우, 해당 데이터에 제3자의 저작권, 개인정보, 계약 제한이 있을 수 있습니다.<br>
+→ 라이선스 적용 여부와 무관하게 사용자가 별도로 확인해야 합니다.<br>
+{: .h4_box}
+
+#### 기존 오픈소스 라이선스와의 차이점
+기존 오픈소스 라이선스는 "소스코드 중심"으로 설계되어 AI 모델의 비코드 요소(데이터, 가중치, 출력물 등)에 대해 라이선스 효력의 불확실성 이 있었습니다. <br>
+OpenMDW 라이선스는 모든 구성 요소를 공개해야 한다는 의무 없이 코드, 데이터, 가중치, 메타데이터 및 문서를 포괄하여 라이선스 적용 대상으로 하여, AI 모델 공유의 법적 명확성을 확보 합니다.
+
+>  **참고하기**
+>
+> * [penMDW 공식 웹사이트](https://openmdw.ai/){:target="_blank"}
+> * [FAQ](https://openmdw.ai/faq){:target="_blank"}  
+{: .h5_box}
+
+
+----
+
+## 생성형 AI와 오픈소스: 주요 모델의 OSAID 1.0 기준 분석
+[생성형 AI와 오픈소스 : 주요 모델의 OSAID 1.0 기준 분석](https://www.oss.kr/oss_guide/show/c183d6f6-7530-4097-bc23-cc1c43d5a3fe){:target="_blank"}
+
+### 요약
+생성형 AI 기술의 접근성과 활용성을 높이는 오픈소스 AI 생태계에 대해 다루고 있습니다.
+또한, 앞으로 오픈소스 AI 생태계가 생성형 AI 기술 발전에 중요한 역할을 하고 있으며, 더 많은 기업들이 이러한 흐름에 동참할 가능성이 높아지고 있다고 예측하고 있습니다.
+
+### 내용
+
+- 오픈소스 AI 모델의 부상 
+  - 중국 스타트업 딥시크(DeepSeek)가 DeepSeek-R1 모델을 오픈소스로 공개함에 따라, 기업들의 오픈소스 전략 채택 가능성 증가
+{: .h3_box}
+- 주요 생성형 AI 모델 분석 (OSAID 1.0 기준)
+  - Mixtral 8x7과 DeepSeek-R1 모델이 가장 많은 오픈소스 조건을 충족 
+  - Stable Diffusion 3.5와 Llama 3.1 모델은 일부 요건만 충족
+{: .h3_box}
+
+- 기업의 오픈소스 전략 채택 이유 
+  - 개발 비용 절감 
+  - 연구 효율성 향상 
+  - 다양한 연구 커뮤니티 및 개발자 참여를 통한 기술 발전 가속화
+{: .h3_box}
+
+- 오픈소스 AI 정의 1.0의 주요 기준 및 필수 요소 
+  - 자유: 사용, 연구, 수정 및 개선, 공유의 자유 
+  - 공개 정보: 데이터, 코드, 매개변수 정보
+{: .h3_box}
+
+----
+## 미국 법원 “AI 학습에 콘텐트 무단 이용, 저작권법 위반”
+[https://www.joongang.co.kr/article/25313874](https://www.joongang.co.kr/article/25313874){:target="_blank"}
+
+### 요약
+미국 법원이 AI 개발을 위한 무단 저작물 활용이 저작권법 위반이라는 판결을 내렸습니다.
+
+Thomson Reuters vs. Ross Intelligence
+- **쟁점**: AI가 법률 콘텐츠를 학습하는 것이 저작권법 위반인지 여부
+- **사건 개요**: 법률 연구 AI 스타트업 **Ross Intelligence**가 Thomson Reuters의 법률 데이터베이스 **Westla**w의 콘텐츠를 무단으로 사용해 AI를 학습시켰다는 이유로 소송을 당함.
+- **결과**: 미국 법원은 AI 학습을 위한 무단 사용이 저작권법 위반이라고 판결.(공정이용 아님)
+
+### 내용
+- **사건 개요** 
+  - 톰슨 로이터(Thomson Reuters)는 AI 법률 검색 스타트업 로스 인텔리전스(Ross Intelligence)가 **자사의 법률 데이터(Westlaw)를 동의 없이 AI 학습에 사용했다**며 소송을 제기. 
+  - **로스 인텔리전스의 반박**: Westlaw의 판결문 요약(헤드노트)을 AI 훈련 데이터로 사용했으므로 **공정 이용(fair use)**에 해당한다고 주장. 
+- **법원 판결** 
+  - 법원은 로스 인텔리전스의 AI 서비스가 Westlaw와 **직접 경쟁**하며, **대량의 데이터를 변형 없이 사용**했기 때문에 공정 이용에 해당하지 않는다고 판단. 
+  - 이는 **AI 학습과 저작권법 사이의 공정 이용 원칙을 다룬 최초의 주요 판례**로 평가됨. 
+- **향후 영향** 
+  - AI 모델은 그동안 책, 기사, 웹사이트 등 저작권이 있는 콘텐츠를 학습해왔으며, AI 기업들은 이를 공정 이용이라고 주장해왔음. 
+  - 하지만 이번 판결이 다른 유사 소송에서도 인용될 경우, AI 기업들이 저작권 문제로 불리한 상황에 처할 가능성이 커짐. 
+  - 로스 인텔리전스가 항소할 가능성이 높으며, 결과에 따라 향후 생성 AI 관련 소송에도 영향을 미칠 것으로 예상. 
+- **관련 소송 사례** 
+  - 뉴욕타임스(NYT)는 오픈AI에, 미국의 주요 일간지 8곳은 마이크로소프트(MS)에 관련 소송 
+    - [오픈AI, 미국 8개 신문사로부터 저작권 소송...변호사 30여명 ... ](https://www.aitimes.com/news/articleView.html?idxno=159263){:target="_blank"}
+  - 국내에서도 지난달 지상파 3사가 “네이버가 생성 AI 하이퍼클로바X에 학습에 기사를 무단으로 썼다”며 소송 제기 
+    - [지상파 3사, 네이버에 뉴스데이터 저작권 침해 소송](https://www.etnews.com/20250113000399){:target="_blank"}
+
+AI 모델의 학습을 위한 저작권 자료 사용에 대한 법적 논쟁은 계속되고 있으며, 이러한 판결들은 향후 AI 개발과 저작권 보호 간의 균형을 어떻게 맞출 것인지에 대한 중요한 선례가 될 것으로 보입니다.
+
+----
+
+## Google, 소프트웨어 구성 분석을 위한 오픈소스 라이브러리 출시
+[https://www.securityweek.com/google-releases-open-source-library-for-software-composition-analysis/](https://www.securityweek.com/google-releases-open-source-library-for-software-composition-analysis/){:target="_blank"}
+
+### 요약
+구글은 OSV-SCALIBR(Software Composition Analysis LIBRary)라는 오픈소스 소프트웨어 구성 분석(SCA) 라이브러리를 발표했습니다. 이 도구는 Go 언어로 작성된 파일 시스템 스캐너로, 소프트웨어 구성 정보 추출과 취약점 식별을 지원합니다.
+
+**주요 기능**
+- 취약점 스캐닝 기능 제공
+- SPDX 및 CycloneDX 형식의 SBOM(소프트웨어 자재 명세서) 생성
+- 독립 실행형 바이너리로 사용하거나 Go 프로젝트에 라이브러리로 통합 가능
+- Linux, Windows, macOS에서 패키지, 바이너리, 소스 코드 스캔 가능
+- 다양한 프로그래밍 언어의 아티팩트 및 잠금 파일(lockfile) 스캔 지원
+
+### 내용
+OSV-SCALIBR는 소프트웨어 추출 및 취약점 탐지를 위한 플러그인 기반 아키텍처를 사용하며, 기본 제공 플러그인은 독립 실행형 바이너리로 실행될 때 자동으로 활성화됩니다. 또한 사용자 정의 플러그인도 지원합니다.
+
+**구글 내 활용 및 통합 계획**
+- 내부 활용: 구글에서 라이브 호스트, 코드 저장소, 컨테이너를 대상으로 SCA 작업에 사용되며, SBOM 생성 및 취약점 탐지를 통해 데이터 보호에 기여.
+- 통합 및 확장: OSV-Scanner와 통합 중이며, 향후 설치된 패키지 추출, SBOM 생성, 약한 자격 증명 스캔 기능 추가 예정.
+- **OSV-Scanner V2 발표 예정**: OSV-SCALIBR가 주요 인터페이스로 발전하며, 기존 사용자도 하위 호환성을 유지하면서 계속 사용할 수 있음.
+
+참고 : [OSV-Scanner 발표 (2022년 12월 13일)](https://security.googleblog.com/2022/12/announcing-osv-scanner-vulnerability.html){:target="_blank"}
+
+
+
+----
+
+## SPDX 3.0의 주요 변화 소개
+
+### 요약
+SPDX(Software Package Data Exchange)는 소프트웨어와 오픈소스 구성 요소의 라이선스 및 보안 정보를 표준화하여 관리할 수 있게 해주는 스펙입니다. 이번에 발표된 3.0 버전은 오픈소스 및 라이선스 관리에서 더 효과적이고 유연하며, 폭넓은 활용을 가능하게 하는 주요 변화를 포함하고 있습니다.
+1. **JSON-LD 형식 지원**: SPDX 3.0은 JSON-LD 형식을 도입해 데이터의 문맥(@context)을 명확히 정의하고 링크 데이터를 통해 다른 시스템과 자동으로 연결하여 상호 운용성을 강화했습니다.
+2. **확장된 데이터 모델**: 새로운 데이터 유형을 정의할 수 있는 SuperClasses를 추가해, 기존 버전보다 특정 요구에 맞는 맞춤형 데이터 관리가 가능해졌습니다.
+3. **다양한 프로필 지원**: 라이선스, 보안, AI/ML, 소프트웨어 등 특정 목적에 맞는 프로필을 통해 필요한 데이터만 포함하는 효율적인 SBOM 구성이 가능해졌습니다.
+4. **AI/ML 프로필**: 3번에서 언급한 프로필 중 하나로, AI 모델의 학습 데이터, 파라미터, 종속성 등을 체계적으로 관리하여 AI 프로젝트에 특화된 법적 준수성과 보안 강화를 지원합니다.
+
+### 내용
+
+#### JSON-LD 형식 지원
+JSON-LD는 3.0 버전의 권장 포맷으로, 기존 JSON과 유사하지만, 데이터의 문맥(@context)을 정의하고 링크 데이터를 통해 다른 리소스와 연결할 수 있는 구조입니다. @context 필드는 JSON 데이터의 각 항목이 의미하는 바를 URL로 명확히 설명해 주며, 이를 통해 다양한 시스템과 통합 시 데이터 해석 오류를 줄일 수 있습니다.
+
+아래 예시에서 name은 schema.org의 이름 속성을 가리키고, license는 SPDX에서 정의된 라이선스 링크를 참조합니다. 이를 통해 다른 시스템에서도 이 데이터가 프로젝트 이름과 라이선스를 의미하는 것으로 해석될 수 있으며, SPDX 라이선스 데이터와 자동으로 연결될 수 있습니다.
+```
+{
+    "@context": {
+        "name": "http://schema.org/name",
+        "license": "https://spdx.org/licenses/"
+    },
+    "name": "SampleProject",
+    "license": "MIT"
+}
+```
+
+#### 확장된 데이터 모델
+   기존 2.3 버전에서는 새로운 데이터 유형을 정의할 수 없어, 스펙에 맞지 않는 정보들을 형식에 맞춰 끼워 넣어야 했지만, 이제는 SuperClasses를 통해 특정 요구사항에 맞는 새로운 데이터 유형을 자유롭게 추가할 수 있습니다.
+
+예를 들어, 의료 분야 소프트웨어의 SBOM을 작성할 때 HealthRecord라는 클래스를 추가할 수 있습니다. HealthRecord는 File 클래스를 상속하여 의료 데이터 파일을 정의하고, compliance와 같은 추가 필드를 통해 해당 데이터의 규정 준수 상태를 명시할 수 있습니다.
+```
+{
+    "@type": "spdx:HealthRecord",
+    "name": "PatientDataFile",
+    "source": "https://healthdata.org/patient-data",
+    "compliance": "HIPAA"
+}
+```
+
+#### 다양한 프로필 지원
+   SPDX 3.0은 프로필 개념을 도입하였습니다. 프로필은 특정 목적을 위한 데이터 모델의 집합으로, 자바의 패키지처럼 연관된 클래스들을 그룹화하여 필요한 정보를 간결하게 관리할 수 있게 해줍니다.
+
+주요 프로필에는 소프트웨어 프로필, 라이선스 프로필, 보안 프로필, AI/ML 프로필 등이 있으며 이를 활용하여 프로젝트 요구사항에 맞는 데이터만 효율적으로 문서화할 수 있습니다.
+* 보안 프로필을 활용하면 종속성 정보와 패키지 간 의존성 중심으로 SBOM을 구성해 보안 점검을 용이하게 만들 수 있습니다.
+* AI/ML 프로젝트는 AI/ML 프로필을 통해 데이터세트 출처와 모델 파라미터를 문서화함으로써 AI 모델의 재현성 및 투명성을 높일 수 있습니다.
+
+#### AI/ML 프로필
+   SPDX 3.0은 AI와 머신러닝 프로젝트를 위한 AI/ML 프로필을 새롭게 도입하여, AI 시스템의 라이프사이클 전반에서 요구되는 정보들을 체계적으로 관리할 수 있게 했습니다.
+
+아래 예시는 JSON-LD 형식으로 구성된 간단한 AI/ML 프로필 예시입니다. dataset 필드로 모델 학습에 사용된 데이터세트와 그 출처, 라이선스를 기록하며, model 필드로 모델 구조와 학습 파라미터를 포함합니다. 이로써 AI 모델의 데이터 출처와 학습 환경을 문서화하고, 법적 준수와 보안 관리에 도움을 줍니다.
+```
+{
+  "@context": {
+      "spdx": "https://spdx.dev/schema#",
+      "name": "http://schema.org/name",
+      "version": "http://schema.org/version",
+      "dataset": "http://schema.org/Dataset",
+      "model": "https://spdx.dev/schema#Model",
+      "parameter": "https://spdx.dev/schema#Parameter"
+  },
+  "spdx:Profile": "AI/ML Profile",
+  "name": "AI Model for Image Classification",
+  "version": "1.0.0",
+  "dataset": {
+      "@type": "spdx:Dataset",
+      "name": "ImageNet",
+      "source": "https://www.image-net.org/",
+      "license": "MIT"
+   },
+  "model": {
+      "@type": "spdx:Model",
+      "name": "ResNet-50",
+      "framework": "TensorFlow",
+      "parameter": [
+        {
+            "@type": "spdx:Parameter",
+            "name": "learning_rate",
+            "value": "0.001"
+        },
+        {
+            "@type": "spdx:Parameter",
+            "name": "batch_size",
+            "value": "32"
+        }
+      ]
+  }
+}
+```
+
+----
+## ElasticSearch, 3년 반만에 오픈소스로 복귀
+[https://www.elastic.co/kr/blog/elasticsearch-is-open-source-again](https://www.elastic.co/kr/blog/elasticsearch-is-open-source-again){:target="_blank"}
+
+### 요약
+ElasticSearch가 오픈소스로 복귀합니다. 이에 향후 몇 주 내에 AGPLv3 라이선스가 추가로 적용될 예정입니다.
+이는 지난 2021년에 AWS와 시작된 시작된 상표권 분쟁이 일단락되었기 때문입니다. <br><br>
+
+양사 간 분쟁이 발생한 이유는 2015년 AWS가 ElasticSearch의 코드를 이용해 자체 매니지드 서비스 'AWS ElasticSearch 서비스'를 만든 후 유료 서비스로 제공해 왔기 때문입니다. 공개된 소스코드를 그대로 사용해 수익화할 뿐 아니라 엘라스틱의 제품명을 그대로 사용하면서 사용자들에게 혼선을 줬다는 지적입니다.
+
+### 내용
+[ElasticSearch: AGPL 3.0, Elastic License 2.0, SSPL 멀티 라이선스 적용]({{page.baseurl}}docs/license/revision/elasticSearch/){:target="_blank"}
+
+Elastic 8.16 릴리즈부터는 ElasticSearch와 Kibana에 AGPL3.0이 추가된 AGPL 3.0, Elastic License 2.0, SSPL의 멀티 라이선스가 적용됩니다.
+
+```
+Source code in this repository is covered by (i) a triple license under the "GNU
+Affero General Public License v3.0 only", "the Server Side Public License, v 1",
+and the "Elastic License 2.0", or (ii) an "Apache License 2.0" compatible
+license or (iii) solely under the "Elastic License 2.0", in each case, as noted
+in the applicable header. The default throughout the repository is a triple
+license under the "GNU Affero General Public License v3.0 only", "the Server
+Side Public License, v 1", and the "Elastic License 2.0", unless the header
+specifies another license. Code that is licensed solely under the "Elastic
+License 2.0" is found only in the x-pack folder.
+```
 
 ----
 
