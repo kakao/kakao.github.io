@@ -16,7 +16,7 @@ nav_order: 1
 • [미국 법원 “AI 학습에 콘텐트 무단 이용, 저작권법 위반"]({{page.url}}#미국-법원-ai-학습에-콘텐트-무단-이용-저작권법-위반) <i>2025.02.14</i><br>
 • [Google, 소프트웨어 구성 분석을 위한 오픈소스 라이브러리 출시]({{page.url}}#google-소프트웨어-구성-분석을-위한-오픈소스-라이브러리-출시) <i>2025.01.17</i><br>
 • [SPDX 3.0의 주요 변화 소개]({{page.url}}#spdx-30의-주요-변화-소개) <i>24.10.04</i><br>
-• [엘라스틱서치, 3년 반만에 오픈소스로 복귀]({{page.url}}#엘라스틱서치-3년-반만에-오픈소스로-복귀) <i>2024.09.05</i><br>
+• [ElasticSearch, 3년 반만에 오픈소스로 복귀]({{page.url}}#elasticsearch-3년-반만에-오픈소스로-복귀) <i>2024.09.05</i><br>
 • [리눅스 재단의 오픈소스 AI 모델의 가능성]({{page.url}}#리눅스-재단의-오픈소스-ai-모델의-가능성) <i>2024.08.14</i><br>
 • [깃허브 코파일럿 소송, 미국 법원에서 기각]({{page.url}}#깃허브-코파일럿-소송-미국-법원에서-기각) <i>2024.07.10</i><br>
 • [오픈소스 인공지능 인프라 Ollama에서 확인된 취약점: Probllama]({{page.url}}#오픈소스-인공지능-인프라-ollama에서-확인된-취약점-probllama) <i>2024-05-31</i><br>
@@ -203,7 +203,7 @@ SPDX(Software Package Data Exchange)는 소프트웨어와 오픈소스 구성 �
 
 ### 내용
 
-1. JSON-LD 형식 지원 
+#### JSON-LD 형식 지원
 JSON-LD는 3.0 버전의 권장 포맷으로, 기존 JSON과 유사하지만, 데이터의 문맥(@context)을 정의하고 링크 데이터를 통해 다른 리소스와 연결할 수 있는 구조입니다. @context 필드는 JSON 데이터의 각 항목이 의미하는 바를 URL로 명확히 설명해 주며, 이를 통해 다양한 시스템과 통합 시 데이터 해석 오류를 줄일 수 있습니다.
 
 아래 예시에서 name은 schema.org의 이름 속성을 가리키고, license는 SPDX에서 정의된 라이선스 링크를 참조합니다. 이를 통해 다른 시스템에서도 이 데이터가 프로젝트 이름과 라이선스를 의미하는 것으로 해석될 수 있으며, SPDX 라이선스 데이터와 자동으로 연결될 수 있습니다.
@@ -218,7 +218,7 @@ JSON-LD는 3.0 버전의 권장 포맷으로, 기존 JSON과 유사하지만, �
 }
 ```
 
-2. 확장된 데이터 모델
+#### 확장된 데이터 모델
    기존 2.3 버전에서는 새로운 데이터 유형을 정의할 수 없어, 스펙에 맞지 않는 정보들을 형식에 맞춰 끼워 넣어야 했지만, 이제는 SuperClasses를 통해 특정 요구사항에 맞는 새로운 데이터 유형을 자유롭게 추가할 수 있습니다.
 
 예를 들어, 의료 분야 소프트웨어의 SBOM을 작성할 때 HealthRecord라는 클래스를 추가할 수 있습니다. HealthRecord는 File 클래스를 상속하여 의료 데이터 파일을 정의하고, compliance와 같은 추가 필드를 통해 해당 데이터의 규정 준수 상태를 명시할 수 있습니다.
@@ -231,14 +231,14 @@ JSON-LD는 3.0 버전의 권장 포맷으로, 기존 JSON과 유사하지만, �
 }
 ```
 
-3. 다양한 프로필 지원
+#### 다양한 프로필 지원
    SPDX 3.0은 프로필 개념을 도입하였습니다. 프로필은 특정 목적을 위한 데이터 모델의 집합으로, 자바의 패키지처럼 연관된 클래스들을 그룹화하여 필요한 정보를 간결하게 관리할 수 있게 해줍니다.
 
 주요 프로필에는 소프트웨어 프로필, 라이선스 프로필, 보안 프로필, AI/ML 프로필 등이 있으며 이를 활용하여 프로젝트 요구사항에 맞는 데이터만 효율적으로 문서화할 수 있습니다.
 * 보안 프로필을 활용하면 종속성 정보와 패키지 간 의존성 중심으로 SBOM을 구성해 보안 점검을 용이하게 만들 수 있습니다.
 * AI/ML 프로젝트는 AI/ML 프로필을 통해 데이터세트 출처와 모델 파라미터를 문서화함으로써 AI 모델의 재현성 및 투명성을 높일 수 있습니다.
 
-4. AI/ML 프로필
+#### AI/ML 프로필
    SPDX 3.0은 AI와 머신러닝 프로젝트를 위한 AI/ML 프로필을 새롭게 도입하여, AI 시스템의 라이프사이클 전반에서 요구되는 정보들을 체계적으로 관리할 수 있게 했습니다.
 
 아래 예시는 JSON-LD 형식으로 구성된 간단한 AI/ML 프로필 예시입니다. dataset 필드로 모델 학습에 사용된 데이터세트와 그 출처, 라이선스를 기록하며, model 필드로 모델 구조와 학습 파라미터를 포함합니다. 이로써 AI 모델의 데이터 출처와 학습 환경을 문서화하고, 법적 준수와 보안 관리에 도움을 줍니다.
@@ -282,18 +282,17 @@ JSON-LD는 3.0 버전의 권장 포맷으로, 기존 JSON과 유사하지만, �
 ```
 
 ----
-## 엘라스틱서치, 3년 반만에 오픈소스로 복귀
-[https://v.daum.net/v/20240905095032926](https://v.daum.net/v/20240905095032926){:target="_blank"}
+## ElasticSearch, 3년 반만에 오픈소스로 복귀
+[https://www.elastic.co/kr/blog/elasticsearch-is-open-source-again](https://www.elastic.co/kr/blog/elasticsearch-is-open-source-again){:target="_blank"}
 
 ### 요약
-엘라스틱서치가 오픈소스로 복귀한다. 이에 향후 몇주내에 AGPL v3 라이선가 추가로 적용될 예정이다.
-이는 지난 2021년에 AWS와 시작된 시작된 상표권 분쟁이 일단락되었기 때문이다. <br><br>
+ElasticSearch가 오픈소스로 복귀합니다. 이에 향후 몇 주 내에 AGPLv3 라이선스가 추가로 적용될 예정입니다.
+이는 지난 2021년에 AWS와 시작된 시작된 상표권 분쟁이 일단락되었기 때문입니다. <br><br>
 
-* 양사 간 분쟁이 발생한 이유는 2015년 AWS가 엘라스틱서치의 코드를 이용해 자체 매니지드 서비스 'AWS 엘라스틱 서비스'를 만든 후 유료 서비스로 제공해왔기 때문이다. 공개된 소스코드를 그대로 사용해 수익화할 뿐 아니라 엘라스틱의 제품명을 그대로 사용하면서 사용자들에게 혼선을 줬다는 지적이다.
+양사 간 분쟁이 발생한 이유는 2015년 AWS가 ElasticSearch의 코드를 이용해 자체 매니지드 서비스 'AWS ElasticSearch 서비스'를 만든 후 유료 서비스로 제공해 왔기 때문입니다. 공개된 소스코드를 그대로 사용해 수익화할 뿐 아니라 엘라스틱의 제품명을 그대로 사용하면서 사용자들에게 혼선을 줬다는 지적입니다.
 
 ### 내용
-- 원문 블로그: [https://www.elastic.co/kr/blog/elasticsearch-is-open-source-again](https://www.elastic.co/kr/blog/elasticsearch-is-open-source-again){:target="_blank"}
-- [ElasticSearch: AGPL 3.0, Elastic License 2.0, SSPL 멀티 라이선스 적용]({{page.baseurl}}docs/license/revision/elasticSearch/){:target="_blank"}
+[ElasticSearch: AGPL 3.0, Elastic License 2.0, SSPL 멀티 라이선스 적용]({{page.baseurl}}docs/license/revision/elasticSearch/){:target="_blank"}
 
 Elastic 8.16 릴리즈부터는 ElasticSearch와 Kibana에 AGPL3.0이 추가된 AGPL 3.0, Elastic License 2.0, SSPL의 멀티 라이선스가 적용됩니다.
 
