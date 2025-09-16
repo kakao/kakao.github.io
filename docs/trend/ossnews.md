@@ -9,6 +9,7 @@ nav_order: 1
 <div class="summary">
 이 가이드에서는 오픈소스의 최신 동향을 알아봅니다.
 </div>
+• [AMD의 FSR 4 소스코드를 실수로 공개]({{page.url}}#amd의-fsr-4-소스코드를-실수로-공개) <i>2025-08-22</i><br>
 • [EU Cyber Resilience Act(CRA) 발효]({{page.url}}#eu-cyber-resilience-actcra-발효) <i>2025-07-15</i><br>
 • [“오픈소스가 AI 오케스트레이션의 핵심” 마이크로소프트 CEO]({{page.url}}#오픈소스가-ai-오케스트레이션의-핵심-마이크로소프트-ceo) <i>2025.05.02</i><br>
 • [AI 모델을 위한 OpenMDW 라이선스]({{page.url}}#ai-모델을-위한-openmdw-라이선스) <i>2025.04.20</i><br>
@@ -24,6 +25,28 @@ nav_order: 1
 • [정부, 소프트웨어 공급망 보안 지침(가이드라인) 1.0 발표 (2024.05.12)]({{page.url}}#정부-소프트웨어-공급망-보안-지침가이드라인-10-발표-20240512) <i>2024.05.12</i><br>
 • [XZ Open Source Attack : 오픈소스 커뮤니티의 신뢰를 이용한 최초의 공급망 공격 사례]({{page.url}}#xz-오픈소스-공격-최초의-공급망-공격-사례) <i>2024-03-28</i><br>
 • [2023년 오픈소스 동향 그리고, 2024년]({{page.url}}#2023년-오픈소스-동향-그리고-2024년)<br>
+
+----
+
+## AMD의 FSR 4 소스코드를 실수로 공개
+[https://www.tomshardware.com/pc-components/gpus/amds-already-taken-down-mistakenly-released-fsr-4-source-code-but-the-internet-never-forgets-forked-github-repositories-remain-accessible](https://www.tomshardware.com/pc-components/gpus/amds-already-taken-down-mistakenly-released-fsr-4-source-code-but-the-internet-never-forgets-forked-github-repositories-remain-accessible){:target="_blank"}
+
+## 요약
+AMD가 FSR 4 소스코드를 실수로 공개하여 바로 삭제했지만,  MIT 라이선스 적용으로 인해 사실상 회수가 불가능한 상황이 되었습니다.
+
+## 내용
+2025년 8월 중순, AMD는 GPUOpen GitHub 리포지토리를 업데이트하는 과정에서 FSR 4 소스코드를 잘못 업로드했습니다.
+해당 코드에는 MIT 라이선스가 적용되어 있었습니다.
+MIT 라이선스는 매우 허용적인 오픈소스 라이선스로, 누구나 자유롭게 수정·재배포가 가능합니다.
+따라서 AMD가 이후 코드를 삭제했음에도 불구하고, 이미 여러 GitHub 사용자들이 저장소를 [포크](https://github.com/GPUOpen-LibrariesAndSDKs/FidelityFX-SDK/tree/01446e6a74888bf349652fcf2cbf5f642d30c2bf/Kits/FidelityFX/upscalers/fsr4/internal/shaders){:target="_blank"}해 사본을 보관하고 있어 확산을 막기는 사실상 불가능합니다.
+AMD는 FSR 4를 원래 비공개로 유지하려 했으나, 이번 사고로 인해 의도치 않게 공개된 것과 다름없는 결과가 되었습니다.
+
+>  **참고하기**
+>
+> * [PC Gamer: AMD, FSR 4 소스코드 실수 공개… MIT 라이선스로 회수 어려워](https://www.pcgamer.com/hardware/graphics-cards/amds-fsr-4-open-source-whoopsie-daisy-may-be-harder-to-take-back-than-initially-thought-thanks-to-the-inclusion-of-a-difficult-to-revoke-mit-license/){:target="_blank"}
+> * [Tom’s Hardware: AMD, FSR 4 오픈소스 표시 오류 → 구버전 라데온 지원 가능성 드러나](https://www.tomshardware.com/pc-components/gpus/amd-accidentally-marks-fsr-4-open-source-source-code-reveals-potential-support-for-older-radeon-gpus){:target="_blank"}  
+    {: .h5_box}
+
 
 ----
 
