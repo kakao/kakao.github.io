@@ -35,11 +35,11 @@ nav_order: 1
 AMD가 FSR 4 소스코드를 실수로 공개하여 바로 삭제했지만,  MIT 라이선스 적용으로 인해 사실상 회수가 불가능한 상황이 되었습니다.
 
 ## 내용
-2025년 8월 중순, AMD는 GPUOpen GitHub 리포지토리를 업데이트하는 과정에서 FSR 4 소스코드를 잘못 업로드했습니다.
-해당 코드에는 MIT 라이선스가 적용되어 있었습니다.
-MIT 라이선스는 매우 허용적인 오픈소스 라이선스로, 누구나 자유롭게 수정·재배포가 가능합니다.
-따라서 AMD가 이후 코드를 삭제했음에도 불구하고, 이미 여러 GitHub 사용자들이 저장소를 [포크](https://github.com/GPUOpen-LibrariesAndSDKs/FidelityFX-SDK/tree/01446e6a74888bf349652fcf2cbf5f642d30c2bf/Kits/FidelityFX/upscalers/fsr4/internal/shaders){:target="_blank"}해 사본을 보관하고 있어 확산을 막기는 사실상 불가능합니다.
-AMD는 FSR 4를 원래 비공개로 유지하려 했으나, 이번 사고로 인해 의도치 않게 공개된 것과 다름없는 결과가 되었습니다.
+2025년 8월 중순, AMD는 GPUOpen GitHub 리포지토리를 업데이트하는 과정에서 FSR 4 소스코드를 잘못 업로드했습니다.<br>
+해당 코드에는 MIT 라이선스가 적용되어 있었습니다.<br>
+MIT 라이선스는 매우 허용적인 오픈소스 라이선스로, 누구나 자유롭게 수정·재배포가 가능합니다.<br>
+따라서 AMD가 이후 코드를 삭제했음에도 불구하고, 이미 여러 GitHub 사용자들이 저장소를 [포크](https://github.com/GPUOpen-LibrariesAndSDKs/FidelityFX-SDK/tree/01446e6a74888bf349652fcf2cbf5f642d30c2bf/Kits/FidelityFX/upscalers/fsr4/internal/shaders){:target="_blank"}해 사본을 보관하고 있어 확산을 막기는 사실상 불가능합니다.<br>
+AMD는 FSR 4를 원래 비공개로 유지하려 했으나, 이번 사고로 인해 의도치 않게 공개된 것과 다름없는 결과가 되었습니다.<br>
 
 >  **참고하기**
 >
